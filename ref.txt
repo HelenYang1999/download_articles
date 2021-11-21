@@ -1,0 +1,408 @@
+REFERENCES
+
+[1]	Z. Liang, Y. Guo, Y. Feng, W. Chen, L. Qiao, L. Zhou, J. Zhang, and H. Liu, “Stereo matching using multi-level cost volume and multi-scale feature constancy,” IEEE TPAMI, 2019.
+[2]	Y. Guo, F. Sohel, M. Bennamoun, M. Lu, and J. Wan, “Rotational projection statistics for 3D local surface description and object recognition,” IJCV, 2013.
+
+[3]	Y. Guo, M. Bennamoun, F. Sohel, M. Lu, and J. Wan, “3D object recognition in cluttered scenes with local surface features: a survey,” IEEE TPAMI, 2014.
+
+[4]	X. Chen, H. Ma, J. Wan, B. Li, and T. Xia, “Multi-view 3D object detection network for autonomous driving,” in CVPR, 2017.
+[5]	C. R. Qi, H. Su, K. Mo, and L. J. Guibas, “PointNet: Deep learning on point sets for 3D classification and segmentation,” in CVPR, 2017.
+
+[6]	Z. Wu, S. Song, A. Khosla, F. Yu, L. Zhang, X. Tang, and J. Xiao, “3D shapeNets: A deep representation for volumetric shapes,” in CVPR, 2015.
+
+[7]	M. A. Uy, Q.-H. Pham, B.-S. Hua, T. Nguyen, and S.-K. Yeung, “Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data,” in ICCV, 2019.
+
+[8]	A. X. Chang, T. Funkhouser, L. Guibas, P. Hanrahan, Q. Huang, Z.	Li, S. Savarese, M. Savva, S. Song, and H. Su, “ShapeNet: An information-rich 3D model repository,” arXiv preprint arXiv:1512.03012, 2015.
+
+[9]	K. Mo, S. Zhu, A. X. Chang, L. Yi, S. Tripathi, L. J. Guibas, and H.	Su, “PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding,” in CVPR, 2019.
+
+[10]	I. Armeni, O. Sener, A. R. Zamir, H. Jiang, I. Brilakis, M. Fischer, and S. Savarese, “3D semantic parsing of large-scale indoor spaces,” in CVPR, 2016.
+
+[11]	A. Dai, A. X. Chang, M. Savva, M. Halber, T. Funkhouser, and M.	Nießner, “ScanNet: Richly-annotated 3D reconstructions of indoor scenes,” in CVPR, 2017.
+
+[12]	T. Hackel, N. Savinov, L. Ladicky, J. Wegner, K. Schindler, and M.	Pollefeys, “Semantic3D.net: A new large-scale point cloud classification benchmark,” ISPRS, 2017.
+
+[13]	X. Song, P. Wang, D. Zhou, R. Zhu, C. Guan, Y. Dai, H. Su, H.	Li, and R. Yang, “Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving,” in CVPR, 2019.
+
+[14]	A. Geiger, P. Lenz, and R. Urtasun, “Are we ready for au-tonomous driving,” in CVPR, 2012.
+
+[15]	J. Behley, M. Garbade, A. Milioto, J. Quenzel, S. Behnke, C. Stach-niss, and J. Gall, “SemanticKITTI: A dataset for semantic scene understanding of lidar sequences,” in ICCV, 2019.
+[16]	G. Elbaz, T. Avraham, and A. Fischer, “3D point cloud registra-tion for localization using a deep neural network auto-encoder,” in CVPR, 2017, pp. 4631–4640.
+[17]	A. Zeng, K.-T. Yu, S. Song, D. Suo, E. Walker, A. Rodriguez, and J.	Xiao, “Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge,” in ICRA, 2017, pp. 1386–1383.
+
+[18]	X. Han, H. Laga, and M. Bennamoun, “Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era,” IEEE TPAMI, 2019.
+[19]	A. Ioannidou, E. Chatzilari, S. Nikolopoulos, and I. Kompatsiaris, “Deep learning advances in computer vision with 3D data: A survey,” ACM Computing Surveys, 2017.
+[20]	E. Ahmed, A. Saint, A. E. R. Shabayek, K. Cherenkova, R. Das,G.	Gusev, D. Aouada, and B. Ottersten, “Deep learning advances on different 3D data representations: A survey,” arXiv preprint arXiv:1808.01462, 2018.
+
+[21]	Y. Xie, J. Tian, and X. Zhu, “A review of point cloud semantic segmentation,” IEEE GRSM, 2020.
+
+[22]	M. M. Rahman, Y. Tan, J. Xue, and K. Lu, “Recent advances in 3D object detection in the era of deep neural networks: A survey,” IEEE TIP, 2019.
+[23]	K. Siddiqi, J. Zhang, D. Macrini, A. Shokoufandeh, S. Bouix, and S. Dickinson, “Retrieving articulated 3-D models using medial surfaces,” Machine Vision and Applications, vol. 19, no. 4, pp. 261–275, 2008.
+
+[24]	M. De Deuge, B. Douillard, C. Hung, and A. Quadros, “Unsuper-vised feature learning for classification of outdoor 3D scans,” in ACRA, 2013.
+[25]	S. Song, S. P. Lichtenberg, and J. Xiao, “Sun RGB-D: A RGB-D scene understanding benchmark suite,” in CVPR, 2015.
+
+[26]	A. Patil, S. Malla, H. Gang, and Y.-T. Chen, “The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes,” in ICRA, 2019.
+[27]	M.-F. Chang, J. Lambert, P. Sangkloy, J. Singh, S. Bak, A. Hartnett, D. Wang, P. Carr, S. Lucey, D. Ramanan et al., “Argoverse: 3D tracking and forecasting with rich maps,” in CVPR, 2019.
+
+[28]	R. Kesten, M. Usman, J. Houston, T. Pandya, K. Nadhamuni, A.	Ferreira, M. Yuan, B. Low, A. Jain, P. Ondruska et al., “Lyft level 5 av dataset 2019,” 2019.
+
+[29]	Q.-H. Pham, P. Sevestre, R. S. Pahwa, H. Zhan, C. H. Pang, Y.	Chen, A. Mustafa, V. Chandrasekhar, and J. Lin, “A*3D dataset: Towards autonomous driving in challenging environments,” ICRA, 2020.
+
+[30]	P. Sun, H. Kretzschmar, X. Dotiwalla, A. Chouard, V. Patnaik, P.	Tsui, J. Guo, Y. Zhou, Y. Chai, B. Caine, V. Vasudevan, W. Han, J.	Ngiam, H. Zhao, A. Timofeev, S. Ettinger, M. Krivokon, A. Gao, A.	Joshi, Y. Zhang, J. Shlens, Z. Chen, and D. Anguelov, “Scalabil-ity in perception for autonomous driving: Waymo open dataset,” in CVPR, 2020.
+
+[31]	H. Caesar, V. Bankiti, A. H. Lang, S. Vora, V. E. Liong, Q. Xu, A.	Krishnan, Y. Pan, G. Baldan, and O. Beijbom, “nuscenes: A multimodal dataset for autonomous driving,” in CVPR, 2020.
+
+[32]	D. Munoz, J. A. Bagnell, N. Vandapel, and M. Hebert, “Con-textual classification with functional max-margin markov net-works,” in CVPR, 2009, pp. 975–982.
+[33]	F. Rottensteiner, G. Sohn, J. Jung, M. Gerke, C. Baillard, S. Benitez, and U. Breitkopf, “The isprs benchmark on urban object classifi-cation and 3D building reconstruction,” ISPRS, 2012.
+[34]	A. Serna, B. Marcotegui, F. Goulette, and J.-E. Deschaud, “Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods,” in ICRA, 2014.
+[35]	B. Vallet, M. Bredif,´ A. Serna, B. Marcotegui, and N. Paparoditis, “Terramobilita/iqmulus urban point cloud analysis benchmark,” Computers & Graphics, vol. 49, pp. 126–133, 2015.
+[36]	X. Roynard, J.-E. Deschaud, and F. Goulette, “Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification,” IJRR, 2018.
+[37]	W. Tan, N. Qin, L. Ma, Y. Li, J. Du, G. Cai, K. Yang, and J. Li, “Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways,” arXiv preprint arXiv:2003.08284, 2020.
+
+[38]	N. Varney, V. K. Asari, and Q. Graehling, “Dales: A large-scale aerial lidar data set for semantic segmentation,” arXiv preprint arXiv:2004.11985, 2020.
+[39]	H. Lu, X. Chen, G. Zhang, Q. Zhou, Y. Ma, and Y. Zhao, “SCANet: Spatial-channel attention network for 3D object detection,” in ICASSP, 2019.
+[40]	H. Su, S. Maji, E. Kalogerakis, and E. Learned-Miller, “Multi-view convolutional neural networks for 3D shape recognition,” in ICCV, 2015.
+[41]	T. Yu, J. Meng, and J. Yuan, “Multi-view harmonized bilinear network for 3D object recognition,” in CVPR, 2018.
+
+[42]	Z. Yang and L. Wang, “Learning relationships for multi-view 3D object recognition,” in ICCV, 2019.
+
+[43]	C. R. Qi, H. Su, M. Nießner, A. Dai, M. Yan, and L. J. Guibas, “Volumetric and multi-view CNNs for object classification on 3D data,” in CVPR, 2016.
+[44]	Y. Feng, Z. Zhang, X. Zhao, R. Ji, and Y. Gao, “GVCNN: Group-view convolutional neural networks for 3D shape recognition,” in CVPR, 2018.
+[45]	C. Wang, M. Pelillo, and K. Siddiqi, “Dominant set clustering and pooling for multi-view 3D object recognition,” BMVC, 2017.
+
+[46]	C. Ma, Y. Guo, J. Yang, and W. An, “Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval,” IEEE TMM, 2018.
+[47]	X. Wei, R. Yu, and J. Sun, “View-gcn: View-based graph convolu-tional network for 3D shape analysis,” in CVPR, 2020.
+
+[48]	D. Maturana and S. Scherer, “VoxNet: A 3D convolutional neural network for real-time object recognition,” in IROS, 2015.
+
+[49]	G. Riegler, A. Osman Ulusoy, and A. Geiger, “OctNet: Learning deep 3D representations at high resolutions,” in CVPR, 2017.
+
+[50]	P.-S. Wang, Y. Liu, Y.-X. Guo, C.-Y. Sun, and X. Tong, “O-CNN: Octree-based convolutional neural networks for 3D shape analysis,” ACM TOG, 2017.
+[51]	T. Le and Y. Duan, “PointGrid: A deep network for 3D shape understanding,” in CVPR, 2018.
+
+[52]	Y. Ben-Shabat, M. Lindenbaum, and A. Fischer, “3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks,” arXiv preprint arXiv:1711.08241, 2017.
+
+[53]	M. Zaheer, S. Kottur, S. Ravanbakhsh, B. Poczos, R. R. Salakhut-dinov, and A. J. Smola, “Deep sets,” in NeurIPS, 2017.
+
+[54]	C. R. Qi, L. Yi, H. Su, and L. J. Guibas, “PointNet++: Deep hierarchical feature learning on point sets in a metric space,” in NeurIPS, 2017.
+[55]	M. Joseph-Rivlin, A. Zvirin, and R. Kimmel, “Mo-Net: Flavor the moments in learning to classify shapes,” in ICCVW, 2018.
+
+[56]	J. Yang, Q. Zhang, B. Ni, L. Li, J. Liu, M. Zhou, and Q. Tian, “Modeling point clouds with self-attention and gumbel subset sampling,” in CVPR, 2019.
+[57]	H. Zhao, L. Jiang, C.-W. Fu, and J. Jia, “PointWeb: Enhancing lo-cal neighborhood features for point cloud processing,” in CVPR, 2019.
+[58]	Y. Duan, Y. Zheng, J. Lu, J. Zhou, and Q. Tian, “Structural relational reasoning of point clouds,” in CVPR, 2019.
+
+[59]	H. Lin, Z. Xiao, Y. Tan, H. Chao, and S. Ding, “Justlookup: One millisecond deep feature extraction for point clouds by lookup tables,” in ICME, 2019.
+[60]	X. Sun, Z. Lian, and J. Xiao, “SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation,” in ACM MM, 2019.
+[61]	X. Yan, C. Zheng, Z. Li, S. Wang, and S. Cui, “Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling,” in CVPR, 2020.
+[62]	Y. Liu, B. Fan, S. Xiang, and C. Pan, “Relation-shape convolu-tional neural network for point cloud analysis,” in CVPR, 2019.
+ 
+
+[63]	A. Boulch, “Generalizing discrete convolutions for unstructured point clouds,” arXiv preprint arXiv:1904.02375, 2019.
+[64]	Y. Liu, B. Fan, G. Meng, J. Lu, S. Xiang, and C. Pan, “DensePoint: Learning densely contextual representation for efficient point cloud processing,” in ICCV, 2019.
+
+[65]	H. Thomas, C. R. Qi, J.-E. Deschaud, B. Marcotegui, F. Goulette, and L. J. Guibas, “KPConv: Flexible and deformable convolution for point clouds,” in ICCV, 2019.
+
+[66]	A. Boulch, “ConvPoint: continuous convolutions for point cloud processing,” Computers & Graphics, 2020.
+[67]	W. Wu, Z. Qi, and L. Fuxin, “PointConv: Deep convolutional networks on 3D point clouds,” in CVPR, 2019.
+
+[68]	P. Hermosilla, T. Ritschel, P.-P. Vazquez,´ A. Vinacua, and T. Ropinski, “Monte carlo convolution for learning on non-uniformly sampled point clouds,” ACM TOG, 2018.
+
+[69]	Y. Xu, T. Fan, M. Xu, L. Zeng, and Y. Qiao, “SpiderCNN: Deep learning on point sets with parameterized convolutional filters,” in ECCV, 2018.
+
+[70]	A. Matan, M. Haggai, and L. Yaron, “Point convolutional neural networks by extension operators,” ACM TOG, 2018.
+[71]	C. Esteves, C. Allen-Blanchette, A. Makadia, and K. Dani-ilidis, “Learning so(3) equivariant representations with spherical CNNs,” in ECCV, 2017.
+
+[72]	N. Thomas, T. Smidt, S. Kearnes, L. Yang, L. Li, K. Kohlhoff, and P. Riley, “Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds,” arXiv preprint arXiv:1802.08219, 2018.
+
+[73]	T. S. Cohen, M. Geiger, J. Koehler, and M. Welling, “Spherical CNNs,” ICLR, 2018.
+[74]	A. Poulenard, M.-J. Rakotosaona, Y. Ponty, and M. Ovsjanikov, “Effective rotation-invariant point CNN with spherical harmon-ics kernels,” in 3DV, 2019.
+
+[75]	F. Groh, P. Wieschollek, and H. P. Lensch, “Flex-Convolution,” in ACCV, 2018.
+[76]	B.-S. Hua, M.-K. Tran, and S.-K. Yeung, “Pointwise convolutional neural networks,” in CVPR, 2018.
+[77]	H. Lei, N. Akhtar, and A. Mian, “Octree guided cnn with spheri-cal kernels for 3D point clouds,” in CVPR, 2019.
+[78]	S. Lan, R. Yu, G. Yu, and L. S. Davis, “Modeling local geometric structure of 3D point clouds using geo-cnn,” in CVPR, 2019.
+[79]	Y. Li, R. Bu, M. Sun, W. Wu, X. Di, and B. Chen, “PointCNN: Convolution on x-transformed points,” in NeurIPS, 2018.
+[80]	J. Mao, X. Wang, and H. Li, “Interpolated convolutional networks for 3D point cloud understanding,” in ICCV, 2019.
+[81]	Z. Zhang, B.-S. Hua, D. W. Rosen, and S.-K. Yeung, “Rotation invariant convolutions for 3D point clouds deep learning,” in 3DV, 2019.
+
+[82]	A. Komarichev, Z. Zhong, and J. Hua, “A-CNN: Annularly convolutional neural networks on point clouds,” in CVPR, 2019.
+[83]	S. Kumawat and S. Raman, “LP-3DCNN: Unveiling local phase in 3D convolutional neural networks,” in CVPR, 2019.
+[84]	Y. Rao, J. Lu, and J. Zhou, “Spherical fractal convolutional neural networks for point cloud recognition,” in CVPR, 2019.
+[85]	M. Simonovsky and N. Komodakis, “Dynamic edge-conditioned filters in convolutional neural networks on graphs,” in CVPR, 2017.
+
+[86]	R. B. Rusu and S. Cousins, “3D is here: Point cloud library (PCL),” in ICRA, 2011.
+[87]	Y. Wang, Y. Sun, Z. Liu, S. E. Sarma, M. M. Bronstein, and J. M. Solomon, “Dynamic graph CNN for learning on point clouds,” ACM TOG, 2019.
+
+[88]	K. Zhang, M. Hao, J. Wang, C. W. de Silva, and C. Fu, “Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features,” arXiv preprint arXiv:1904.10014, 2019.
+
+[89]	Y. Yang, C. Feng, Y. Shen, and D. Tian, “FoldingNet: Point cloud auto-encoder via deep grid deformation,” in CVPR, 2018.
+[90]	C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich, “Going deeper with convolutions,” in CVPR, 2015.
+
+[91]	K. Hassani and M. Haley, “Unsupervised multi-task feature learning on point clouds,” in ICCV, 2019.
+[92]	J. Liu, B. Ni, C. Li, J. Yang, and Q. Tian, “Dynamic points agglomeration for hierarchical point sets learning,” in ICCV, 2019.
+
+[93]	Y. Shen, C. Feng, Y. Yang, and D. Tian, “Mining point cloud local structures by kernel correlation and graph pooling,” in CVPR, 2018.
+
+[94]	M. Dominguez, R. Dhamdhere, A. Petkar, S. Jain, S. Sah, and R.	Ptucha, “General-purpose deep point cloud feature extractor,” in WACV, 2018.
+
+[95]	C. Chen, G. Li, R. Xu, T. Chen, M. Wang, and L. Lin, “Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis,” in CVPR, 2019.
+[96]	D. Mullner,¨ “Modern hierarchical, agglomerative clustering algo-rithms,” arXiv preprint arXiv:1109.2378, 2011.
+[97]	Q. Xu, X. Sun, C.-Y. Wu, P. Wang, and U. Neumann, “Grid-gcn for fast and scalable point cloud learning,” in CVPR, 2020.
+[98]	J. Bruna, W. Zaremba, A. Szlam, and Y. Lecun, “Spectral networks and locally connected networks on graphs,” ICLR, 2014.
+[99]	M. Defferrard, X. Bresson, and P. Vandergheynst, “Convolutional neural networks on graphs with fast localized spectral filtering,” in NeurIPS, 2016.
+[100]	G. Te, W. Hu, A. Zheng, and Z. Guo, “RGCNN: Regularized graph CNN for point cloud segmentation,” in ACM MM, 2018.
+[101]	R. Li, S. Wang, F. Zhu, and J. Huang, “Adaptive graph convolu-tional neural networks,” in AAAI, 2018.
+[102]	Y. Feng, H. You, Z. Zhang, R. Ji, and Y. Gao, “Hypergraph neural networks,” in AAAI, 2019.
+[103]	C. Wang, B. Samari, and K. Siddiqi, “Local spectral graph convo-lution for point set feature learning,” in ECCV, 2018.
+[104]	Y. Zhang and M. Rabbat, “A Graph-CNN for 3D point cloud classification,” in ICASSP, 2018.
+[105]	G. Pan, J. Wang, R. Ying, and P. Liu, “3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN,” arXiv preprint arXiv:1812.06254, 2018.
+[106]	R. Klokov and V. Lempitsky, “Escape from cells: Deep kd-networks for the recognition of 3D point cloud models,” in ICCV, 2017.
+[107]	W. Zeng and T. Gevers, “3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues,” in ECCV, 2018.
+[108]	J. Li, B. M. Chen, and G. Hee Lee, “SO-Net: Self-organizing network for point cloud analysis,” in CVPR, 2018.
+[109]	S. Xie, S. Liu, Z. Chen, and Z. Tu, “Attentional ShapeContextNet for point cloud recognition,” in CVPR, 2018.
+[110]	H. You, Y. Feng, R. Ji, and Y. Gao, “PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion,” in ACM MM, 2018.
+[111]	H. You, Y. Feng, X. Zhao, C. Zou, R. Ji, and Y. Gao, “PVRNet: Point-view relation neural network for 3D shape recognition,” in AAAI, 2019.
+[112]	Y. Zhao, T. Birdal, H. Deng, and F. Tombari, “3D point capsule networks,” in CVPR, 2019.
+[113]	W. Chen, X. Han, G. Li, C. Chen, J. Xing, Y. Zhao, and H. Li, “Deep RBFNet: Point cloud feature learning using radial basis functions,” arXiv preprint arXiv:1812.04302, 2018.
+[114]	X. Liu, Z. Han, Y.-S. Liu, and M. Zwicker, “Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network,” in AAAI, 2019.
+[115]	P. Wu, C. Chen, J. Yi, and D. Metaxas, “Point cloud processing via recurrent set encoding,” in AAAI, 2019.
+[116]	C. Qin, H. You, L. Wang, C.-C. J. Kuo, and Y. Fu, “PointDAN: A multi-scale 3D domain adaption network for point cloud representation,” in NIPS, 2019.
+[117]	B. Sievers and J. Sauder, “Self-supervised deep learning on point clouds by reconstructing space,” in NIPS, 2019.
+[118]	R. Li, X. Li, P.-A. Heng, and C.-W. Fu, “PointAugment: An auto-augmentation framework for point cloud classification,” in CVPR, 2020.
+[119]	S. Belongie, J. Malik, and J. Puzicha, “Shape matching and object recognition using shape contexts,” IEEE TPAMI, 2002.
+[120]	A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin, “Attention is all you need,” in NeurIPS, 2017.
+[121]	D. Bobkov, S. Chen, R. Jian, Z. Iqbal, and E. Steinbach, “Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor,” IEEE RAL, 2018.
+[122]	S. Prokudin, C. Lassner, and J. Romero, “Efficient learning on point clouds with basis point sets,” in ICCV, 2019.
+[123]	L. Liu, W. Ouyang, X. Wang, P. Fieguth, J. Chen, X. Liu, and M.	Pietikainen,¨ “Deep learning for generic object detection: A survey,” IJCV, 2020.
+
+[124]	C. R. Qi, O. Litany, K. He, and L. J. Guibas, “Deep hough voting for 3D object detection in point clouds,” ICCV, 2019.
+ 
+
+[125]	W. Shi and R. Rajkumar, “Point-GNN: Graph neural network for 3D object detection in a point cloud,” in CVPR, 2020.
+[126]	J. Ku, M. Mozifian, J. Lee, A. Harakeh, and S. L. Waslander, “Joint 3D proposal generation and object detection from view aggregation,” in IROS, 2018.
+
+[127]	M. Liang, B. Yang, S. Wang, and R. Urtasun, “Deep continuous fusion for multi-sensor 3D object detection,” in ECCV, 2018.
+[128]	M. Liang, B. Yang, Y. Chen, R. Hu, and R. Urtasun, “Multi-task multi-sensor fusion for 3D object detection,” in CVPR, 2019.
+[129]	B. Yang, W. Luo, and R. Urtasun, “PIXOR: Real-time 3D object detection from point clouds,” in CVPR, 2018.
+[130]	W. Luo, B. Yang, and R. Urtasun, “Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net,” in CVPR, 2018.
+
+[131]	Y. Zeng, Y. Hu, S. Liu, J. Ye, Y. Han, X. Li, and N. Sun, “RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving,” IEEE RAL, 2018.
+
+[132]	Z. Yang, Y. Sun, S. Liu, X. Shen, and J. Jia, “IPOD: Intensive point-based object detector for point cloud,” arXiv preprint arXiv:1812.05276, 2018.
+
+[133]	S. Shi, X. Wang, and H. Li, “PointRCNN: 3D object proposal generation and detection from point cloud,” in CVPR, 2019.
+[134]	Z. Jesus, G. Silvio, and G. Bernard, “PointRGCN: Graph con-volution networks for 3D vehicles detection refinement,” arXiv preprint arXiv:1911.12236, 2019.
+
+[135]	V. Sourabh, L. Alex H., H. Bassam, and B. Oscar, “PointPainting: Sequential fusion for 3D object detection,” in CVPR, 2020.
+[136]	Y. Zhou and O. Tuzel, “VoxelNet: End-to-end learning for point cloud based 3D object detection,” in CVPR, 2018.
+[137]	A. H. Lang, S. Vora, H. Caesar, L. Zhou, J. Yang, and O. Bei-jbom, “PointPillars: Fast encoders for object detection from point clouds,” in CVPR, 2019.
+
+[138]	Z. Yang, Y. Sun, S. Liu, X. Shen, and J. Jia, “STD: Sparse-to-dense 3D object detector for point cloud,” in ICCV, 2019.
+[139]	C. R. Qi, W. Liu, C. Wu, H. Su, and L. J. Guibas, “Frustum PointNets for 3D object detection from RGB-D data,” in CVPR, 2018.
+
+[140]	X. Zhao, Z. Liu, R. Hu, and K. Huang, “3D object detection using scale invariant and feature reweighting networks,” in AAAI, 2019.
+
+[141]	M. Jiang, Y. Wu, and C. Lu, “PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation,” arXiv preprint arXiv:1807.00652, 2018.
+
+[142]	D. Xu, D. Anguelov, and A. Jain, “PointFusion: Deep sensor fusion for 3D bounding box estimation,” in CVPR, 2018.
+[143]	K. Shin, Y. P. Kwon, and M. Tomizuka, “RoarNet: A robust 3D object detection based on region approximation refinement,” in IEEE IV, 2019.
+
+[144]	Z. Wang and K. Jia, “Frustum convNet: Sliding frustums to ag-gregate local point-wise features for amodal 3D object detection,” in IROS, 2019.
+
+[145]	L. Johannes, M. Andreas, A. Thomas, H. Markus, N. Bernhard, and H. Sepp, “Patch refinement - localized 3D object detection,” arXiv preprint arXiv:1910.04093, 2019.
+
+[146]	D. Zhou, J. Fang, X. Song, C. Guan, J. Yin, Y. Dai, and R. Yang, “Iou loss for 2D/3D object detection,” in 3DV, 2019.
+[147]	Y. Chen, S. Liu, X. Shen, and J. Jia, “Fast point r-cnn,” in ICCV, 2019.
+[148]	S. Shi, C. Guo, L. Jiang, Z. Wang, J. Shi, X. Wang, and H. Li, “PV-RCNN: Point-voxel feature set abstraction for 3D object detection,” in CVPR, 2020.
+
+[149]	M. Feng, S. Z. Gilani, Y. Wang, L. Zhang, and A. Mian, “Relation graph network for 3D object detection in point clouds,” arXiv preprint arXiv:1912.00202, 2019.
+
+[150]	C. R. Qi, X. Chen, O. Litany, and L. J. Guibas, “ImVoteNet: Boosting 3D object detection in point clouds with image votes,” in CVPR, 2020.
+
+[151]	S. Shi, Z. Wang, X. Wang, and H. Li, “From points to parts: 3D object detection from point cloud with part-aware and part-aggregation network,” TPAMI, 2020.
+
+[152]	B. Yang, M. Liang, and R. Urtasun, “HDNET: Exploiting hd maps for 3D object detection,” in CoRL, 2018.
+
+[153]	J. Beltran,´ C. Guindel, F. M. Moreno, D. Cruzado, F. Garc´ıa, and A. De La Escalera, “BirdNet: a 3D object detection framework from lidar information,” in ITSC, 2018.
+
+[154]	B. Li, T. Zhang, and T. Xia, “Vehicle detection from 3D lidar using fully convolutional network,” arXiv preprint arXiv:1608.07916, 2016.
+
+[155]	B. Li, “3D fully convolutional network for vehicle detection in point cloud,” in IROS, 2017.
+[156]	M. Engelcke, D. Rao, D. Z. Wang, C. H. Tong, and I. Posner, “Vote3Deep: Fast object detection in 3D point clouds using effi-cient convolutional neural networks,” in ICRA, 2017.
+
+[157]	X. Li, J. E. Guivant, N. Kwok, and Y. Xu, “3D backbone network for 3D object detection,” in CoRR, 2019.
+[158]	Y. Yan, Y. Mao, and B. Li, “SECOND: Sparsely embedded convo-lutional detection,” Sensors, 2018.
+[159]	V. A. Sindagi, Y. Zhou, and O. Tuzel, “MVX-Net: Multimodal voxelnet for 3D object detection,” in ICRA, 2019.
+[160]	C. He, H. Zeng, J. Huang, X.-S. Hua, and L. Zhang, “Structure aware single-stage 3D object detection from point cloud,” in CVPR, 2020.
+
+[161]	Z. Yang, Y. Sun, S. Liu, and J. Jia, “3DSSD: Point-based 3D single stage object detector,” in CVPR, 2020.
+[162]	G. P. Meyer, A. Laddha, E. Kee, C. Vallespi-Gonzalez, and C. K. Wellington, “LaserNet: An efficient probabilistic 3D object detec-tor for autonomous driving,” CVPR, 2019.
+
+[163]	G. P. Meyer, J. Charland, D. Hegde, A. Laddha, and C. Vallespi-Gonzalez, “Sensor fusion for joint 3D object detection and seman-tic segmentation,” CVPRW, 2019.
+
+[164]	Q. Chen, L. Sun, Z. Wang, K. Jia, and A. Yuille, “Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots,” arXiv preprint arXiv:1912.12791, 2019.
+
+[165]	O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional networks for biomedical image segmentation,” in MICCAI, 2015, pp. 234–241.
+
+[166]	B. Graham, M. Engelcke, and L. van der Maaten, “3D semantic segmentation with submanifold sparse convolutional networks,” in CVPR, 2018.
+
+[167]	Q. Hu, Y. Guo, Y. Chen, J. Xiao, and W. An, “Correlation filter tracking: Beyond an open-loop system,” in BMVC, 2017.
+[168]	H. Liu, Q. Hu, B. Li, and Y. Guo, “Robust long-term tracking via instance specific proposals,” IEEE TIM, 2019.
+[169]	L. Bertinetto, J. Valmadre, J. F. Henriques, A. Vedaldi, and P. H. Torr, “Fully-convolutional siamese networks for object tracking,” in ECCV, 2016.
+
+[170]	S. Giancola, J. Zarzar, and B. Ghanem, “Leveraging shape com-pletion for 3D siamese tracking,” CVPR, 2019.
+[171]	M. Mueller, N. Smith, and B. Ghanem, “Context-aware correla-tion filter tracking,” in CVPR, 2017.
+[172]	J. Zarzar, S. Giancola, and B. Ghanem, “Efficient tracking pro-posals using 2D-3D siamese networks on lidar,” arXiv preprint arXiv:1903.10168, 2019.
+
+[173]	M. Simon, K. Amende, A. Kraus, J. Honer, T. Samann,¨ H. Kaulber-sch, S. Milz, and H. M. Gross, “Complexer-YOLO: Real-time 3D object detection and tracking on semantic point clouds,” CVPRW, 2019.
+
+[174]	H. Qi, C. Feng, Z. Cao, F. Zhao, and Y. Xiao, “P2B: Point-to-box network for 3D object tracking in point clouds,” in CVPR, 2020.
+[175]	X. Liu, C. R. Qi, and L. J. Guibas, “FlowNet3D: Learning scene flow in 3D point clouds,” in CVPR, 2019.
+[176]	Z. Wang, S. Li, H. Howard-Jenkins, V. Prisacariu, and M. Chen, “FlowNet3D++: Geometric losses for deep scene flow estima-tion,” in WACV, 2020.
+
+[177]	X. Gu, Y. Wang, C. Wu, Y. J. Lee, and P. Wang, “HPLFlowNet: Hierarchical permutohedral lattice flowNet for scene flow esti-mation on large-scale point clouds,” in CVPR, 2019.
+
+[178]	H. Fan and Y. Yang, “PointRNN: Point recurrent neural net-work for moving point cloud processing,” arXiv preprint arXiv:1910.08287, 2019.
+
+[179]	X. Liu, M. Yan, and J. Bohg, “MeteorNet: Deep learning on dynamic 3D point cloud sequences,” in ICCV, 2019.
+[180]	H. Mittal, B. Okorn, and D. Held, “Just go with the flow: Self-supervised scene flow estimation,” in CVPR, 2020.
+[181]	F. J. Lawin, M. Danelljan, P. Tosteberg, G. Bhat, F. S. Khan, and M. Felsberg, “Deep projective 3D semantic segmentation,” in CAIP, 2017.
+
+[182]	A. Boulch, B. Le Saux, and N. Audebert, “Unstructured point cloud semantic labeling using deep segmentation networks.” in 3DOR, 2017.
+ 
+
+[183]	B. Wu, A. Wan, X. Yue, and K. Keutzer, “SqueezeSeg: Convo-lutional neural nets with recurrent crf for real-time road-object segmentation from 3D lidar point cloud,” in ICRA, 2018.
+
+[184]	B. Wu, X. Zhou, S. Zhao, X. Yue, and K. Keutzer, “SqueezeSegV2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud,” in ICRA, 2019.
+
+[185]	A. Milioto, I. Vizzo, J. Behley, and C. Stachniss, “RangeNet++: Fast and accurate lidar semantic segmentation,” in IROS, 2019.
+[186]	H.-Y. Meng, L. Gao, Y.-K. Lai, and D. Manocha, “VV-Net: Voxel vae net with group convolutions for point cloud segmentation,” in ICCV, 2019.
+
+[187]	D. Rethage, J. Wald, J. Sturm, N. Navab, and F. Tombari, “Fully-convolutional point networks for large-scale point clouds,” in ECCV, 2018.
+
+[188]	H. Su, V. Jampani, D. Sun, S. Maji, E. Kalogerakis, M.-H. Yang, and J. Kautz, “SplatNet: Sparse lattice networks for point cloud processing,” in CVPR, 2018.
+
+[189]	R. A. Rosu, P. Schutt,¨ J. Quenzel, and S. Behnke, “LatticeNet: Fast point cloud segmentation using permutohedral lattices,” arXiv preprint arXiv:1912.05905, 2019.
+
+[190]	A. Dai and M. Nießner, “3DMV: Joint 3D-multi-view prediction for 3D semantic scene segmentation,” in ECCV, 2018.
+[191]	M. Jaritz, J. Gu, and H. Su, “Multi-view pointNet for 3D scene understanding,” in ICCVW, 2019.
+[192]	N. Audebert, B. Le Saux, and S. Lefevre,` “Semantic segmentation of earth observation data using multimodal and multi-scale deep networks,” in ACCV, 2016.
+
+[193]	M. Tatarchenko, J. Park, V. Koltun, and Q.-Y. Zhou, “Tangent convolutions for dense prediction in 3D,” in CVPR, 2018.
+[194]	F. N. Iandola, S. Han, M. W. Moskewicz, K. Ashraf, W. J. Dally, and K. Keutzer, “SqueezeNet: Alexnet-level accuracy with 50x fewer parameters and < 0.5 MB model size,” in ICLR, 2016.
+
+[195]	J. Huang and S. You, “Point cloud labeling using 3D convolu-tional neural network,” in ICPR, 2016.
+[196]	L. Tchapmi, C. Choy, I. Armeni, J. Gwak, and S. Savarese, “SEG-Cloud: Semantic segmentation of 3D point clouds,” in 3DV, 2017.
+[197]	J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional net-works for semantic segmentation,” in CVPR, 2015.
+[198]	A. Dai, D. Ritchie, M. Bokeloh, S. Reed, J. Sturm, and M. Nießner, “ScanComplete: Large-scale scene completion and semantic seg-mentation for 3D scans,” in CVPR, 2018.
+
+[199]	C. Choy, J. Gwak, and S. Savarese, “4D spatio-temporal convnets: Minkowski convolutional neural networks,” in CVPR, 2019.
+[200]	H.-Y. Chiang, Y.-L. Lin, Y.-C. Liu, and W. H. Hsu, “A unified point-based framework for 3D segmentation,” in 3DV, 2019.
+[201]	S. Wang, S. Suo, W.-C. Ma, A. Pokrovsky, and R. Urtasun, “Deep parametric continuous convolutional neural networks,” in CVPR, 2018.
+
+[202]	X. Ye, J. Li, H. Huang, L. Du, and X. Zhang, “3D recurrent neural networks with context fusion for point cloud semantic segmentation,” in ECCV, 2018.
+
+[203]	L. Landrieu and M. Simonovsky, “Large-scale point cloud seman-tic segmentation with superpoint graphs,” in CVPR, 2018.
+[204]	F. Engelmann, T. Kontogianni, J. Schult, and B. Leibe, “Know what your neighbors do: 3D semantic segmentation of point clouds,” in ECCVW, 2018.
+
+[205]	Z. Zhang, B.-S. Hua, and S.-K. Yeung, “ShellNet: Efficient point cloud convolutional neural networks using concentric shells statistics,” in ICCV, 2019.
+
+[206]	Q. Hu, B. Yang, L. Xie, S. Rosa, Y. Guo, Z. Wang, N. Trigoni, and A.	Markham, “RandLA-Net: Efficient semantic segmentation of large-scale point clouds,” CVPR, 2020.
+
+[207]	L.-Z. Chen, X.-Y. Li, D.-P. Fan, M.-M. Cheng, K. Wang, and S.-P.	Lu, “LSANet: Feature learning on point sets by local spatial attention,” arXiv preprint arXiv:1905.05442, 2019.
+
+[208]	C. Zhao, W. Zhou, L. Lu, and Q. Zhao, “Pooling scores of neighboring points for improved 3D point cloud segmentation,” in ICIP, 2019.
+
+[209]	R. Arandjelovic, P. Gronat, A. Torii, T. Pajdla, and J. Sivic, “NetVLAD: CNN architecture for weakly supervised place recognition,” in CVPR, 2016.
+
+[210]	F. Engelmann, T. Kontogianni, J. Schult, and B. Leibe, “Know what your neighbors do: 3D semantic segmentation of point clouds,” in ECCV, 2018.
+
+[211]	F. Engelmann, T. Kontogianni, and B. Leibe, “Dilated point con-volutions: On the receptive field of point convolutions,” in ICRA, 2020.
+[212]	Q. Huang, W. Wang, and U. Neumann, “Recurrent slice networks for 3D segmentation of point clouds,” in CVPR, 2018.
+[213]	F. Engelmann, T. Kontogianni, A. Hermans, and B. Leibe, “Ex-ploring spatial context for 3D semantic segmentation of point clouds,” in ICCV, 2017.
+
+[214]	L. Landrieu and M. Boussaha, “Point cloud oversegmentation with graph-structured deep metric learning,” in CVPR, 2019.
+[215]	L. Wang, Y. Huang, Y. Hou, S. Zhang, and J. Shan, “Graph attention convolution for point cloud semantic segmentation,” in CVPR, 2019.
+
+[216]	L. Pan, C.-M. Chew, and G. H. Lee, “Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds,” arXiv preprint arXiv:1907.09798, 2019.
+
+[217]	Z. Liang, M. Yang, L. Deng, C. Wang, and B. Wang, “Hierarchical depthwise graph convolutional neural network for 3D semantic segmentation of point clouds,” in ICRA, 2019.
+
+[218]	L. Jiang, H. Zhao, S. Liu, X. Shen, C.-W. Fu, and J. Jia, “Hierar-chical point-edge interaction network for point cloud semantic segmentation,” in ICCV, 2019.
+
+[219]	H. Lei, N. Akhtar, and A. Mian, “Spherical convolutional neural network for 3D point clouds,” arXiv preprint arXiv:1805.07872, 2018.
+
+[220]	Z. Zhao, M. Liu, and K. Ramani, “DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation,” arXiv preprint arXiv:1907.12022, 2019.
+
+[221]	F. Liu, S. Li, L. Zhang, C. Zhou, R. Ye, Y. Wang, and J. Lu, “3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds,” in ICCV, 2017.
+
+[222]	Z. Kang and N. Li, “PyramNet: Point cloud pyramid attention network and graph embedding module for classification and segmentation,” in ICONIP, 2019.
+
+[223]	Y. Ma, Y. Guo, H. Liu, Y. Lei, and G. Wen, “Global context reasoning for semantic segmentation of 3D point clouds,” in WACV, 2020.
+
+[224]	J. Wei, G. Lin, K.-H. Yap, T.-Y. Hung, and L. Xie, “Multi-path region mining for weakly supervised 3D semantic segmentation on point clouds,” in CVPR, 2020.
+
+[225]	X. Xu and G. H. Lee, “Weakly supervised semantic point cloud segmentation: Towards 10x fewer labels,” in CVPR, 2020, pp. 13 706–13 715.
+
+[226]	J. Hou, A. Dai, and M. Nießner, “3D-SIS: 3D semantic instance segmentation of RGB-D scans,” in CVPR, 2019.
+[227]	L. Yi, W. Zhao, H. Wang, M. Sung, and L. J. Guibas, “GSPN: Generative shape proposal network for 3D instance segmentation in point cloud,” in CVPR, 2019.
+
+[228]	G. Narita, T. Seno, T. Ishikawa, and Y. Kaji, “PanopticFusion: Online volumetric semantic mapping at the level of stuff and things,” in IROS, 2019.
+
+[229]	B. Yang, J. Wang, R. Clark, Q. Hu, S. Wang, A. Markham, and N. Trigoni, “Learning object bounding boxes for 3D instance segmentation on point clouds,” in NeurIPS, 2019.
+
+[230]	F. Zhang, C. Guan, J. Fang, S. Bai, R. Yang, P. Torr, and V. Prisacariu, “Instance segmentation of lidar point clouds,” in ICRA, 2020.
+
+[231]	Y. Shi, A. X. Chang, Z. Wu, M. Savva, and K. Xu, “Hierarchy de-noising recursive autoencoders for 3D scene layout prediction,” in CVPR, 2019.
+
+[232]	F. Engelmann, M. Bokeloh, A. Fathi, B. Leibe, and M. Nießner, “3d-mpa: Multi-proposal aggregation for 3d semantic instance segmentation,” in CVPR, 2020.
+
+[233]	W. Wang, R. Yu, Q. Huang, and U. Neumann, “SGPN: Similarity group proposal network for 3D point cloud instance segmenta-tion,” in CVPR, 2018.
+
+[234]	X. Wang, S. Liu, X. Shen, C. Shen, and J. Jia, “Associatively segmenting instances and semantics in point clouds,” in CVPR, 2019.
+
+[235]	Q.-H. Pham, T. Nguyen, B.-S. Hua, G. Roig, and S.-K. Yeung, “JSIS3D: Joint semantic-instance segmentation of 3D point clouds with multi-task pointwise networks and multi-value conditional random fields,” in CVPR, 2019.
+
+[236]	C. Elich, F. Engelmann, J. Schult, T. Kontogianni, and B. Leibe, “3D-BEVIS: Birds-eye-view instance segmentation,” in GCPR, 2019.
+ 
+
+[237]	C. Liu and Y. Furukawa, “MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation,” arXiv preprint arXiv:1902.04478, 2019.
+[238]	Z. Liang, M. Yang, and C. Wang, “3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation,” arXiv preprint arXiv:1902.05247, 2019.
+
+[239]	L. Han, T. Zheng, L. Xu, and L. Fang, “Occuseg: Occupancy-aware 3d instance segmentation,” in CVPR, 2020.
+
+[240]	L. Jiang, H. Zhao, S. Shi, S. Liu, C.-W. Fu, and J. Jia, “PointGroup: Dual-set point grouping for 3D instance segmentation,” in CVPR, 2020.
+
+[241]	K. Mo, S. Zhu, A. X. Chang, L. Yi, S. Tripathi, L. J. Guibas, and H. Su, “PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding,” in CVPR, 2019.
+
+[242]	L. Zhao and W. Tao, “JSNet: Joint instance and semantic segmen-tation of 3D point clouds,” in AAAI, 2020.
+
+[243]	B. De Brabandere, D. Neven, and L. Van Gool, “Semantic instance segmentation with a discriminative loss function,” in CVPRW, 2017.
+
+[244]	S.-M. Hu, J.-X. Cai, and Y.-K. Lai, “Semantic labeling and instance segmentation of 3D point clouds using patch context analysis and multiscale processing,” IEEE TVCG, 2018.
+
+[245]	D. Comaniciu and P. Meer, “Mean shift: A robust approach toward feature space analysis,” IEEE TPAMI, 2002.
+
+[246]	J. Lahoud, B. Ghanem, M. Pollefeys, and M. R. Oswald, “3D instance segmentation via multi-task metric learning,” in ICCV, 2019.
+
+[247]	B. Zhang and P. Wonka, “Point cloud instance segmentation us-ing probabilistic embeddings,” arXiv preprint arXiv:1912.00145, 2019.
+
+[248]	Z. Wang and F. Lu, “VoxSegNet: Volumetric CNNs for semantic part segmentation of 3D shapes,” IEEE TVCG, 2019.
+
+[249]	E. Kalogerakis, M. Averkiou, S. Maji, and S. Chaudhuri, “3D shape segmentation with projective convolutional networks,” in CVPR, 2017.
+
+[250]	L. Yi, H. Su, X. Guo, and L. J. Guibas, “SyncSpecCNN: Synchro-nized spectral CNN for 3D shape segmentation,” in CVPR, 2017.
+
+[251]	P. Wang, Y. Gan, P. Shui, F. Yu, Y. Zhang, S. Chen, and Z. Sun, “3D shape segmentation via shape fully convolutional networks,” Computers & Graphics, 2018.
+
+[252]	C. Zhu, K. Xu, S. Chaudhuri, L. Yi, L. Guibas, and H. Zhang, “CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss,” arXiv preprint arXiv:1903.10297, 2019.
+
+[253]	Z. Chen, K. Yin, M. Fisher, S. Chaudhuri, and H. Zhang, “BAE-NET: Branched autoencoder for shape co-segmentation,” in ICCV, 2019.
+
+[254]	F. Yu, K. Liu, Y. Zhang, C. Zhu, and K. Xu, “PartNet: A recursive part decomposition network for fine-grained and hierarchical shape segmentation,” in CVPR, 2019.
+
+[255]	T. Luo, K. Mo, Z. Huang, J. Xu, S. Hu, L. Wang, and H. Su, “Learn-ing to group: A bottom-up framework for 3D part discovery in unseen categories,” in ICLR, 2020.
+
+[256]	Z. Liu, H. Tang, Y. Lin, and S.Han, “Point-Voxel CNN for efficient 3D deep learning,” in NeurIPS, 2019.
+

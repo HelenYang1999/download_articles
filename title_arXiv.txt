@@ -1,0 +1,29 @@
+ShapeNet: An information-rich 3D model repository
+Deep learning advances on different 3D data representations: A survey
+Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways
+Dales: A large-scale aerial lidar data set for semantic segmentation
+3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks
+Generalizing discrete convolutions for unstructured point clouds
+Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds
+Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features
+Modern hierarchical, agglomerative clustering algo-rithms
+3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN
+Deep RBFNet: Point cloud feature learning using radial basis functions
+IPOD: Intensive point-based object detector for point cloud
+PointRGCN: Graph con-volution networks for 3D vehicles detection refinement
+PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation
+Patch refinement - localized 3D object detection
+Relation graph network for 3D object detection in point clouds
+Vehicle detection from 3D lidar using fully convolutional network
+Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots
+Efficient tracking pro-posals using 2D-3D siamese networks on lidar
+PointRNN: Point recurrent neural net-work for moving point cloud processing
+LatticeNet: Fast point cloud segmentation using permutohedral lattices
+LSANet: Feature learning on point sets by local spatial attention
+Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds
+Spherical convolutional neural network for 3D point clouds
+DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation
+MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation
+3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation
+Point cloud instance segmentation us-ing probabilistic embeddings
+CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss

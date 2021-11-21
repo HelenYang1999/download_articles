@@ -1,0 +1,256 @@
+Stereo matching using multi-level cost volume and multi-scale feature constancy
+Rotational projection statistics for 3D local surface description and object recognition
+3D object recognition in cluttered scenes with local surface features: a survey
+Multi-view 3D object detection network for autonomous driving
+PointNet: Deep learning on point sets for 3D classification and segmentation
+3D shapeNets: A deep representation for volumetric shapes
+Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data
+ShapeNet: An information-rich 3D model repository
+PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding
+3D semantic parsing of large-scale indoor spaces
+ScanNet: Richly-annotated 3D reconstructions of indoor scenes
+Semantic3D.net: A new large-scale point cloud classification benchmark
+Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving
+Are we ready for au-tonomous driving
+SemanticKITTI: A dataset for semantic scene understanding of lidar sequences
+3D point cloud registra-tion for localization using a deep neural network auto-encoder
+Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge
+Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era
+Deep learning advances in computer vision with 3D data: A survey
+Deep learning advances on different 3D data representations: A survey
+A review of point cloud semantic segmentation
+Recent advances in 3D object detection in the era of deep neural networks: A survey
+Retrieving articulated 3-D models using medial surfaces
+Unsuper-vised feature learning for classification of outdoor 3D scans
+Sun RGB-D: A RGB-D scene understanding benchmark suite
+The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes
+Argoverse: 3D tracking and forecasting with rich maps
+Lyft level 5 av dataset 2019
+A*3D dataset: Towards autonomous driving in challenging environments
+Scalabil-ity in perception for autonomous driving: Waymo open dataset
+nuscenes: A multimodal dataset for autonomous driving
+Con-textual classification with functional max-margin markov net-works
+The isprs benchmark on urban object classifi-cation and 3D building reconstruction
+Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods
+Terramobilita/iqmulus urban point cloud analysis benchmark
+Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification
+Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways
+Dales: A large-scale aerial lidar data set for semantic segmentation
+SCANet: Spatial-channel attention network for 3D object detection
+Multi-view convolutional neural networks for 3D shape recognition
+Multi-view harmonized bilinear network for 3D object recognition
+Learning relationships for multi-view 3D object recognition
+Volumetric and multi-view CNNs for object classification on 3D data
+GVCNN: Group-view convolutional neural networks for 3D shape recognition
+Dominant set clustering and pooling for multi-view 3D object recognition
+Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval
+View-gcn: View-based graph convolu-tional network for 3D shape analysis
+VoxNet: A 3D convolutional neural network for real-time object recognition
+OctNet: Learning deep 3D representations at high resolutions
+O-CNN: Octree-based convolutional neural networks for 3D shape analysis
+PointGrid: A deep network for 3D shape understanding
+3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks
+Deep sets
+PointNet++: Deep hierarchical feature learning on point sets in a metric space
+Mo-Net: Flavor the moments in learning to classify shapes
+Modeling point clouds with self-attention and gumbel subset sampling
+PointWeb: Enhancing lo-cal neighborhood features for point cloud processing
+Structural relational reasoning of point clouds
+Justlookup: One millisecond deep feature extraction for point clouds by lookup tables
+SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation
+Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling
+Relation-shape convolu-tional neural network for point cloud analysis
+Generalizing discrete convolutions for unstructured point clouds
+DensePoint: Learning densely contextual representation for efficient point cloud processing
+KPConv: Flexible and deformable convolution for point clouds
+ConvPoint: continuous convolutions for point cloud processing
+PointConv: Deep convolutional networks on 3D point clouds
+Monte carlo convolution for learning on non-uniformly sampled point clouds
+SpiderCNN: Deep learning on point sets with parameterized convolutional filters
+Point convolutional neural networks by extension operators
+Learning so(3) equivariant representations with spherical CNNs
+Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds
+Spherical CNNs
+Effective rotation-invariant point CNN with spherical harmon-ics kernels
+Flex-Convolution
+Pointwise convolutional neural networks
+Octree guided cnn with spheri-cal kernels for 3D point clouds
+Modeling local geometric structure of 3D point clouds using geo-cnn
+PointCNN: Convolution on x-transformed points
+Interpolated convolutional networks for 3D point cloud understanding
+Rotation invariant convolutions for 3D point clouds deep learning
+A-CNN: Annularly convolutional neural networks on point clouds
+LP-3DCNN: Unveiling local phase in 3D convolutional neural networks
+Spherical fractal convolutional neural networks for point cloud recognition
+Dynamic edge-conditioned filters in convolutional neural networks on graphs
+3D is here: Point cloud library (PCL)
+Dynamic graph CNN for learning on point clouds
+Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features
+FoldingNet: Point cloud auto-encoder via deep grid deformation
+Going deeper with convolutions
+Unsupervised multi-task feature learning on point clouds
+Dynamic points agglomeration for hierarchical point sets learning
+Mining point cloud local structures by kernel correlation and graph pooling
+General-purpose deep point cloud feature extractor
+Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis
+Modern hierarchical, agglomerative clustering algo-rithms
+Grid-gcn for fast and scalable point cloud learning
+Spectral networks and locally connected networks on graphs
+Convolutional neural networks on graphs with fast localized spectral filtering
+RGCNN: Regularized graph CNN for point cloud segmentation
+Adaptive graph convolu-tional neural networks
+Hypergraph neural networks
+Local spectral graph convo-lution for point set feature learning
+A Graph-CNN for 3D point cloud classification
+3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN
+Escape from cells: Deep kd-networks for the recognition of 3D point cloud models
+3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues
+SO-Net: Self-organizing network for point cloud analysis
+Attentional ShapeContextNet for point cloud recognition
+PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion
+PVRNet: Point-view relation neural network for 3D shape recognition
+3D point capsule networks
+Deep RBFNet: Point cloud feature learning using radial basis functions
+Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network
+Point cloud processing via recurrent set encoding
+PointDAN: A multi-scale 3D domain adaption network for point cloud representation
+Self-supervised deep learning on point clouds by reconstructing space
+PointAugment: An auto-augmentation framework for point cloud classification
+Shape matching and object recognition using shape contexts
+Attention is all you need
+Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor
+Efficient learning on point clouds with basis point sets
+Deep learning for generic object detection: A survey
+Deep hough voting for 3D object detection in point clouds
+Point-GNN: Graph neural network for 3D object detection in a point cloud
+Joint 3D proposal generation and object detection from view aggregation
+Deep continuous fusion for multi-sensor 3D object detection
+Multi-task multi-sensor fusion for 3D object detection
+PIXOR: Real-time 3D object detection from point clouds
+Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net
+RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving
+IPOD: Intensive point-based object detector for point cloud
+PointRCNN: 3D object proposal generation and detection from point cloud
+PointRGCN: Graph con-volution networks for 3D vehicles detection refinement
+PointPainting: Sequential fusion for 3D object detection
+VoxelNet: End-to-end learning for point cloud based 3D object detection
+PointPillars: Fast encoders for object detection from point clouds
+STD: Sparse-to-dense 3D object detector for point cloud
+Frustum PointNets for 3D object detection from RGB-D data
+3D object detection using scale invariant and feature reweighting networks
+PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation
+PointFusion: Deep sensor fusion for 3D bounding box estimation
+RoarNet: A robust 3D object detection based on region approximation refinement
+Frustum convNet: Sliding frustums to ag-gregate local point-wise features for amodal 3D object detection
+Patch refinement - localized 3D object detection
+Iou loss for 2D/3D object detection
+Fast point r-cnn
+PV-RCNN: Point-voxel feature set abstraction for 3D object detection
+Relation graph network for 3D object detection in point clouds
+ImVoteNet: Boosting 3D object detection in point clouds with image votes
+From points to parts: 3D object detection from point cloud with part-aware and part-aggregation network
+HDNET: Exploiting hd maps for 3D object detection
+BirdNet: a 3D object detection framework from lidar information
+Vehicle detection from 3D lidar using fully convolutional network
+3D fully convolutional network for vehicle detection in point cloud
+Vote3Deep: Fast object detection in 3D point clouds using effi-cient convolutional neural networks
+3D backbone network for 3D object detection
+SECOND: Sparsely embedded convo-lutional detection
+MVX-Net: Multimodal voxelnet for 3D object detection
+Structure aware single-stage 3D object detection from point cloud
+3DSSD: Point-based 3D single stage object detector
+LaserNet: An efficient probabilistic 3D object detec-tor for autonomous driving
+Sensor fusion for joint 3D object detection and seman-tic segmentation
+Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots
+U-Net: Convolutional networks for biomedical image segmentation
+3D semantic segmentation with submanifold sparse convolutional networks
+Correlation filter tracking: Beyond an open-loop system
+Robust long-term tracking via instance specific proposals
+Fully-convolutional siamese networks for object tracking
+Leveraging shape com-pletion for 3D siamese tracking
+Context-aware correla-tion filter tracking
+Efficient tracking pro-posals using 2D-3D siamese networks on lidar
+Complexer-YOLO: Real-time 3D object detection and tracking on semantic point clouds
+P2B: Point-to-box network for 3D object tracking in point clouds
+FlowNet3D: Learning scene flow in 3D point clouds
+FlowNet3D++: Geometric losses for deep scene flow estima-tion
+HPLFlowNet: Hierarchical permutohedral lattice flowNet for scene flow esti-mation on large-scale point clouds
+PointRNN: Point recurrent neural net-work for moving point cloud processing
+MeteorNet: Deep learning on dynamic 3D point cloud sequences
+Just go with the flow: Self-supervised scene flow estimation
+Deep projective 3D semantic segmentation
+Unstructured point cloud semantic labeling using deep segmentation networks
+SqueezeSeg: Convo-lutional neural nets with recurrent crf for real-time road-object segmentation from 3D lidar point cloud
+SqueezeSegV2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud
+RangeNet++: Fast and accurate lidar semantic segmentation
+VV-Net: Voxel vae net with group convolutions for point cloud segmentation
+Fully-convolutional point networks for large-scale point clouds
+SplatNet: Sparse lattice networks for point cloud processing
+LatticeNet: Fast point cloud segmentation using permutohedral lattices
+3DMV: Joint 3D-multi-view prediction for 3D semantic scene segmentation
+Multi-view pointNet for 3D scene understanding
+Semantic segmentation of earth observation data using multimodal and multi-scale deep networks
+Tangent convolutions for dense prediction in 3D
+SqueezeNet: Alexnet-level accuracy with 50x fewer parameters and < 0.5 MB model size
+Point cloud labeling using 3D convolu-tional neural network
+SEG-Cloud: Semantic segmentation of 3D point clouds
+Fully convolutional net-works for semantic segmentation
+ScanComplete: Large-scale scene completion and semantic seg-mentation for 3D scans
+4D spatio-temporal convnets: Minkowski convolutional neural networks
+A unified point-based framework for 3D segmentation
+Deep parametric continuous convolutional neural networks
+3D recurrent neural networks with context fusion for point cloud semantic segmentation
+Large-scale point cloud seman-tic segmentation with superpoint graphs
+Know what your neighbors do: 3D semantic segmentation of point clouds
+ShellNet: Efficient point cloud convolutional neural networks using concentric shells statistics
+RandLA-Net: Efficient semantic segmentation of large-scale point clouds
+LSANet: Feature learning on point sets by local spatial attention
+Pooling scores of neighboring points for improved 3D point cloud segmentation
+NetVLAD: CNN architecture for weakly supervised place recognition
+Know what your neighbors do: 3D semantic segmentation of point clouds
+Dilated point con-volutions: On the receptive field of point convolutions
+Recurrent slice networks for 3D segmentation of point clouds
+Ex-ploring spatial context for 3D semantic segmentation of point clouds
+Point cloud oversegmentation with graph-structured deep metric learning
+Graph attention convolution for point cloud semantic segmentation
+Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds
+Hierarchical depthwise graph convolutional neural network for 3D semantic segmentation of point clouds
+Hierar-chical point-edge interaction network for point cloud semantic segmentation
+Spherical convolutional neural network for 3D point clouds
+DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation
+3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds
+PyramNet: Point cloud pyramid attention network and graph embedding module for classification and segmentation
+Global context reasoning for semantic segmentation of 3D point clouds
+Multi-path region mining for weakly supervised 3D semantic segmentation on point clouds
+Weakly supervised semantic point cloud segmentation: Towards 10x fewer labels
+3D-SIS: 3D semantic instance segmentation of RGB-D scans
+GSPN: Generative shape proposal network for 3D instance segmentation in point cloud
+PanopticFusion: Online volumetric semantic mapping at the level of stuff and things
+Learning object bounding boxes for 3D instance segmentation on point clouds
+Instance segmentation of lidar point clouds
+Hierarchy de-noising recursive autoencoders for 3D scene layout prediction
+3d-mpa: Multi-proposal aggregation for 3d semantic instance segmentation
+SGPN: Similarity group proposal network for 3D point cloud instance segmenta-tion
+Associatively segmenting instances and semantics in point clouds
+JSIS3D: Joint semantic-instance segmentation of 3D point clouds with multi-task pointwise networks and multi-value conditional random fields
+3D-BEVIS: Birds-eye-view instance segmentation
+MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation
+3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation
+Occuseg: Occupancy-aware 3d instance segmentation
+PointGroup: Dual-set point grouping for 3D instance segmentation
+PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding
+JSNet: Joint instance and semantic segmen-tation of 3D point clouds
+Semantic instance segmentation with a discriminative loss function
+Semantic labeling and instance segmentation of 3D point clouds using patch context analysis and multiscale processing
+Mean shift: A robust approach toward feature space analysis
+3D instance segmentation via multi-task metric learning
+Point cloud instance segmentation us-ing probabilistic embeddings
+VoxSegNet: Volumetric CNNs for semantic part segmentation of 3D shapes
+3D shape segmentation with projective convolutional networks
+SyncSpecCNN: Synchro-nized spectral CNN for 3D shape segmentation
+3D shape segmentation via shape fully convolutional networks
+CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss
+BAE-NET: Branched autoencoder for shape co-segmentation
+PartNet: A recursive part decomposition network for fine-grained and hierarchical shape segmentation
+Learn-ing to group: A bottom-up framework for 3D part discovery in unseen categories
+Point-Voxel CNN for efficient 3D deep learning

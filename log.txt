@@ -1,0 +1,1548 @@
+2021-05-28 11:33:06,710 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 11:33:22,818 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 11:33:28,910 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy,下载未成功
+2021-05-28 11:33:32,183 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition,未成功搜索到
+2021-05-28 11:33:37,597 - python main.py - WARNING - 3D object recognition in cluttered scenes with local surface features: a survey,下载未成功
+2021-05-28 11:33:41,998 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving,未成功搜索到
+2021-05-28 11:33:46,910 - python main.py - WARNING - PointNet: Deep learning on point sets for 3D classification and segmentation,未成功搜索到
+2021-05-28 11:33:52,228 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes,未成功搜索到
+2021-05-28 11:33:58,165 - python main.py - WARNING - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data,未成功搜索到
+2021-05-28 11:34:06,220 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding,下载未成功
+2021-05-28 11:34:09,047 - python main.py - WARNING - 3D semantic parsing of large-scale indoor spaces,未成功搜索到
+2021-05-28 11:34:16,484 - python main.py - WARNING - ScanNet: Richly-annotated 3D reconstructions of indoor scenes,下载未成功
+2021-05-28 11:34:21,773 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark,未成功搜索到
+2021-05-28 12:16:26,349 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 12:16:29,730 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 12:16:48,877 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy,未成功下载
+2021-05-28 12:16:52,177 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition,未成功搜索到
+2021-05-28 12:17:00,932 - python main.py - WARNING - 3D object recognition in cluttered scenes with local surface features: a survey,未成功下载
+2021-05-28 12:17:05,119 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving,未成功搜索到
+2021-05-28 12:17:08,925 - python main.py - WARNING - PointNet: Deep learning on point sets for 3D classification and segmentation,未成功搜索到
+2021-05-28 12:17:16,298 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes,未成功下载
+2021-05-28 12:17:20,082 - python main.py - WARNING - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data,未成功搜索到
+2021-05-28 12:17:24,887 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding,未成功搜索到
+2021-05-28 12:17:31,435 - python main.py - WARNING - 3D semantic parsing of large-scale indoor spaces,未成功下载
+2021-05-28 12:17:40,017 - python main.py - WARNING - ScanNet: Richly-annotated 3D reconstructions of indoor scenes,未成功搜索到
+2021-05-28 12:17:52,553 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark,未成功搜索到
+2021-05-28 12:17:58,138 - python main.py - WARNING - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving,未成功下载
+2021-05-28 12:18:01,855 - python main.py - WARNING - Are we ready for au-tonomous driving,未成功搜索到
+2021-05-28 12:18:05,943 - python main.py - WARNING - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences,未成功搜索到
+2021-05-28 12:18:15,971 - python main.py - WARNING - 3D point cloud registra-tion for localization using a deep neural network auto-encoder,未成功搜索到
+2021-05-28 12:18:20,285 - python main.py - WARNING - Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge,未成功搜索到
+2021-05-28 12:18:24,908 - python main.py - WARNING - Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era,未成功搜索到
+2021-05-28 12:18:29,527 - python main.py - WARNING - Deep learning advances in computer vision with 3D data: A survey,未成功搜索到
+2021-05-28 12:18:33,928 - python main.py - WARNING - A review of point cloud semantic segmentation,未成功搜索到
+2021-05-28 12:18:40,508 - python main.py - WARNING - Recent advances in 3D object detection in the era of deep neural networks: A survey,未成功下载
+2021-05-28 12:18:44,778 - python main.py - WARNING - Retrieving articulated 3-D models using medial surfaces,未成功搜索到
+2021-05-28 12:18:50,036 - python main.py - WARNING - Unsuper-vised feature learning for classification of outdoor 3D scans,未成功搜索到
+2021-05-28 12:18:57,247 - python main.py - WARNING - Sun RGB-D: A RGB-D scene understanding benchmark suite,未成功下载
+2021-05-28 12:19:00,360 - python main.py - WARNING - The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes,未成功搜索到
+2021-05-28 12:19:08,470 - python main.py - WARNING - Argoverse: 3D tracking and forecasting with rich maps,未成功下载
+2021-05-28 12:19:12,394 - python main.py - WARNING - Lyft level 5 av dataset 2019,未成功搜索到
+2021-05-28 12:19:16,057 - python main.py - WARNING - A*3D dataset: Towards autonomous driving in challenging environments,未成功搜索到
+2021-05-28 12:19:19,738 - python main.py - WARNING - Scalabil-ity in perception for autonomous driving: Waymo open dataset,未成功搜索到
+2021-05-28 12:19:24,749 - python main.py - WARNING - nuscenes: A multimodal dataset for autonomous driving,未成功下载
+2021-05-28 12:19:27,497 - python main.py - WARNING - Con-textual classification with functional max-margin markov net-works,未成功搜索到
+2021-05-28 12:19:31,449 - python main.py - WARNING - The isprs benchmark on urban object classifi-cation and 3D building reconstruction,未成功搜索到
+2021-05-28 12:19:35,419 - python main.py - WARNING - Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods,未成功搜索到
+2021-05-28 12:19:40,074 - python main.py - WARNING - Terramobilita/iqmulus urban point cloud analysis benchmark,未成功搜索到
+2021-05-28 12:19:43,803 - python main.py - WARNING - Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification,未成功搜索到
+2021-05-28 12:19:49,587 - python main.py - WARNING - SCANet: Spatial-channel attention network for 3D object detection,未成功下载
+2021-05-28 12:19:53,078 - python main.py - WARNING - Multi-view convolutional neural networks for 3D shape recognition,未成功搜索到
+2021-05-28 12:19:58,429 - python main.py - WARNING - Multi-view harmonized bilinear network for 3D object recognition,未成功下载
+2021-05-28 12:20:01,246 - python main.py - WARNING - Learning relationships for multi-view 3D object recognition,未成功搜索到
+2021-05-28 12:20:04,921 - python main.py - WARNING - Volumetric and multi-view CNNs for object classification on 3D data,未成功搜索到
+2021-05-28 12:20:10,380 - python main.py - WARNING - GVCNN: Group-view convolutional neural networks for 3D shape recognition,未成功下载
+2021-05-28 12:20:13,587 - python main.py - WARNING - Dominant set clustering and pooling for multi-view 3D object recognition,未成功搜索到
+2021-05-28 12:20:17,374 - python main.py - WARNING - Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval,未成功搜索到
+2021-05-28 12:20:21,879 - python main.py - WARNING - View-gcn: View-based graph convolu-tional network for 3D shape analysis,未成功搜索到
+2021-05-28 12:20:29,123 - python main.py - WARNING - VoxNet: A 3D convolutional neural network for real-time object recognition,未成功下载
+2021-05-28 12:20:32,408 - python main.py - WARNING - OctNet: Learning deep 3D representations at high resolutions,未成功搜索到
+2021-05-28 12:20:37,237 - python main.py - WARNING - O-CNN: Octree-based convolutional neural networks for 3D shape analysis,未成功搜索到
+2021-05-28 12:20:44,029 - python main.py - WARNING - PointGrid: A deep network for 3D shape understanding,未成功下载
+2021-05-28 12:20:47,349 - python main.py - WARNING - Deep sets,未成功搜索到
+2021-05-28 12:20:51,036 - python main.py - WARNING - PointNet++: Deep hierarchical feature learning on point sets in a metric space,未成功搜索到
+2021-05-28 12:20:55,083 - python main.py - WARNING - Mo-Net: Flavor the moments in learning to classify shapes,未成功搜索到
+2021-05-28 12:21:00,930 - python main.py - WARNING - Modeling point clouds with self-attention and gumbel subset sampling,未成功下载
+2021-05-28 12:21:04,259 - python main.py - WARNING - PointWeb: Enhancing lo-cal neighborhood features for point cloud processing,未成功搜索到
+2021-05-28 12:21:09,565 - python main.py - WARNING - Structural relational reasoning of point clouds,未成功下载
+2021-05-28 12:21:12,857 - python main.py - WARNING - Justlookup: One millisecond deep feature extraction for point clouds by lookup tables,未成功搜索到
+2021-05-28 12:21:16,627 - python main.py - WARNING - SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation,未成功搜索到
+2021-05-28 12:21:24,573 - python main.py - WARNING - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling,未成功下载
+2021-05-28 12:21:27,793 - python main.py - WARNING - Relation-shape convolu-tional neural network for point cloud analysis,未成功搜索到
+2021-05-28 12:21:36,000 - python main.py - WARNING - DensePoint: Learning densely contextual representation for efficient point cloud processing,未成功下载
+2021-05-28 12:21:39,378 - python main.py - WARNING - KPConv: Flexible and deformable convolution for point clouds,未成功搜索到
+2021-05-28 12:21:43,036 - python main.py - WARNING - ConvPoint: continuous convolutions for point cloud processing,未成功搜索到
+2021-05-28 12:21:48,347 - python main.py - WARNING - PointConv: Deep convolutional networks on 3D point clouds,未成功下载
+2021-05-28 12:21:51,688 - python main.py - WARNING - Monte carlo convolution for learning on non-uniformly sampled point clouds,未成功搜索到
+2021-05-28 12:21:55,575 - python main.py - WARNING - SpiderCNN: Deep learning on point sets with parameterized convolutional filters,未成功搜索到
+2021-05-28 12:21:59,220 - python main.py - WARNING - Point convolutional neural networks by extension operators,未成功搜索到
+2021-05-28 12:22:03,177 - python main.py - WARNING - Learning so(3) equivariant representations with spherical CNNs,未成功搜索到
+2021-05-28 12:22:05,766 - python main.py - WARNING - Spherical CNNs,未成功搜索到
+2021-05-28 12:22:07,944 - python main.py - WARNING - Effective rotation-invariant point CNN with spherical harmon-ics kernels,未成功搜索到
+2021-05-28 12:22:10,046 - python main.py - WARNING - Flex-Convolution,未成功搜索到
+2021-05-28 12:22:12,134 - python main.py - WARNING - Pointwise convolutional neural networks,未成功搜索到
+2021-05-28 12:22:14,171 - python main.py - WARNING - Octree guided cnn with spheri-cal kernels for 3D point clouds,未成功搜索到
+2021-05-28 12:22:16,187 - python main.py - WARNING - Modeling local geometric structure of 3D point clouds using geo-cnn,未成功搜索到
+2021-05-28 12:22:18,251 - python main.py - WARNING - PointCNN: Convolution on x-transformed points,未成功搜索到
+2021-05-28 12:22:20,284 - python main.py - WARNING - Interpolated convolutional networks for 3D point cloud understanding,未成功搜索到
+2021-05-28 12:22:22,329 - python main.py - WARNING - Rotation invariant convolutions for 3D point clouds deep learning,未成功搜索到
+2021-05-28 12:22:24,396 - python main.py - WARNING - A-CNN: Annularly convolutional neural networks on point clouds,未成功搜索到
+2021-05-28 12:22:26,415 - python main.py - WARNING - LP-3DCNN: Unveiling local phase in 3D convolutional neural networks,未成功搜索到
+2021-05-28 12:22:28,474 - python main.py - WARNING - Spherical fractal convolutional neural networks for point cloud recognition,未成功搜索到
+2021-05-28 12:22:30,535 - python main.py - WARNING - Dynamic edge-conditioned filters in convolutional neural networks on graphs,未成功搜索到
+2021-05-28 12:22:32,556 - python main.py - WARNING - 3D is here: Point cloud library (PCL),未成功搜索到
+2021-05-28 12:22:34,601 - python main.py - WARNING - Dynamic graph CNN for learning on point clouds,未成功搜索到
+2021-05-28 12:22:36,629 - python main.py - WARNING - FoldingNet: Point cloud auto-encoder via deep grid deformation,未成功搜索到
+2021-05-28 12:22:38,650 - python main.py - WARNING - Going deeper with convolutions,未成功搜索到
+2021-05-28 12:22:40,673 - python main.py - WARNING - Unsupervised multi-task feature learning on point clouds,未成功搜索到
+2021-05-28 12:22:42,721 - python main.py - WARNING - Dynamic points agglomeration for hierarchical point sets learning,未成功搜索到
+2021-05-28 12:22:44,749 - python main.py - WARNING - Mining point cloud local structures by kernel correlation and graph pooling,未成功搜索到
+2021-05-28 12:22:46,772 - python main.py - WARNING - General-purpose deep point cloud feature extractor,未成功搜索到
+2021-05-28 12:22:48,830 - python main.py - WARNING - Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis,未成功搜索到
+2021-05-28 12:22:50,844 - python main.py - WARNING - Grid-gcn for fast and scalable point cloud learning,未成功搜索到
+2021-05-28 12:22:52,877 - python main.py - WARNING - Spectral networks and locally connected networks on graphs,未成功搜索到
+2021-05-28 12:22:54,892 - python main.py - WARNING - Convolutional neural networks on graphs with fast localized spectral filtering,未成功搜索到
+2021-05-28 12:22:56,925 - python main.py - WARNING - RGCNN: Regularized graph CNN for point cloud segmentation,未成功搜索到
+2021-05-28 12:22:58,944 - python main.py - WARNING - Adaptive graph convolu-tional neural networks,未成功搜索到
+2021-05-28 12:23:00,969 - python main.py - WARNING - Hypergraph neural networks,未成功搜索到
+2021-05-28 12:23:02,992 - python main.py - WARNING - Local spectral graph convo-lution for point set feature learning,未成功搜索到
+2021-05-28 12:23:05,036 - python main.py - WARNING - A Graph-CNN for 3D point cloud classification,未成功搜索到
+2021-05-28 12:23:07,060 - python main.py - WARNING - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models,未成功搜索到
+2021-05-28 12:23:09,079 - python main.py - WARNING - 3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues,未成功搜索到
+2021-05-28 12:23:11,125 - python main.py - WARNING - SO-Net: Self-organizing network for point cloud analysis,未成功搜索到
+2021-05-28 12:23:13,178 - python main.py - WARNING - Attentional ShapeContextNet for point cloud recognition,未成功搜索到
+2021-05-28 12:23:15,200 - python main.py - WARNING - PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion,未成功搜索到
+2021-05-28 12:23:17,236 - python main.py - WARNING - PVRNet: Point-view relation neural network for 3D shape recognition,未成功搜索到
+2021-05-28 12:23:19,297 - python main.py - WARNING - 3D point capsule networks,未成功搜索到
+2021-05-28 12:23:21,321 - python main.py - WARNING - Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network,未成功搜索到
+2021-05-28 12:23:23,338 - python main.py - WARNING - Point cloud processing via recurrent set encoding,未成功搜索到
+2021-05-28 12:23:25,366 - python main.py - WARNING - PointDAN: A multi-scale 3D domain adaption network for point cloud representation,未成功搜索到
+2021-05-28 12:23:27,410 - python main.py - WARNING - Self-supervised deep learning on point clouds by reconstructing space,未成功搜索到
+2021-05-28 12:23:29,442 - python main.py - WARNING - PointAugment: An auto-augmentation framework for point cloud classification,未成功搜索到
+2021-05-28 12:23:31,462 - python main.py - WARNING - Shape matching and object recognition using shape contexts,未成功搜索到
+2021-05-28 12:23:33,516 - python main.py - WARNING - Attention is all you need,未成功搜索到
+2021-05-28 12:23:35,538 - python main.py - WARNING - Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor,未成功搜索到
+2021-05-28 12:23:37,600 - python main.py - WARNING - Efficient learning on point clouds with basis point sets,未成功搜索到
+2021-05-28 12:23:39,634 - python main.py - WARNING - Deep learning for generic object detection: A survey,未成功搜索到
+2021-05-28 12:23:41,680 - python main.py - WARNING - Deep hough voting for 3D object detection in point clouds,未成功搜索到
+2021-05-28 12:23:43,720 - python main.py - WARNING - Point-GNN: Graph neural network for 3D object detection in a point cloud,未成功搜索到
+2021-05-28 12:23:45,739 - python main.py - WARNING - Joint 3D proposal generation and object detection from view aggregation,未成功搜索到
+2021-05-28 12:23:47,777 - python main.py - WARNING - Deep continuous fusion for multi-sensor 3D object detection,未成功搜索到
+2021-05-28 12:23:49,837 - python main.py - WARNING - Multi-task multi-sensor fusion for 3D object detection,未成功搜索到
+2021-05-28 12:23:51,909 - python main.py - WARNING - PIXOR: Real-time 3D object detection from point clouds,未成功搜索到
+2021-05-28 12:23:53,955 - python main.py - WARNING - Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net,未成功搜索到
+2021-05-28 12:23:55,985 - python main.py - WARNING - RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving,未成功搜索到
+2021-05-28 12:23:58,024 - python main.py - WARNING - PointRCNN: 3D object proposal generation and detection from point cloud,未成功搜索到
+2021-05-28 12:24:00,070 - python main.py - WARNING - PointPainting: Sequential fusion for 3D object detection,未成功搜索到
+2021-05-28 12:24:02,103 - python main.py - WARNING - VoxelNet: End-to-end learning for point cloud based 3D object detection,未成功搜索到
+2021-05-28 12:24:04,156 - python main.py - WARNING - PointPillars: Fast encoders for object detection from point clouds,未成功搜索到
+2021-05-28 12:40:02,781 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 12:40:06,767 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 12:40:16,498 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy未成功搜索到
+2021-05-28 12:40:20,957 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 12:40:25,696 - python main.py - WARNING - 3D object recognition in cluttered scenes with local surface features: a survey未成功搜索到
+2021-05-28 12:40:29,817 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving未成功搜索到
+2021-05-28 12:40:34,019 - python main.py - WARNING - PointNet: Deep learning on point sets for 3D classification and segmentation未成功搜索到
+2021-05-28 12:40:37,586 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes未成功搜索到
+2021-05-28 12:40:54,780 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 12:41:06,629 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 12:41:11,288 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-28 12:41:11,289 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy未成功下载
+2021-05-28 12:41:14,484 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 12:41:20,044 - python main.py - INFO - 3D object recognition in cluttered scenes with local surface features: a survey成功下载
+2021-05-28 12:41:20,045 - python main.py - WARNING - 3D object recognition in cluttered scenes with local surface features: a survey未成功下载
+2021-05-28 12:41:23,769 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving未成功搜索到
+2021-05-28 12:41:28,939 - python main.py - INFO - PointNet: Deep learning on point sets for 3D classification and segmentation成功下载
+2021-05-28 12:41:28,940 - python main.py - WARNING - PointNet: Deep learning on point sets for 3D classification and segmentation未成功下载
+2021-05-28 12:41:32,198 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes未成功搜索到
+2021-05-28 12:41:37,498 - python main.py - INFO - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data成功下载
+2021-05-28 12:41:37,499 - python main.py - WARNING - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data未成功下载
+2021-05-28 12:41:40,839 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-28 12:41:46,244 - python main.py - INFO - 3D semantic parsing of large-scale indoor spaces成功下载
+2021-05-28 12:41:46,245 - python main.py - WARNING - 3D semantic parsing of large-scale indoor spaces未成功下载
+2021-05-28 12:41:49,071 - python main.py - WARNING - ScanNet: Richly-annotated 3D reconstructions of indoor scenes未成功搜索到
+2021-05-28 12:41:53,247 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark未成功搜索到
+2021-05-28 12:42:00,658 - python main.py - INFO - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving成功下载
+2021-05-28 12:42:00,658 - python main.py - WARNING - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving未成功下载
+2021-05-28 12:42:04,251 - python main.py - WARNING - Are we ready for au-tonomous driving未成功搜索到
+2021-05-28 12:42:10,213 - python main.py - INFO - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences成功下载
+2021-05-28 12:42:10,214 - python main.py - WARNING - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences未成功下载
+2021-05-28 12:42:13,465 - python main.py - WARNING - 3D point cloud registra-tion for localization using a deep neural network auto-encoder未成功搜索到
+2021-05-28 12:42:17,809 - python main.py - WARNING - Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge未成功搜索到
+2021-05-28 12:42:21,545 - python main.py - WARNING - Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era未成功搜索到
+2021-05-28 12:42:25,298 - python main.py - WARNING - Deep learning advances in computer vision with 3D data: A survey未成功搜索到
+2021-05-28 12:42:29,110 - python main.py - WARNING - A review of point cloud semantic segmentation未成功搜索到
+2021-05-28 12:42:32,996 - python main.py - WARNING - Recent advances in 3D object detection in the era of deep neural networks: A survey未成功搜索到
+2021-05-28 12:42:37,054 - python main.py - WARNING - Retrieving articulated 3-D models using medial surfaces未成功搜索到
+2021-05-28 12:42:41,619 - python main.py - WARNING - Unsuper-vised feature learning for classification of outdoor 3D scans未成功搜索到
+2021-05-28 12:42:48,596 - python main.py - INFO - Sun RGB-D: A RGB-D scene understanding benchmark suite成功下载
+2021-05-28 12:42:48,596 - python main.py - WARNING - Sun RGB-D: A RGB-D scene understanding benchmark suite未成功下载
+2021-05-28 12:42:51,642 - python main.py - WARNING - The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes未成功搜索到
+2021-05-28 12:42:57,939 - python main.py - INFO - Argoverse: 3D tracking and forecasting with rich maps成功下载
+2021-05-28 12:42:57,939 - python main.py - WARNING - Argoverse: 3D tracking and forecasting with rich maps未成功下载
+2021-05-28 12:43:01,200 - python main.py - WARNING - Lyft level 5 av dataset 2019未成功搜索到
+2021-05-28 12:43:04,807 - python main.py - WARNING - A*3D dataset: Towards autonomous driving in challenging environments未成功搜索到
+2021-05-28 12:43:09,022 - python main.py - WARNING - Scalabil-ity in perception for autonomous driving: Waymo open dataset未成功搜索到
+2021-05-28 12:43:14,587 - python main.py - INFO - nuscenes: A multimodal dataset for autonomous driving成功下载
+2021-05-28 12:43:14,587 - python main.py - WARNING - nuscenes: A multimodal dataset for autonomous driving未成功下载
+2021-05-28 12:43:17,761 - python main.py - WARNING - Con-textual classification with functional max-margin markov net-works未成功搜索到
+2021-05-28 12:43:21,834 - python main.py - WARNING - The isprs benchmark on urban object classifi-cation and 3D building reconstruction未成功搜索到
+2021-05-28 12:43:25,974 - python main.py - WARNING - Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods未成功搜索到
+2021-05-28 12:43:30,021 - python main.py - WARNING - Terramobilita/iqmulus urban point cloud analysis benchmark未成功搜索到
+2021-05-28 12:43:33,955 - python main.py - WARNING - Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification未成功搜索到
+2021-05-28 12:43:40,074 - python main.py - INFO - SCANet: Spatial-channel attention network for 3D object detection成功下载
+2021-05-28 12:43:40,075 - python main.py - WARNING - SCANet: Spatial-channel attention network for 3D object detection未成功下载
+2021-05-28 12:43:43,492 - python main.py - WARNING - Multi-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-28 12:43:48,234 - python main.py - WARNING - Multi-view harmonized bilinear network for 3D object recognition未成功搜索到
+2021-05-28 12:43:54,016 - python main.py - INFO - Learning relationships for multi-view 3D object recognition成功下载
+2021-05-28 12:43:54,017 - python main.py - WARNING - Learning relationships for multi-view 3D object recognition未成功下载
+2021-05-28 12:43:57,264 - python main.py - WARNING - Volumetric and multi-view CNNs for object classification on 3D data未成功搜索到
+2021-05-28 12:44:03,506 - python main.py - INFO - GVCNN: Group-view convolutional neural networks for 3D shape recognition成功下载
+2021-05-28 12:44:03,507 - python main.py - WARNING - GVCNN: Group-view convolutional neural networks for 3D shape recognition未成功下载
+2021-05-28 12:44:06,941 - python main.py - WARNING - Dominant set clustering and pooling for multi-view 3D object recognition未成功搜索到
+2021-05-28 12:44:11,979 - python main.py - WARNING - Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval未成功搜索到
+2021-05-28 12:44:15,437 - python main.py - WARNING - View-gcn: View-based graph convolu-tional network for 3D shape analysis未成功搜索到
+2021-05-28 12:44:21,083 - python main.py - INFO - VoxNet: A 3D convolutional neural network for real-time object recognition成功下载
+2021-05-28 12:44:21,084 - python main.py - WARNING - VoxNet: A 3D convolutional neural network for real-time object recognition未成功下载
+2021-05-28 12:44:24,342 - python main.py - WARNING - OctNet: Learning deep 3D representations at high resolutions未成功搜索到
+2021-05-28 12:44:28,620 - python main.py - WARNING - O-CNN: Octree-based convolutional neural networks for 3D shape analysis未成功搜索到
+2021-05-28 12:44:35,114 - python main.py - INFO - PointGrid: A deep network for 3D shape understanding成功下载
+2021-05-28 12:44:35,114 - python main.py - WARNING - PointGrid: A deep network for 3D shape understanding未成功下载
+2021-05-28 12:44:38,197 - python main.py - WARNING - Deep sets未成功搜索到
+2021-05-28 12:44:41,900 - python main.py - WARNING - PointNet++: Deep hierarchical feature learning on point sets in a metric space未成功搜索到
+2021-05-28 12:44:46,456 - python main.py - WARNING - Mo-Net: Flavor the moments in learning to classify shapes未成功搜索到
+2021-05-28 12:44:55,320 - python main.py - INFO - Modeling point clouds with self-attention and gumbel subset sampling成功下载
+2021-05-28 12:44:55,320 - python main.py - WARNING - Modeling point clouds with self-attention and gumbel subset sampling未成功下载
+2021-05-28 12:44:59,102 - python main.py - WARNING - PointWeb: Enhancing lo-cal neighborhood features for point cloud processing未成功搜索到
+2021-05-28 12:45:04,108 - python main.py - INFO - Structural relational reasoning of point clouds成功下载
+2021-05-28 12:45:04,108 - python main.py - WARNING - Structural relational reasoning of point clouds未成功下载
+2021-05-28 12:45:07,394 - python main.py - WARNING - Justlookup: One millisecond deep feature extraction for point clouds by lookup tables未成功搜索到
+2021-05-28 12:45:11,228 - python main.py - WARNING - SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation未成功搜索到
+2021-05-28 12:45:18,865 - python main.py - INFO - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling成功下载
+2021-05-28 12:45:18,865 - python main.py - WARNING - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling未成功下载
+2021-05-28 12:45:22,453 - python main.py - WARNING - Relation-shape convolu-tional neural network for point cloud analysis未成功搜索到
+2021-05-28 12:45:28,386 - python main.py - INFO - DensePoint: Learning densely contextual representation for efficient point cloud processing成功下载
+2021-05-28 12:45:28,386 - python main.py - WARNING - DensePoint: Learning densely contextual representation for efficient point cloud processing未成功下载
+2021-05-28 12:45:31,559 - python main.py - WARNING - KPConv: Flexible and deformable convolution for point clouds未成功搜索到
+2021-05-28 12:45:35,239 - python main.py - WARNING - ConvPoint: continuous convolutions for point cloud processing未成功搜索到
+2021-05-28 12:45:40,852 - python main.py - INFO - PointConv: Deep convolutional networks on 3D point clouds成功下载
+2021-05-28 12:45:40,853 - python main.py - WARNING - PointConv: Deep convolutional networks on 3D point clouds未成功下载
+2021-05-28 12:45:44,186 - python main.py - WARNING - Monte carlo convolution for learning on non-uniformly sampled point clouds未成功搜索到
+2021-05-28 12:45:48,241 - python main.py - WARNING - SpiderCNN: Deep learning on point sets with parameterized convolutional filters未成功搜索到
+2021-05-28 12:45:52,962 - python main.py - WARNING - Point convolutional neural networks by extension operators未成功搜索到
+2021-05-28 12:45:57,695 - python main.py - WARNING - Learning so(3) equivariant representations with spherical CNNs未成功搜索到
+2021-05-28 12:46:01,374 - python main.py - WARNING - Spherical CNNs未成功搜索到
+2021-05-28 12:46:06,356 - python main.py - WARNING - Effective rotation-invariant point CNN with spherical harmon-ics kernels未成功搜索到
+2021-05-28 12:46:10,244 - python main.py - WARNING - Flex-Convolution未成功搜索到
+2021-05-28 12:46:15,742 - python main.py - INFO - Pointwise convolutional neural networks成功下载
+2021-05-28 12:46:15,743 - python main.py - WARNING - Pointwise convolutional neural networks未成功下载
+2021-05-28 12:46:19,050 - python main.py - WARNING - Octree guided cnn with spheri-cal kernels for 3D point clouds未成功搜索到
+2021-05-28 12:46:24,891 - python main.py - INFO - Modeling local geometric structure of 3D point clouds using geo-cnn成功下载
+2021-05-28 12:46:24,892 - python main.py - WARNING - Modeling local geometric structure of 3D point clouds using geo-cnn未成功下载
+2021-05-28 12:46:27,698 - python main.py - WARNING - PointCNN: Convolution on x-transformed points未成功搜索到
+2021-05-28 12:46:32,842 - python main.py - INFO - Interpolated convolutional networks for 3D point cloud understanding成功下载
+2021-05-28 12:46:32,843 - python main.py - WARNING - Interpolated convolutional networks for 3D point cloud understanding未成功下载
+2021-05-28 12:46:36,135 - python main.py - WARNING - Rotation invariant convolutions for 3D point clouds deep learning未成功搜索到
+2021-05-28 12:46:42,430 - python main.py - INFO - A-CNN: Annularly convolutional neural networks on point clouds成功下载
+2021-05-28 12:46:42,430 - python main.py - WARNING - A-CNN: Annularly convolutional neural networks on point clouds未成功下载
+2021-05-28 12:46:45,700 - python main.py - WARNING - LP-3DCNN: Unveiling local phase in 3D convolutional neural networks未成功搜索到
+2021-05-28 12:46:51,783 - python main.py - INFO - Spherical fractal convolutional neural networks for point cloud recognition成功下载
+2021-05-28 12:46:51,783 - python main.py - WARNING - Spherical fractal convolutional neural networks for point cloud recognition未成功下载
+2021-05-28 12:46:54,790 - python main.py - WARNING - Dynamic edge-conditioned filters in convolutional neural networks on graphs未成功搜索到
+2021-05-28 12:47:02,050 - python main.py - INFO - 3D is here: Point cloud library (PCL)成功下载
+2021-05-28 12:47:02,050 - python main.py - WARNING - 3D is here: Point cloud library (PCL)未成功下载
+2021-05-28 12:47:04,939 - python main.py - WARNING - Dynamic graph CNN for learning on point clouds未成功搜索到
+2021-05-28 12:47:08,819 - python main.py - WARNING - FoldingNet: Point cloud auto-encoder via deep grid deformation未成功搜索到
+2021-05-28 12:47:15,154 - python main.py - WARNING - Going deeper with convolutions未成功搜索到
+2021-05-28 12:47:37,429 - python main.py - INFO - Unsupervised multi-task feature learning on point clouds成功下载
+2021-05-28 12:47:37,429 - python main.py - WARNING - Unsupervised multi-task feature learning on point clouds未成功下载
+2021-05-28 12:47:40,848 - python main.py - WARNING - Dynamic points agglomeration for hierarchical point sets learning未成功搜索到
+2021-05-28 12:47:44,679 - python main.py - WARNING - Mining point cloud local structures by kernel correlation and graph pooling未成功搜索到
+2021-05-28 12:47:50,135 - python main.py - INFO - General-purpose deep point cloud feature extractor成功下载
+2021-05-28 12:47:50,135 - python main.py - WARNING - General-purpose deep point cloud feature extractor未成功下载
+2021-05-28 12:47:52,915 - python main.py - WARNING - Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis未成功搜索到
+2021-05-28 12:47:58,202 - python main.py - INFO - Grid-gcn for fast and scalable point cloud learning成功下载
+2021-05-28 12:47:58,203 - python main.py - WARNING - Grid-gcn for fast and scalable point cloud learning未成功下载
+2021-05-28 12:48:01,600 - python main.py - WARNING - Spectral networks and locally connected networks on graphs未成功搜索到
+2021-05-28 12:48:05,665 - python main.py - WARNING - Convolutional neural networks on graphs with fast localized spectral filtering未成功搜索到
+2021-05-28 12:48:10,682 - python main.py - WARNING - RGCNN: Regularized graph CNN for point cloud segmentation未成功搜索到
+2021-05-28 12:48:14,333 - python main.py - WARNING - Adaptive graph convolu-tional neural networks未成功搜索到
+2021-05-28 12:48:18,033 - python main.py - WARNING - Hypergraph neural networks未成功搜索到
+2021-05-28 12:48:21,758 - python main.py - WARNING - Local spectral graph convo-lution for point set feature learning未成功搜索到
+2021-05-28 12:48:27,847 - python main.py - INFO - A Graph-CNN for 3D point cloud classification成功下载
+2021-05-28 12:48:27,847 - python main.py - WARNING - A Graph-CNN for 3D point cloud classification未成功下载
+2021-05-28 12:48:31,138 - python main.py - WARNING - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models未成功搜索到
+2021-05-28 12:48:34,970 - python main.py - WARNING - 3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues未成功搜索到
+2021-05-28 12:48:41,372 - python main.py - INFO - SO-Net: Self-organizing network for point cloud analysis成功下载
+2021-05-28 12:48:41,373 - python main.py - WARNING - SO-Net: Self-organizing network for point cloud analysis未成功下载
+2021-05-28 12:48:44,214 - python main.py - WARNING - Attentional ShapeContextNet for point cloud recognition未成功搜索到
+2021-05-28 12:48:47,955 - python main.py - WARNING - PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion未成功搜索到
+2021-05-28 12:48:52,711 - python main.py - WARNING - PVRNet: Point-view relation neural network for 3D shape recognition未成功搜索到
+2021-05-28 12:48:58,824 - python main.py - INFO - 3D point capsule networks成功下载
+2021-05-28 12:48:58,825 - python main.py - WARNING - 3D point capsule networks未成功下载
+2021-05-28 12:49:02,332 - python main.py - WARNING - Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network未成功搜索到
+2021-05-28 12:49:05,934 - python main.py - WARNING - Point cloud processing via recurrent set encoding未成功搜索到
+2021-05-28 12:49:10,658 - python main.py - WARNING - PointDAN: A multi-scale 3D domain adaption network for point cloud representation未成功搜索到
+2021-05-28 12:49:14,792 - python main.py - WARNING - Self-supervised deep learning on point clouds by reconstructing space未成功搜索到
+2021-05-28 12:49:20,037 - python main.py - INFO - PointAugment: An auto-augmentation framework for point cloud classification成功下载
+2021-05-28 12:49:20,037 - python main.py - WARNING - PointAugment: An auto-augmentation framework for point cloud classification未成功下载
+2021-05-28 12:49:22,939 - python main.py - WARNING - Shape matching and object recognition using shape contexts未成功搜索到
+2021-05-28 12:49:26,978 - python main.py - WARNING - Attention is all you need未成功搜索到
+2021-05-28 12:49:30,982 - python main.py - WARNING - Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor未成功搜索到
+2021-05-28 12:49:37,142 - python main.py - INFO - Efficient learning on point clouds with basis point sets成功下载
+2021-05-28 12:49:37,143 - python main.py - WARNING - Efficient learning on point clouds with basis point sets未成功下载
+2021-05-28 12:49:40,869 - python main.py - WARNING - Deep learning for generic object detection: A survey未成功搜索到
+2021-05-28 12:49:49,513 - python main.py - INFO - Deep hough voting for 3D object detection in point clouds成功下载
+2021-05-28 12:49:49,513 - python main.py - WARNING - Deep hough voting for 3D object detection in point clouds未成功下载
+2021-05-28 12:49:52,832 - python main.py - WARNING - Point-GNN: Graph neural network for 3D object detection in a point cloud未成功搜索到
+2021-05-28 12:50:03,002 - python main.py - INFO - Joint 3D proposal generation and object detection from view aggregation成功下载
+2021-05-28 12:50:03,002 - python main.py - WARNING - Joint 3D proposal generation and object detection from view aggregation未成功下载
+2021-05-28 12:50:07,259 - python main.py - WARNING - Deep continuous fusion for multi-sensor 3D object detection未成功搜索到
+2021-05-28 12:50:13,184 - python main.py - INFO - Multi-task multi-sensor fusion for 3D object detection成功下载
+2021-05-28 12:50:13,184 - python main.py - WARNING - Multi-task multi-sensor fusion for 3D object detection未成功下载
+2021-05-28 12:50:15,933 - python main.py - WARNING - PIXOR: Real-time 3D object detection from point clouds未成功搜索到
+2021-05-28 12:50:19,768 - python main.py - WARNING - Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net未成功搜索到
+2021-05-28 12:50:24,540 - python main.py - WARNING - RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving未成功搜索到
+2021-05-28 12:50:28,547 - python main.py - WARNING - PointRCNN: 3D object proposal generation and detection from point cloud未成功搜索到
+2021-05-28 12:50:36,519 - python main.py - INFO - PointPainting: Sequential fusion for 3D object detection成功下载
+2021-05-28 12:50:36,520 - python main.py - WARNING - PointPainting: Sequential fusion for 3D object detection未成功下载
+2021-05-28 12:50:39,830 - python main.py - WARNING - VoxelNet: End-to-end learning for point cloud based 3D object detection未成功搜索到
+2021-05-28 12:50:43,696 - python main.py - WARNING - PointPillars: Fast encoders for object detection from point clouds未成功搜索到
+2021-05-28 12:50:49,891 - python main.py - INFO - STD: Sparse-to-dense 3D object detector for point cloud成功下载
+2021-05-28 12:50:49,891 - python main.py - WARNING - STD: Sparse-to-dense 3D object detector for point cloud未成功下载
+2021-05-28 12:50:53,343 - python main.py - WARNING - Frustum PointNets for 3D object detection from RGB-D data未成功搜索到
+2021-05-28 12:50:57,816 - python main.py - WARNING - 3D object detection using scale invariant and feature reweighting networks未成功搜索到
+2021-05-28 12:51:15,269 - python main.py - INFO - PointFusion: Deep sensor fusion for 3D bounding box estimation成功下载
+2021-05-28 12:51:15,269 - python main.py - WARNING - PointFusion: Deep sensor fusion for 3D bounding box estimation未成功下载
+2021-05-28 12:51:18,717 - python main.py - WARNING - RoarNet: A robust 3D object detection based on region approximation refinement未成功搜索到
+2021-05-28 12:51:23,008 - python main.py - WARNING - Frustum convNet: Sliding frustums to ag-gregate local point-wise features for amodal 3D object detection未成功搜索到
+2021-05-28 12:51:28,249 - python main.py - WARNING - Iou loss for 2D/3D object detection未成功搜索到
+2021-05-28 12:51:32,436 - python main.py - WARNING - Fast point r-cnn未成功搜索到
+2021-05-28 12:51:45,344 - python main.py - INFO - PV-RCNN: Point-voxel feature set abstraction for 3D object detection成功下载
+2021-05-28 12:51:45,345 - python main.py - WARNING - PV-RCNN: Point-voxel feature set abstraction for 3D object detection未成功下载
+2021-05-28 12:51:50,562 - python main.py - WARNING - ImVoteNet: Boosting 3D object detection in point clouds with image votes未成功搜索到
+2021-05-28 12:52:00,349 - python main.py - INFO - From points to parts: 3D object detection from point cloud with part-aware and part-aggregation network成功下载
+2021-05-28 12:52:00,350 - python main.py - WARNING - From points to parts: 3D object detection from point cloud with part-aware and part-aggregation network未成功下载
+2021-05-28 12:52:03,841 - python main.py - WARNING - HDNET: Exploiting hd maps for 3D object detection未成功搜索到
+2021-05-28 12:52:07,698 - python main.py - WARNING - BirdNet: a 3D object detection framework from lidar information未成功搜索到
+2021-05-28 12:52:18,690 - python main.py - INFO - 3D fully convolutional network for vehicle detection in point cloud成功下载
+2021-05-28 12:52:18,691 - python main.py - WARNING - 3D fully convolutional network for vehicle detection in point cloud未成功下载
+2021-05-28 12:52:22,246 - python main.py - WARNING - Vote3Deep: Fast object detection in 3D point clouds using effi-cient convolutional neural networks未成功搜索到
+2021-05-28 12:52:28,402 - python main.py - WARNING - 3D backbone network for 3D object detection未成功搜索到
+2021-05-28 12:52:32,219 - python main.py - WARNING - SECOND: Sparsely embedded convo-lutional detection未成功搜索到
+2021-05-28 12:52:40,977 - python main.py - INFO - MVX-Net: Multimodal voxelnet for 3D object detection成功下载
+2021-05-28 12:52:40,978 - python main.py - WARNING - MVX-Net: Multimodal voxelnet for 3D object detection未成功下载
+2021-05-28 12:52:45,138 - python main.py - WARNING - Structure aware single-stage 3D object detection from point cloud未成功搜索到
+2021-05-28 12:52:51,168 - python main.py - INFO - 3DSSD: Point-based 3D single stage object detector成功下载
+2021-05-28 12:52:51,169 - python main.py - WARNING - 3DSSD: Point-based 3D single stage object detector未成功下载
+2021-05-28 12:52:55,021 - python main.py - WARNING - LaserNet: An efficient probabilistic 3D object detec-tor for autonomous driving未成功搜索到
+2021-05-28 12:52:58,963 - python main.py - WARNING - Sensor fusion for joint 3D object detection and seman-tic segmentation未成功搜索到
+2021-05-28 12:53:02,999 - python main.py - WARNING - U-Net: Convolutional networks for biomedical image segmentation未成功搜索到
+2021-05-28 12:53:10,399 - python main.py - INFO - 3D semantic segmentation with submanifold sparse convolutional networks成功下载
+2021-05-28 12:53:10,400 - python main.py - WARNING - 3D semantic segmentation with submanifold sparse convolutional networks未成功下载
+2021-05-28 12:53:13,899 - python main.py - WARNING - Correlation filter tracking: Beyond an open-loop system未成功搜索到
+2021-05-28 12:53:20,363 - python main.py - INFO - Robust long-term tracking via instance specific proposals成功下载
+2021-05-28 12:53:20,364 - python main.py - WARNING - Robust long-term tracking via instance specific proposals未成功下载
+2021-05-28 12:53:23,312 - python main.py - WARNING - Fully-convolutional siamese networks for object tracking未成功搜索到
+2021-05-28 12:53:27,487 - python main.py - WARNING - Leveraging shape com-pletion for 3D siamese tracking未成功搜索到
+2021-05-28 12:53:31,034 - python main.py - WARNING - Context-aware correla-tion filter tracking未成功搜索到
+2021-05-28 12:53:39,941 - python main.py - INFO - Complexer-YOLO: Real-time 3D object detection and tracking on semantic point clouds成功下载
+2021-05-28 12:53:39,941 - python main.py - WARNING - Complexer-YOLO: Real-time 3D object detection and tracking on semantic point clouds未成功下载
+2021-05-28 12:53:42,934 - python main.py - WARNING - P2B: Point-to-box network for 3D object tracking in point clouds未成功搜索到
+2021-05-28 12:53:49,653 - python main.py - INFO - FlowNet3D: Learning scene flow in 3D point clouds成功下载
+2021-05-28 12:53:49,653 - python main.py - WARNING - FlowNet3D: Learning scene flow in 3D point clouds未成功下载
+2021-05-28 12:53:52,551 - python main.py - WARNING - FlowNet3D++: Geometric losses for deep scene flow estima-tion未成功搜索到
+2021-05-28 12:53:56,883 - python main.py - WARNING - HPLFlowNet: Hierarchical permutohedral lattice flowNet for scene flow esti-mation on large-scale point clouds未成功搜索到
+2021-05-28 12:54:03,343 - python main.py - INFO - MeteorNet: Deep learning on dynamic 3D point cloud sequences成功下载
+2021-05-28 12:54:03,343 - python main.py - WARNING - MeteorNet: Deep learning on dynamic 3D point cloud sequences未成功下载
+2021-05-28 12:54:06,926 - python main.py - WARNING - Just go with the flow: Self-supervised scene flow estimation未成功搜索到
+2021-05-28 12:54:15,319 - python main.py - WARNING - Deep projective 3D semantic segmentation未成功搜索到
+2021-05-28 12:54:19,528 - python main.py - WARNING - Unstructured point cloud semantic labeling using deep segmentation networks未成功搜索到
+2021-05-28 12:54:24,120 - python main.py - WARNING - SqueezeSeg: Convo-lutional neural nets with recurrent crf for real-time road-object segmentation from 3D lidar point cloud未成功搜索到
+2021-05-28 12:54:31,471 - python main.py - INFO - SqueezeSegV2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud成功下载
+2021-05-28 12:54:31,471 - python main.py - WARNING - SqueezeSegV2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud未成功下载
+2021-05-28 12:54:34,771 - python main.py - WARNING - RangeNet++: Fast and accurate lidar semantic segmentation未成功搜索到
+2021-05-28 12:54:42,107 - python main.py - INFO - VV-Net: Voxel vae net with group convolutions for point cloud segmentation成功下载
+2021-05-28 12:54:42,107 - python main.py - WARNING - VV-Net: Voxel vae net with group convolutions for point cloud segmentation未成功下载
+2021-05-28 12:54:45,693 - python main.py - WARNING - Fully-convolutional point networks for large-scale point clouds未成功搜索到
+2021-05-28 12:54:51,916 - python main.py - INFO - SplatNet: Sparse lattice networks for point cloud processing成功下载
+2021-05-28 12:54:51,917 - python main.py - WARNING - SplatNet: Sparse lattice networks for point cloud processing未成功下载
+2021-05-28 12:54:54,738 - python main.py - WARNING - 3DMV: Joint 3D-multi-view prediction for 3D semantic scene segmentation未成功搜索到
+2021-05-28 12:54:59,756 - python main.py - INFO - Multi-view pointNet for 3D scene understanding成功下载
+2021-05-28 12:54:59,757 - python main.py - WARNING - Multi-view pointNet for 3D scene understanding未成功下载
+2021-05-28 12:55:02,988 - python main.py - WARNING - Semantic segmentation of earth observation data using multimodal and multi-scale deep networks未成功搜索到
+2021-05-28 12:55:08,151 - python main.py - INFO - Tangent convolutions for dense prediction in 3D成功下载
+2021-05-28 12:55:08,151 - python main.py - WARNING - Tangent convolutions for dense prediction in 3D未成功下载
+2021-05-28 12:55:10,809 - python main.py - WARNING - SqueezeNet: Alexnet-level accuracy with 50x fewer parameters and < 0.5 MB model size未成功搜索到
+2021-05-28 12:55:14,493 - python main.py - WARNING - Point cloud labeling using 3D convolu-tional neural network未成功搜索到
+2021-05-28 12:55:18,277 - python main.py - WARNING - SEG-Cloud: Semantic segmentation of 3D point clouds未成功搜索到
+2021-05-28 12:55:23,300 - python main.py - WARNING - Fully convolutional net-works for semantic segmentation未成功搜索到
+2021-05-28 12:55:28,264 - python main.py - WARNING - ScanComplete: Large-scale scene completion and semantic seg-mentation for 3D scans未成功搜索到
+2021-05-28 12:55:34,869 - python main.py - INFO - 4D spatio-temporal convnets: Minkowski convolutional neural networks成功下载
+2021-05-28 12:55:34,870 - python main.py - WARNING - 4D spatio-temporal convnets: Minkowski convolutional neural networks未成功下载
+2021-05-28 12:55:37,641 - python main.py - WARNING - A unified point-based framework for 3D segmentation未成功搜索到
+2021-05-28 12:55:43,818 - python main.py - INFO - Deep parametric continuous convolutional neural networks成功下载
+2021-05-28 12:55:43,819 - python main.py - WARNING - Deep parametric continuous convolutional neural networks未成功下载
+2021-05-28 12:55:46,643 - python main.py - WARNING - 3D recurrent neural networks with context fusion for point cloud semantic segmentation未成功搜索到
+2021-05-28 12:55:50,410 - python main.py - WARNING - Large-scale point cloud seman-tic segmentation with superpoint graphs未成功搜索到
+2021-05-28 12:55:54,401 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-28 12:56:00,427 - python main.py - INFO - ShellNet: Efficient point cloud convolutional neural networks using concentric shells statistics成功下载
+2021-05-28 12:56:00,428 - python main.py - WARNING - ShellNet: Efficient point cloud convolutional neural networks using concentric shells statistics未成功下载
+2021-05-28 12:56:03,285 - python main.py - WARNING - RandLA-Net: Efficient semantic segmentation of large-scale point clouds未成功搜索到
+2021-05-28 12:56:11,571 - python main.py - INFO - Pooling scores of neighboring points for improved 3D point cloud segmentation成功下载
+2021-05-28 12:56:11,571 - python main.py - WARNING - Pooling scores of neighboring points for improved 3D point cloud segmentation未成功下载
+2021-05-28 12:56:14,973 - python main.py - WARNING - NetVLAD: CNN architecture for weakly supervised place recognition未成功搜索到
+2021-05-28 12:56:21,027 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-28 12:56:24,773 - python main.py - WARNING - Dilated point con-volutions: On the receptive field of point convolutions未成功搜索到
+2021-05-28 12:56:31,004 - python main.py - INFO - Recurrent slice networks for 3D segmentation of point clouds成功下载
+2021-05-28 12:56:31,004 - python main.py - WARNING - Recurrent slice networks for 3D segmentation of point clouds未成功下载
+2021-05-28 12:56:34,438 - python main.py - WARNING - Ex-ploring spatial context for 3D semantic segmentation of point clouds未成功搜索到
+2021-05-28 12:56:40,683 - python main.py - INFO - Point cloud oversegmentation with graph-structured deep metric learning成功下载
+2021-05-28 12:56:40,683 - python main.py - WARNING - Point cloud oversegmentation with graph-structured deep metric learning未成功下载
+2021-05-28 12:56:43,688 - python main.py - WARNING - Graph attention convolution for point cloud semantic segmentation未成功搜索到
+2021-05-28 12:56:49,282 - python main.py - INFO - Hierarchical depthwise graph convolutional neural network for 3D semantic segmentation of point clouds成功下载
+2021-05-28 12:56:49,283 - python main.py - WARNING - Hierarchical depthwise graph convolutional neural network for 3D semantic segmentation of point clouds未成功下载
+2021-05-28 12:56:52,085 - python main.py - WARNING - Hierar-chical point-edge interaction network for point cloud semantic segmentation未成功搜索到
+2021-05-28 12:56:58,258 - python main.py - INFO - 3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds成功下载
+2021-05-28 12:56:58,259 - python main.py - WARNING - 3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds未成功下载
+2021-05-28 12:57:02,325 - python main.py - WARNING - PyramNet: Point cloud pyramid attention network and graph embedding module for classification and segmentation未成功搜索到
+2021-05-28 12:57:08,202 - python main.py - INFO - Global context reasoning for semantic segmentation of 3D point clouds成功下载
+2021-05-28 12:57:08,203 - python main.py - WARNING - Global context reasoning for semantic segmentation of 3D point clouds未成功下载
+2021-05-28 12:57:11,720 - python main.py - WARNING - Multi-path region mining for weakly supervised 3D semantic segmentation on point clouds未成功搜索到
+2021-05-28 12:57:16,706 - python main.py - WARNING - Weakly supervised semantic point cloud segmentation: Towards 10x fewer labels未成功搜索到
+2021-05-28 12:57:22,333 - python main.py - INFO - 3D-SIS: 3D semantic instance segmentation of RGB-D scans成功下载
+2021-05-28 12:57:22,333 - python main.py - WARNING - 3D-SIS: 3D semantic instance segmentation of RGB-D scans未成功下载
+2021-05-28 12:57:25,465 - python main.py - WARNING - GSPN: Generative shape proposal network for 3D instance segmentation in point cloud未成功搜索到
+2021-05-28 12:57:30,980 - python main.py - INFO - PanopticFusion: Online volumetric semantic mapping at the level of stuff and things成功下载
+2021-05-28 12:57:30,980 - python main.py - WARNING - PanopticFusion: Online volumetric semantic mapping at the level of stuff and things未成功下载
+2021-05-28 12:57:34,655 - python main.py - WARNING - Learning object bounding boxes for 3D instance segmentation on point clouds未成功搜索到
+2021-05-28 12:57:41,236 - python main.py - INFO - Instance segmentation of lidar point clouds成功下载
+2021-05-28 12:57:41,236 - python main.py - WARNING - Instance segmentation of lidar point clouds未成功下载
+2021-05-28 12:57:50,106 - python main.py - WARNING - Hierarchy de-noising recursive autoencoders for 3D scene layout prediction未成功搜索到
+2021-05-28 12:57:54,237 - python main.py - WARNING - 3d-mpa: Multi-proposal aggregation for 3d semantic instance segmentation未成功搜索到
+2021-05-28 12:58:09,848 - python main.py - WARNING - SGPN: Similarity group proposal network for 3D point cloud instance segmenta-tion未成功搜索到
+2021-05-28 12:58:15,460 - python main.py - INFO - Associatively segmenting instances and semantics in point clouds成功下载
+2021-05-28 12:58:15,461 - python main.py - WARNING - Associatively segmenting instances and semantics in point clouds未成功下载
+2021-05-28 12:58:18,659 - python main.py - WARNING - JSIS3D: Joint semantic-instance segmentation of 3D point clouds with multi-task pointwise networks and multi-value conditional random fields未成功搜索到
+2021-05-28 12:58:22,445 - python main.py - WARNING - 3D-BEVIS: Birds-eye-view instance segmentation未成功搜索到
+2021-05-28 12:58:32,124 - python main.py - INFO - Occuseg: Occupancy-aware 3d instance segmentation成功下载
+2021-05-28 12:58:32,125 - python main.py - WARNING - Occuseg: Occupancy-aware 3d instance segmentation未成功下载
+2021-05-28 12:58:35,537 - python main.py - WARNING - PointGroup: Dual-set point grouping for 3D instance segmentation未成功搜索到
+2021-05-28 12:58:45,241 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-28 12:58:49,785 - python main.py - WARNING - JSNet: Joint instance and semantic segmen-tation of 3D point clouds未成功搜索到
+2021-05-28 12:58:55,668 - python main.py - INFO - Semantic instance segmentation with a discriminative loss function成功下载
+2021-05-28 12:58:55,668 - python main.py - WARNING - Semantic instance segmentation with a discriminative loss function未成功下载
+2021-05-28 12:58:58,424 - python main.py - WARNING - Semantic labeling and instance segmentation of 3D point clouds using patch context analysis and multiscale processing未成功搜索到
+2021-05-28 12:59:01,935 - python main.py - WARNING - Mean shift: A robust approach toward feature space analysis未成功搜索到
+2021-05-28 12:59:08,373 - python main.py - INFO - 3D instance segmentation via multi-task metric learning成功下载
+2021-05-28 12:59:08,374 - python main.py - WARNING - 3D instance segmentation via multi-task metric learning未成功下载
+2021-05-28 12:59:12,532 - python main.py - WARNING - VoxSegNet: Volumetric CNNs for semantic part segmentation of 3D shapes未成功搜索到
+2021-05-28 12:59:18,823 - python main.py - INFO - 3D shape segmentation with projective convolutional networks成功下载
+2021-05-28 12:59:18,823 - python main.py - WARNING - 3D shape segmentation with projective convolutional networks未成功下载
+2021-05-28 12:59:22,968 - python main.py - WARNING - SyncSpecCNN: Synchro-nized spectral CNN for 3D shape segmentation未成功搜索到
+2021-05-28 12:59:26,749 - python main.py - WARNING - 3D shape segmentation via shape fully convolutional networks未成功搜索到
+2021-05-28 12:59:33,721 - python main.py - INFO - BAE-NET: Branched autoencoder for shape co-segmentation成功下载
+2021-05-28 12:59:33,722 - python main.py - WARNING - BAE-NET: Branched autoencoder for shape co-segmentation未成功下载
+2021-05-28 12:59:37,486 - python main.py - WARNING - PartNet: A recursive part decomposition network for fine-grained and hierarchical shape segmentation未成功搜索到
+2021-05-28 12:59:44,708 - python main.py - WARNING - Learn-ing to group: A bottom-up framework for 3D part discovery in unseen categories未成功搜索到
+2021-05-28 12:59:56,708 - python main.py - WARNING - Point-Voxel CNN for efficient 3D deep learning未成功搜索到
+2021-05-28 12:59:57,222 - python main.py - INFO - IEEE网站搜索完成
+2021-05-28 12:59:57,222 - python main.py - INFO - IEEE下载论文成功重命名
+2021-05-28 13:00:16,955 - python main.py - INFO - ShapeNet: An information-rich 3D model repository成功下载
+2021-05-28 13:00:17,663 - python main.py - INFO - Deep learning advances on different 3D data representations: A survey成功下载
+2021-05-28 13:00:18,320 - python main.py - INFO - Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways成功下载
+2021-05-28 13:00:18,976 - python main.py - INFO - Dales: A large-scale aerial lidar data set for semantic segmentation成功下载
+2021-05-28 13:00:19,690 - python main.py - INFO - 3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks成功下载
+2021-05-28 13:00:20,334 - python main.py - INFO - Generalizing discrete convolutions for unstructured point clouds成功下载
+2021-05-28 13:00:21,030 - python main.py - INFO - Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds成功下载
+2021-05-28 13:00:21,901 - python main.py - INFO - Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features成功下载
+2021-05-28 13:00:22,563 - python main.py - INFO - Modern hierarchical, agglomerative clustering algo-rithms成功下载
+2021-05-28 13:00:23,218 - python main.py - INFO - 3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN成功下载
+2021-05-28 13:00:23,890 - python main.py - INFO - Deep RBFNet: Point cloud feature learning using radial basis functions成功下载
+2021-05-28 13:00:24,514 - python main.py - INFO - IPOD: Intensive point-based object detector for point cloud成功下载
+2021-05-28 13:00:25,153 - python main.py - INFO - PointRGCN: Graph con-volution networks for 3D vehicles detection refinement成功下载
+2021-05-28 13:00:25,824 - python main.py - INFO - PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation成功下载
+2021-05-28 13:00:26,527 - python main.py - INFO - Patch refinement - localized 3D object detection成功下载
+2021-05-28 13:00:27,217 - python main.py - INFO - Relation graph network for 3D object detection in point clouds成功下载
+2021-05-28 13:00:27,897 - python main.py - INFO - Vehicle detection from 3D lidar using fully convolutional network成功下载
+2021-05-28 13:00:28,938 - python main.py - INFO - Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots成功下载
+2021-05-28 13:00:29,606 - python main.py - INFO - Efficient tracking pro-posals using 2D-3D siamese networks on lidar成功下载
+2021-05-28 13:00:30,270 - python main.py - INFO - PointRNN: Point recurrent neural net-work for moving point cloud processing成功下载
+2021-05-28 13:00:30,990 - python main.py - INFO - LatticeNet: Fast point cloud segmentation using permutohedral lattices成功下载
+2021-05-28 13:00:32,820 - python main.py - INFO - LSANet: Feature learning on point sets by local spatial attention成功下载
+2021-05-28 13:00:33,511 - python main.py - INFO - Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds成功下载
+2021-05-28 13:00:34,180 - python main.py - INFO - Spherical convolutional neural network for 3D point clouds成功下载
+2021-05-28 13:00:34,850 - python main.py - INFO - DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation成功下载
+2021-05-28 13:00:35,513 - python main.py - INFO - MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation成功下载
+2021-05-28 13:00:36,270 - python main.py - INFO - 3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation成功下载
+2021-05-28 13:00:36,944 - python main.py - INFO - Point cloud instance segmentation us-ing probabilistic embeddings成功下载
+2021-05-28 13:00:37,688 - python main.py - INFO - CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss成功下载
+2021-05-28 13:00:37,688 - python main.py - INFO - arxiv网站搜索完成
+2021-05-28 13:05:55,953 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:12:15,963 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:12:23,759 - python main.py - INFO - ShapeNet: An information-rich 3D model repository成功下载
+2021-05-28 13:12:24,409 - python main.py - INFO - Deep learning advances on different 3D data representations: A survey成功下载
+2021-05-28 13:12:26,680 - python main.py - INFO - Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways成功下载
+2021-05-28 13:12:28,449 - python main.py - INFO - Dales: A large-scale aerial lidar data set for semantic segmentation成功下载
+2021-05-28 13:12:29,558 - python main.py - INFO - 3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks成功下载
+2021-05-28 13:12:30,195 - python main.py - INFO - Generalizing discrete convolutions for unstructured point clouds成功下载
+2021-05-28 13:12:31,504 - python main.py - INFO - Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds成功下载
+2021-05-28 13:12:43,535 - python main.py - INFO - Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features成功下载
+2021-05-28 13:12:50,817 - python main.py - INFO - Modern hierarchical, agglomerative clustering algo-rithms成功下载
+2021-05-28 13:12:56,282 - python main.py - INFO - 3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN成功下载
+2021-05-28 13:13:03,529 - python main.py - INFO - Deep RBFNet: Point cloud feature learning using radial basis functions成功下载
+2021-05-28 13:13:05,306 - python main.py - INFO - IPOD: Intensive point-based object detector for point cloud成功下载
+2021-05-28 13:13:06,855 - python main.py - INFO - PointRGCN: Graph con-volution networks for 3D vehicles detection refinement成功下载
+2021-05-28 13:13:12,313 - python main.py - INFO - PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation成功下载
+2021-05-28 13:13:14,164 - python main.py - INFO - Patch refinement - localized 3D object detection成功下载
+2021-05-28 13:13:21,154 - python main.py - INFO - Relation graph network for 3D object detection in point clouds成功下载
+2021-05-28 13:13:23,974 - python main.py - INFO - Vehicle detection from 3D lidar using fully convolutional network成功下载
+2021-05-28 13:13:33,630 - python main.py - INFO - Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots成功下载
+2021-05-28 13:13:37,372 - python main.py - INFO - Efficient tracking pro-posals using 2D-3D siamese networks on lidar成功下载
+2021-05-28 13:13:38,079 - python main.py - INFO - PointRNN: Point recurrent neural net-work for moving point cloud processing成功下载
+2021-05-28 13:13:38,705 - python main.py - INFO - LatticeNet: Fast point cloud segmentation using permutohedral lattices成功下载
+2021-05-28 13:13:43,395 - python main.py - INFO - LSANet: Feature learning on point sets by local spatial attention成功下载
+2021-05-28 13:13:57,641 - python main.py - INFO - Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds成功下载
+2021-05-28 13:13:59,384 - python main.py - INFO - Spherical convolutional neural network for 3D point clouds成功下载
+2021-05-28 13:14:00,036 - python main.py - INFO - DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation成功下载
+2021-05-28 13:14:02,644 - python main.py - INFO - MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation成功下载
+2021-05-28 13:14:16,270 - python main.py - INFO - 3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation成功下载
+2021-05-28 13:14:17,706 - python main.py - INFO - Point cloud instance segmentation us-ing probabilistic embeddings成功下载
+2021-05-28 13:14:30,860 - python main.py - INFO - CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss成功下载
+2021-05-28 13:14:30,860 - python main.py - INFO - arxiv网站搜索完成
+2021-05-28 13:20:07,524 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:20:09,027 - python main.py - INFO - arxiv网站搜索完成
+2021-05-28 13:20:09,028 - python main.py - INFO - arxiv下载论文重命名完成
+2021-05-28 13:20:09,029 - python main.py - INFO - 成功将论文对应下载地址写入url.txt中
+2021-05-28 13:21:30,065 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:21:31,658 - python main.py - INFO - arxiv网站搜索完成
+2021-05-28 13:21:31,659 - python main.py - INFO - arxiv下载论文重命名完成
+2021-05-28 13:22:15,475 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:22:17,037 - python main.py - INFO - arxiv网站搜索完成
+2021-05-28 13:22:17,046 - python main.py - INFO - arxiv下载论文重命名完成
+2021-05-28 13:22:37,215 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:22:38,549 - python main.py - INFO - arxiv网站搜索完成
+2021-05-28 13:23:33,514 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:23:34,866 - python main.py - INFO - arxiv网站搜索完成
+2021-05-28 13:23:35,009 - python main.py - INFO - arxiv下载论文重命名完成
+2021-05-28 13:43:30,645 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:43:34,104 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 13:43:54,490 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-28 13:43:54,490 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy未成功下载
+2021-05-28 13:43:57,695 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 13:44:26,318 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:44:29,630 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 13:44:35,658 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy未成功搜索到
+2021-05-28 13:44:41,777 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 13:44:47,180 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:44:51,236 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 13:45:18,570 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-28 13:45:23,840 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 13:45:27,108 - python main.py - WARNING - 3D object recognition in cluttered scenes with local surface features: a survey未成功搜索到
+2021-05-28 13:48:54,038 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 13:48:58,113 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 13:49:25,697 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-28 13:49:28,658 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 13:49:35,196 - python main.py - INFO - 3D object recognition in cluttered scenes with local surface features: a survey成功下载
+2021-05-28 13:49:39,106 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving未成功搜索到
+2021-05-28 13:49:46,110 - python main.py - INFO - PointNet: Deep learning on point sets for 3D classification and segmentation成功下载
+2021-05-28 13:49:49,020 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes未成功搜索到
+2021-05-28 13:49:58,098 - python main.py - INFO - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data成功下载
+2021-05-28 13:50:01,814 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-28 13:50:05,825 - python main.py - WARNING - 3D semantic parsing of large-scale indoor spaces未成功搜索到
+2021-05-28 13:50:16,215 - python main.py - INFO - ScanNet: Richly-annotated 3D reconstructions of indoor scenes成功下载
+2021-05-28 13:50:19,257 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark未成功搜索到
+2021-05-28 13:50:28,169 - python main.py - INFO - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving成功下载
+2021-05-28 13:50:31,284 - python main.py - WARNING - Are we ready for au-tonomous driving未成功搜索到
+2021-05-28 13:50:35,183 - python main.py - WARNING - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences未成功搜索到
+2021-05-28 13:50:40,266 - python main.py - WARNING - 3D point cloud registra-tion for localization using a deep neural network auto-encoder未成功搜索到
+2021-05-28 13:50:51,564 - python main.py - WARNING - Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge未成功搜索到
+2021-05-28 13:51:00,700 - python main.py - INFO - Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era成功下载
+2021-05-28 13:51:05,071 - python main.py - WARNING - Deep learning advances in computer vision with 3D data: A survey未成功搜索到
+2021-05-28 13:51:09,122 - python main.py - WARNING - A review of point cloud semantic segmentation未成功搜索到
+2021-05-28 13:51:15,777 - python main.py - WARNING - Recent advances in 3D object detection in the era of deep neural networks: A survey未成功搜索到
+2021-05-28 13:51:20,127 - python main.py - WARNING - Retrieving articulated 3-D models using medial surfaces未成功搜索到
+2021-05-28 13:51:24,661 - python main.py - WARNING - Unsuper-vised feature learning for classification of outdoor 3D scans未成功搜索到
+2021-05-28 13:51:33,489 - python main.py - INFO - Sun RGB-D: A RGB-D scene understanding benchmark suite成功下载
+2021-05-28 13:51:36,680 - python main.py - WARNING - The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes未成功搜索到
+2021-05-28 13:51:46,637 - python main.py - INFO - Argoverse: 3D tracking and forecasting with rich maps成功下载
+2021-05-28 13:51:50,501 - python main.py - WARNING - Lyft level 5 av dataset 2019未成功搜索到
+2021-05-28 13:51:54,896 - python main.py - WARNING - A*3D dataset: Towards autonomous driving in challenging environments未成功搜索到
+2021-05-28 13:51:58,709 - python main.py - WARNING - Scalabil-ity in perception for autonomous driving: Waymo open dataset未成功搜索到
+2021-05-28 13:52:07,291 - python main.py - INFO - nuscenes: A multimodal dataset for autonomous driving成功下载
+2021-05-28 13:52:11,161 - python main.py - WARNING - Con-textual classification with functional max-margin markov net-works未成功搜索到
+2021-05-28 13:52:15,791 - python main.py - WARNING - The isprs benchmark on urban object classifi-cation and 3D building reconstruction未成功搜索到
+2021-05-28 13:52:20,202 - python main.py - WARNING - Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods未成功搜索到
+2021-05-28 13:52:26,269 - python main.py - WARNING - Terramobilita/iqmulus urban point cloud analysis benchmark未成功搜索到
+2021-05-28 13:52:36,931 - python main.py - WARNING - Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification未成功搜索到
+2021-05-28 13:52:43,460 - python main.py - INFO - SCANet: Spatial-channel attention network for 3D object detection成功下载
+2021-05-28 13:52:47,390 - python main.py - WARNING - Multi-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-28 13:52:53,534 - python main.py - INFO - Multi-view harmonized bilinear network for 3D object recognition成功下载
+2021-05-28 13:52:57,165 - python main.py - WARNING - Learning relationships for multi-view 3D object recognition未成功搜索到
+2021-05-28 13:53:02,829 - python main.py - INFO - Volumetric and multi-view CNNs for object classification on 3D data成功下载
+2021-05-28 13:53:05,742 - python main.py - WARNING - GVCNN: Group-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-28 13:53:10,478 - python main.py - WARNING - Dominant set clustering and pooling for multi-view 3D object recognition未成功搜索到
+2021-05-28 13:53:14,523 - python main.py - WARNING - Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval未成功搜索到
+2021-05-28 13:53:18,624 - python main.py - WARNING - View-gcn: View-based graph convolu-tional network for 3D shape analysis未成功搜索到
+2021-05-28 13:53:27,441 - python main.py - INFO - VoxNet: A 3D convolutional neural network for real-time object recognition成功下载
+2021-05-28 13:53:30,539 - python main.py - WARNING - OctNet: Learning deep 3D representations at high resolutions未成功搜索到
+2021-05-28 13:53:35,547 - python main.py - WARNING - O-CNN: Octree-based convolutional neural networks for 3D shape analysis未成功搜索到
+2021-05-28 13:53:44,089 - python main.py - INFO - PointGrid: A deep network for 3D shape understanding成功下载
+2021-05-28 13:53:47,692 - python main.py - WARNING - Deep sets未成功搜索到
+2021-05-28 13:53:53,286 - python main.py - WARNING - PointNet++: Deep hierarchical feature learning on point sets in a metric space未成功搜索到
+2021-05-28 13:53:58,514 - python main.py - WARNING - Mo-Net: Flavor the moments in learning to classify shapes未成功搜索到
+2021-05-28 13:54:05,565 - python main.py - INFO - Modeling point clouds with self-attention and gumbel subset sampling成功下载
+2021-05-28 13:54:10,672 - python main.py - WARNING - PointWeb: Enhancing lo-cal neighborhood features for point cloud processing未成功搜索到
+2021-05-28 13:54:21,036 - python main.py - INFO - Structural relational reasoning of point clouds成功下载
+2021-05-28 13:54:24,654 - python main.py - WARNING - Justlookup: One millisecond deep feature extraction for point clouds by lookup tables未成功搜索到
+2021-05-28 13:54:28,826 - python main.py - WARNING - SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation未成功搜索到
+2021-05-28 13:54:36,921 - python main.py - INFO - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling成功下载
+2021-05-28 13:54:40,257 - python main.py - WARNING - Relation-shape convolu-tional neural network for point cloud analysis未成功搜索到
+2021-05-28 13:54:46,870 - python main.py - INFO - DensePoint: Learning densely contextual representation for efficient point cloud processing成功下载
+2021-05-28 13:54:50,884 - python main.py - WARNING - KPConv: Flexible and deformable convolution for point clouds未成功搜索到
+2021-05-28 13:54:55,302 - python main.py - WARNING - ConvPoint: continuous convolutions for point cloud processing未成功搜索到
+2021-05-28 13:55:19,825 - python main.py - INFO - PointConv: Deep convolutional networks on 3D point clouds成功下载
+2021-05-28 13:55:24,234 - python main.py - WARNING - Monte carlo convolution for learning on non-uniformly sampled point clouds未成功搜索到
+2021-05-28 13:55:28,131 - python main.py - WARNING - SpiderCNN: Deep learning on point sets with parameterized convolutional filters未成功搜索到
+2021-05-28 13:55:31,967 - python main.py - WARNING - Point convolutional neural networks by extension operators未成功搜索到
+2021-05-28 13:55:37,256 - python main.py - WARNING - Learning so(3) equivariant representations with spherical CNNs未成功搜索到
+2021-05-28 13:55:41,580 - python main.py - WARNING - Spherical CNNs未成功搜索到
+2021-05-28 13:55:46,418 - python main.py - WARNING - Effective rotation-invariant point CNN with spherical harmon-ics kernels未成功搜索到
+2021-05-28 13:55:50,384 - python main.py - WARNING - Flex-Convolution未成功搜索到
+2021-05-28 13:55:56,500 - python main.py - INFO - Pointwise convolutional neural networks成功下载
+2021-05-28 13:55:59,598 - python main.py - WARNING - Octree guided cnn with spheri-cal kernels for 3D point clouds未成功搜索到
+2021-05-28 13:56:11,049 - python main.py - INFO - Modeling local geometric structure of 3D point clouds using geo-cnn成功下载
+2021-05-28 13:56:14,463 - python main.py - WARNING - PointCNN: Convolution on x-transformed points未成功搜索到
+2021-05-28 13:56:49,457 - python main.py - INFO - Interpolated convolutional networks for 3D point cloud understanding成功下载
+2021-05-28 13:56:58,042 - python main.py - WARNING - Rotation invariant convolutions for 3D point clouds deep learning未成功搜索到
+2021-05-28 13:57:05,141 - python main.py - INFO - A-CNN: Annularly convolutional neural networks on point clouds成功下载
+2021-05-28 13:57:08,136 - python main.py - WARNING - LP-3DCNN: Unveiling local phase in 3D convolutional neural networks未成功搜索到
+2021-05-28 13:57:13,537 - python main.py - INFO - Spherical fractal convolutional neural networks for point cloud recognition成功下载
+2021-05-28 13:57:16,723 - python main.py - WARNING - Dynamic edge-conditioned filters in convolutional neural networks on graphs未成功搜索到
+2021-05-28 13:57:22,702 - python main.py - INFO - 3D is here: Point cloud library (PCL)成功下载
+2021-05-28 13:57:26,224 - python main.py - WARNING - Dynamic graph CNN for learning on point clouds未成功搜索到
+2021-05-28 13:57:33,231 - python main.py - INFO - FoldingNet: Point cloud auto-encoder via deep grid deformation成功下载
+2021-05-28 13:57:36,783 - python main.py - WARNING - Going deeper with convolutions未成功搜索到
+2021-05-28 13:57:43,420 - python main.py - INFO - Unsupervised multi-task feature learning on point clouds成功下载
+2021-05-28 13:57:46,526 - python main.py - WARNING - Dynamic points agglomeration for hierarchical point sets learning未成功搜索到
+2021-05-28 13:57:53,918 - python main.py - INFO - Mining point cloud local structures by kernel correlation and graph pooling成功下载
+2021-05-28 13:57:56,792 - python main.py - WARNING - General-purpose deep point cloud feature extractor未成功搜索到
+2021-05-28 13:58:01,659 - python main.py - WARNING - Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis未成功搜索到
+2021-05-28 13:58:10,653 - python main.py - INFO - Grid-gcn for fast and scalable point cloud learning成功下载
+2021-05-28 13:58:14,352 - python main.py - WARNING - Spectral networks and locally connected networks on graphs未成功搜索到
+2021-05-28 13:58:19,056 - python main.py - WARNING - Convolutional neural networks on graphs with fast localized spectral filtering未成功搜索到
+2021-05-28 13:58:23,553 - python main.py - WARNING - RGCNN: Regularized graph CNN for point cloud segmentation未成功搜索到
+2021-05-28 13:58:27,354 - python main.py - WARNING - Adaptive graph convolu-tional neural networks未成功搜索到
+2021-05-28 13:58:31,582 - python main.py - WARNING - Hypergraph neural networks未成功搜索到
+2021-05-28 13:58:36,506 - python main.py - WARNING - Local spectral graph convo-lution for point set feature learning未成功搜索到
+2021-05-28 13:58:43,025 - python main.py - INFO - A Graph-CNN for 3D point cloud classification成功下载
+2021-05-28 13:58:46,322 - python main.py - WARNING - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models未成功搜索到
+2021-05-28 13:58:50,040 - python main.py - WARNING - 3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues未成功搜索到
+2021-05-28 13:58:54,321 - python main.py - WARNING - SO-Net: Self-organizing network for point cloud analysis未成功搜索到
+2021-05-28 13:59:03,760 - python main.py - INFO - Attentional ShapeContextNet for point cloud recognition成功下载
+2021-05-28 13:59:08,942 - python main.py - WARNING - PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion未成功搜索到
+2021-05-28 13:59:13,667 - python main.py - WARNING - PVRNet: Point-view relation neural network for 3D shape recognition未成功搜索到
+2021-05-28 13:59:18,020 - python main.py - WARNING - 3D point capsule networks未成功搜索到
+2021-05-28 13:59:26,149 - python main.py - WARNING - Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network未成功搜索到
+2021-05-28 13:59:31,225 - python main.py - WARNING - Point cloud processing via recurrent set encoding未成功搜索到
+2021-05-28 13:59:39,757 - python main.py - WARNING - PointDAN: A multi-scale 3D domain adaption network for point cloud representation未成功搜索到
+2021-05-28 13:59:44,886 - python main.py - WARNING - Self-supervised deep learning on point clouds by reconstructing space未成功搜索到
+2021-05-28 13:59:53,266 - python main.py - WARNING - PointAugment: An auto-augmentation framework for point cloud classification未成功搜索到
+2021-05-28 13:59:58,346 - python main.py - WARNING - Shape matching and object recognition using shape contexts未成功搜索到
+2021-05-28 14:00:06,854 - python main.py - WARNING - Attention is all you need未成功搜索到
+2021-05-28 14:00:11,831 - python main.py - WARNING - Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor未成功搜索到
+2021-05-28 14:00:21,464 - python main.py - WARNING - Efficient learning on point clouds with basis point sets未成功搜索到
+2021-05-28 14:00:25,617 - python main.py - WARNING - Deep learning for generic object detection: A survey未成功搜索到
+2021-05-28 14:00:54,698 - python main.py - WARNING - Deep hough voting for 3D object detection in point clouds未成功搜索到
+2021-05-28 14:01:24,424 - python main.py - WARNING - Point-GNN: Graph neural network for 3D object detection in a point cloud未成功搜索到
+2021-05-28 14:01:44,943 - python main.py - WARNING - Joint 3D proposal generation and object detection from view aggregation未成功搜索到
+2021-05-28 14:01:47,130 - python main.py - WARNING - Deep continuous fusion for multi-sensor 3D object detection未成功搜索到
+2021-05-28 14:01:49,208 - python main.py - WARNING - Multi-task multi-sensor fusion for 3D object detection未成功搜索到
+2021-05-28 14:01:51,312 - python main.py - WARNING - PIXOR: Real-time 3D object detection from point clouds未成功搜索到
+2021-05-28 14:01:53,357 - python main.py - WARNING - Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net未成功搜索到
+2021-05-28 14:01:55,387 - python main.py - WARNING - RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving未成功搜索到
+2021-05-28 14:01:57,403 - python main.py - WARNING - PointRCNN: 3D object proposal generation and detection from point cloud未成功搜索到
+2021-05-28 14:01:59,425 - python main.py - WARNING - PointPainting: Sequential fusion for 3D object detection未成功搜索到
+2021-05-28 14:02:01,452 - python main.py - WARNING - VoxelNet: End-to-end learning for point cloud based 3D object detection未成功搜索到
+2021-05-28 14:02:03,491 - python main.py - WARNING - PointPillars: Fast encoders for object detection from point clouds未成功搜索到
+2021-05-28 14:02:05,565 - python main.py - WARNING - STD: Sparse-to-dense 3D object detector for point cloud未成功搜索到
+2021-05-28 14:02:07,587 - python main.py - WARNING - Frustum PointNets for 3D object detection from RGB-D data未成功搜索到
+2021-05-28 14:02:09,656 - python main.py - WARNING - 3D object detection using scale invariant and feature reweighting networks未成功搜索到
+2021-05-28 14:02:11,689 - python main.py - WARNING - PointFusion: Deep sensor fusion for 3D bounding box estimation未成功搜索到
+2021-05-28 14:02:13,729 - python main.py - WARNING - RoarNet: A robust 3D object detection based on region approximation refinement未成功搜索到
+2021-05-28 14:02:15,762 - python main.py - WARNING - Frustum convNet: Sliding frustums to ag-gregate local point-wise features for amodal 3D object detection未成功搜索到
+2021-05-28 14:05:53,848 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 14:05:57,078 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 14:06:03,085 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy未成功搜索到
+2021-05-28 14:06:20,135 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 14:06:23,659 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 14:06:43,835 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-28 14:06:47,539 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 14:06:55,928 - python main.py - INFO - 3D object recognition in cluttered scenes with local surface features: a survey成功下载
+2021-05-28 14:07:00,646 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving未成功搜索到
+2021-05-28 14:07:08,960 - python main.py - INFO - PointNet: Deep learning on point sets for 3D classification and segmentation成功下载
+2021-05-28 14:07:12,676 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes未成功搜索到
+2021-05-28 14:07:16,753 - python main.py - WARNING - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data未成功搜索到
+2021-05-28 14:07:21,643 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-28 14:07:25,796 - python main.py - WARNING - 3D semantic parsing of large-scale indoor spaces未成功搜索到
+2021-05-28 14:07:34,149 - python main.py - INFO - ScanNet: Richly-annotated 3D reconstructions of indoor scenes成功下载
+2021-05-28 14:07:37,205 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark未成功搜索到
+2021-05-28 14:07:45,987 - python main.py - INFO - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving成功下载
+2021-05-28 14:07:49,768 - python main.py - WARNING - Are we ready for au-tonomous driving未成功搜索到
+2021-05-28 14:07:57,867 - python main.py - INFO - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences成功下载
+2021-05-28 14:08:01,126 - python main.py - WARNING - 3D point cloud registra-tion for localization using a deep neural network auto-encoder未成功搜索到
+2021-05-28 14:08:04,670 - python main.py - WARNING - Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge未成功搜索到
+2021-05-28 14:08:12,485 - python main.py - INFO - Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era成功下载
+2021-05-28 14:08:15,252 - python main.py - WARNING - Deep learning advances in computer vision with 3D data: A survey未成功搜索到
+2021-05-28 14:08:19,013 - python main.py - WARNING - A review of point cloud semantic segmentation未成功搜索到
+2021-05-28 14:08:26,694 - python main.py - INFO - Recent advances in 3D object detection in the era of deep neural networks: A survey成功下载
+2021-05-28 14:08:29,962 - python main.py - WARNING - Retrieving articulated 3-D models using medial surfaces未成功搜索到
+2021-05-28 14:08:33,691 - python main.py - WARNING - Unsuper-vised feature learning for classification of outdoor 3D scans未成功搜索到
+2021-05-28 14:08:40,333 - python main.py - INFO - Sun RGB-D: A RGB-D scene understanding benchmark suite成功下载
+2021-05-28 14:08:43,761 - python main.py - WARNING - The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes未成功搜索到
+2021-05-28 14:08:51,045 - python main.py - WARNING - Argoverse: 3D tracking and forecasting with rich maps未成功搜索到
+2021-05-28 14:08:55,250 - python main.py - WARNING - Lyft level 5 av dataset 2019未成功搜索到
+2021-05-28 14:08:59,198 - python main.py - WARNING - A*3D dataset: Towards autonomous driving in challenging environments未成功搜索到
+2021-05-28 14:09:03,903 - python main.py - WARNING - Scalabil-ity in perception for autonomous driving: Waymo open dataset未成功搜索到
+2021-05-28 14:09:11,876 - python main.py - INFO - nuscenes: A multimodal dataset for autonomous driving成功下载
+2021-05-28 14:09:14,807 - python main.py - WARNING - Con-textual classification with functional max-margin markov net-works未成功搜索到
+2021-05-28 14:09:18,273 - python main.py - WARNING - The isprs benchmark on urban object classifi-cation and 3D building reconstruction未成功搜索到
+2021-05-28 14:09:24,215 - python main.py - WARNING - Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods未成功搜索到
+2021-05-28 14:09:28,524 - python main.py - WARNING - Terramobilita/iqmulus urban point cloud analysis benchmark未成功搜索到
+2021-05-28 14:09:32,921 - python main.py - WARNING - Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification未成功搜索到
+2021-05-28 14:09:39,037 - python main.py - INFO - SCANet: Spatial-channel attention network for 3D object detection成功下载
+2021-05-28 14:09:41,989 - python main.py - WARNING - Multi-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-28 14:09:49,429 - python main.py - INFO - Multi-view harmonized bilinear network for 3D object recognition成功下载
+2021-05-28 14:09:52,917 - python main.py - WARNING - Learning relationships for multi-view 3D object recognition未成功搜索到
+2021-05-28 14:09:59,889 - python main.py - INFO - Volumetric and multi-view CNNs for object classification on 3D data成功下载
+2021-05-28 14:10:03,186 - python main.py - WARNING - GVCNN: Group-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-28 14:10:06,834 - python main.py - WARNING - Dominant set clustering and pooling for multi-view 3D object recognition未成功搜索到
+2021-05-28 14:10:10,511 - python main.py - WARNING - Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval未成功搜索到
+2021-05-28 14:10:14,042 - python main.py - WARNING - View-gcn: View-based graph convolu-tional network for 3D shape analysis未成功搜索到
+2021-05-28 14:10:24,581 - python main.py - INFO - VoxNet: A 3D convolutional neural network for real-time object recognition成功下载
+2021-05-28 14:10:27,462 - python main.py - WARNING - OctNet: Learning deep 3D representations at high resolutions未成功搜索到
+2021-05-28 14:10:30,974 - python main.py - WARNING - O-CNN: Octree-based convolutional neural networks for 3D shape analysis未成功搜索到
+2021-05-28 14:10:36,882 - python main.py - INFO - PointGrid: A deep network for 3D shape understanding成功下载
+2021-05-28 14:10:39,663 - python main.py - WARNING - Deep sets未成功搜索到
+2021-05-28 14:10:42,979 - python main.py - WARNING - PointNet++: Deep hierarchical feature learning on point sets in a metric space未成功搜索到
+2021-05-28 14:10:47,792 - python main.py - WARNING - Mo-Net: Flavor the moments in learning to classify shapes未成功搜索到
+2021-05-28 14:10:57,003 - python main.py - INFO - Modeling point clouds with self-attention and gumbel subset sampling成功下载
+2021-05-28 14:11:00,741 - python main.py - WARNING - PointWeb: Enhancing lo-cal neighborhood features for point cloud processing未成功搜索到
+2021-05-28 14:11:04,226 - python main.py - WARNING - Structural relational reasoning of point clouds未成功搜索到
+2021-05-28 14:11:10,755 - python main.py - INFO - Justlookup: One millisecond deep feature extraction for point clouds by lookup tables成功下载
+2021-05-28 14:11:14,014 - python main.py - WARNING - SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation未成功搜索到
+2021-05-28 14:11:17,696 - python main.py - WARNING - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling未成功搜索到
+2021-05-28 14:11:21,596 - python main.py - WARNING - Relation-shape convolu-tional neural network for point cloud analysis未成功搜索到
+2021-05-28 14:11:26,915 - python main.py - INFO - DensePoint: Learning densely contextual representation for efficient point cloud processing成功下载
+2021-05-28 14:11:29,890 - python main.py - WARNING - KPConv: Flexible and deformable convolution for point clouds未成功搜索到
+2021-05-28 14:11:33,351 - python main.py - WARNING - ConvPoint: continuous convolutions for point cloud processing未成功搜索到
+2021-05-28 14:11:39,175 - python main.py - INFO - PointConv: Deep convolutional networks on 3D point clouds成功下载
+2021-05-28 14:11:41,951 - python main.py - WARNING - Monte carlo convolution for learning on non-uniformly sampled point clouds未成功搜索到
+2021-05-28 14:11:46,189 - python main.py - WARNING - SpiderCNN: Deep learning on point sets with parameterized convolutional filters未成功搜索到
+2021-05-28 14:11:50,271 - python main.py - WARNING - Point convolutional neural networks by extension operators未成功搜索到
+2021-05-28 14:11:53,646 - python main.py - WARNING - Learning so(3) equivariant representations with spherical CNNs未成功搜索到
+2021-05-28 14:11:57,305 - python main.py - WARNING - Spherical CNNs未成功搜索到
+2021-05-28 14:12:00,834 - python main.py - WARNING - Effective rotation-invariant point CNN with spherical harmon-ics kernels未成功搜索到
+2021-05-28 14:12:04,129 - python main.py - WARNING - Flex-Convolution未成功搜索到
+2021-05-28 14:12:07,580 - python main.py - WARNING - Pointwise convolutional neural networks未成功搜索到
+2021-05-28 14:12:11,117 - python main.py - WARNING - Octree guided cnn with spheri-cal kernels for 3D point clouds未成功搜索到
+2021-05-28 14:12:16,478 - python main.py - INFO - Modeling local geometric structure of 3D point clouds using geo-cnn成功下载
+2021-05-28 14:12:19,481 - python main.py - WARNING - PointCNN: Convolution on x-transformed points未成功搜索到
+2021-05-28 14:12:25,269 - python main.py - INFO - Interpolated convolutional networks for 3D point cloud understanding成功下载
+2021-05-28 14:12:28,884 - python main.py - WARNING - Rotation invariant convolutions for 3D point clouds deep learning未成功搜索到
+2021-05-28 14:12:36,518 - python main.py - INFO - A-CNN: Annularly convolutional neural networks on point clouds成功下载
+2021-05-28 14:12:40,129 - python main.py - WARNING - LP-3DCNN: Unveiling local phase in 3D convolutional neural networks未成功搜索到
+2021-05-28 14:12:47,126 - python main.py - INFO - Spherical fractal convolutional neural networks for point cloud recognition成功下载
+2021-05-28 14:12:50,631 - python main.py - WARNING - Dynamic edge-conditioned filters in convolutional neural networks on graphs未成功搜索到
+2021-05-28 14:12:57,551 - python main.py - INFO - 3D is here: Point cloud library (PCL)成功下载
+2021-05-28 14:13:01,355 - python main.py - WARNING - Dynamic graph CNN for learning on point clouds未成功搜索到
+2021-05-28 14:13:07,458 - python main.py - INFO - FoldingNet: Point cloud auto-encoder via deep grid deformation成功下载
+2021-05-28 14:13:10,280 - python main.py - WARNING - Going deeper with convolutions未成功搜索到
+2021-05-28 14:13:16,760 - python main.py - INFO - Unsupervised multi-task feature learning on point clouds成功下载
+2021-05-28 14:13:20,027 - python main.py - WARNING - Dynamic points agglomeration for hierarchical point sets learning未成功搜索到
+2021-05-28 14:13:26,925 - python main.py - INFO - Mining point cloud local structures by kernel correlation and graph pooling成功下载
+2021-05-28 14:13:30,157 - python main.py - WARNING - General-purpose deep point cloud feature extractor未成功搜索到
+2021-05-28 14:13:34,476 - python main.py - WARNING - Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis未成功搜索到
+2021-05-28 14:13:39,494 - python main.py - INFO - Grid-gcn for fast and scalable point cloud learning成功下载
+2021-05-28 14:13:42,416 - python main.py - WARNING - Spectral networks and locally connected networks on graphs未成功搜索到
+2021-05-28 14:13:46,294 - python main.py - WARNING - Convolutional neural networks on graphs with fast localized spectral filtering未成功搜索到
+2021-05-28 14:13:49,903 - python main.py - WARNING - RGCNN: Regularized graph CNN for point cloud segmentation未成功搜索到
+2021-05-28 14:13:53,454 - python main.py - WARNING - Adaptive graph convolu-tional neural networks未成功搜索到
+2021-05-28 14:13:57,202 - python main.py - WARNING - Hypergraph neural networks未成功搜索到
+2021-05-28 14:14:00,723 - python main.py - WARNING - Local spectral graph convo-lution for point set feature learning未成功搜索到
+2021-05-28 14:14:05,613 - python main.py - INFO - A Graph-CNN for 3D point cloud classification成功下载
+2021-05-28 14:14:08,960 - python main.py - WARNING - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models未成功搜索到
+2021-05-28 14:14:12,995 - python main.py - WARNING - 3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues未成功搜索到
+2021-05-28 14:14:27,482 - python main.py - WARNING - SO-Net: Self-organizing network for point cloud analysis未成功下载
+2021-05-28 14:14:29,620 - python main.py - WARNING - Attentional ShapeContextNet for point cloud recognition未成功搜索到
+2021-05-28 14:14:39,688 - python main.py - WARNING - PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion未成功搜索到
+2021-05-28 14:14:43,044 - python main.py - WARNING - PVRNet: Point-view relation neural network for 3D shape recognition未成功搜索到
+2021-05-28 14:14:45,275 - python main.py - WARNING - 3D point capsule networks未成功搜索到
+2021-05-28 14:14:47,377 - python main.py - WARNING - Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network未成功搜索到
+2021-05-28 14:14:49,458 - python main.py - WARNING - Point cloud processing via recurrent set encoding未成功搜索到
+2021-05-28 14:14:51,491 - python main.py - WARNING - PointDAN: A multi-scale 3D domain adaption network for point cloud representation未成功搜索到
+2021-05-28 14:14:53,530 - python main.py - WARNING - Self-supervised deep learning on point clouds by reconstructing space未成功搜索到
+2021-05-28 14:14:55,557 - python main.py - WARNING - PointAugment: An auto-augmentation framework for point cloud classification未成功搜索到
+2021-05-28 14:14:57,616 - python main.py - WARNING - Shape matching and object recognition using shape contexts未成功搜索到
+2021-05-28 14:14:59,648 - python main.py - WARNING - Attention is all you need未成功搜索到
+2021-05-28 14:15:01,697 - python main.py - WARNING - Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor未成功搜索到
+2021-05-28 14:15:03,731 - python main.py - WARNING - Efficient learning on point clouds with basis point sets未成功搜索到
+2021-05-28 14:15:05,781 - python main.py - WARNING - Deep learning for generic object detection: A survey未成功搜索到
+2021-05-28 14:15:07,841 - python main.py - WARNING - Deep hough voting for 3D object detection in point clouds未成功搜索到
+2021-05-28 14:15:09,884 - python main.py - WARNING - Point-GNN: Graph neural network for 3D object detection in a point cloud未成功搜索到
+2021-05-28 14:15:11,915 - python main.py - WARNING - Joint 3D proposal generation and object detection from view aggregation未成功搜索到
+2021-05-28 14:15:13,940 - python main.py - WARNING - Deep continuous fusion for multi-sensor 3D object detection未成功搜索到
+2021-05-28 14:15:15,973 - python main.py - WARNING - Multi-task multi-sensor fusion for 3D object detection未成功搜索到
+2021-05-28 14:15:17,994 - python main.py - WARNING - PIXOR: Real-time 3D object detection from point clouds未成功搜索到
+2021-05-28 14:15:20,023 - python main.py - WARNING - Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net未成功搜索到
+2021-05-28 14:15:22,100 - python main.py - WARNING - RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving未成功搜索到
+2021-05-28 14:15:24,137 - python main.py - WARNING - PointRCNN: 3D object proposal generation and detection from point cloud未成功搜索到
+2021-05-28 14:15:26,175 - python main.py - WARNING - PointPainting: Sequential fusion for 3D object detection未成功搜索到
+2021-05-28 14:15:28,216 - python main.py - WARNING - VoxelNet: End-to-end learning for point cloud based 3D object detection未成功搜索到
+2021-05-28 14:15:30,250 - python main.py - WARNING - PointPillars: Fast encoders for object detection from point clouds未成功搜索到
+2021-05-28 14:15:32,287 - python main.py - WARNING - STD: Sparse-to-dense 3D object detector for point cloud未成功搜索到
+2021-05-28 14:15:34,348 - python main.py - WARNING - Frustum PointNets for 3D object detection from RGB-D data未成功搜索到
+2021-05-28 14:15:36,370 - python main.py - WARNING - 3D object detection using scale invariant and feature reweighting networks未成功搜索到
+2021-05-28 14:15:38,388 - python main.py - WARNING - PointFusion: Deep sensor fusion for 3D bounding box estimation未成功搜索到
+2021-05-28 14:15:40,456 - python main.py - WARNING - RoarNet: A robust 3D object detection based on region approximation refinement未成功搜索到
+2021-05-28 14:15:42,477 - python main.py - WARNING - Frustum convNet: Sliding frustums to ag-gregate local point-wise features for amodal 3D object detection未成功搜索到
+2021-05-28 14:15:44,546 - python main.py - WARNING - Iou loss for 2D/3D object detection未成功搜索到
+2021-05-28 14:15:46,561 - python main.py - WARNING - Fast point r-cnn未成功搜索到
+2021-05-28 14:15:48,603 - python main.py - WARNING - PV-RCNN: Point-voxel feature set abstraction for 3D object detection未成功搜索到
+2021-05-28 14:15:50,641 - python main.py - WARNING - ImVoteNet: Boosting 3D object detection in point clouds with image votes未成功搜索到
+2021-05-28 14:15:52,676 - python main.py - WARNING - From points to parts: 3D object detection from point cloud with part-aware and part-aggregation network未成功搜索到
+2021-05-28 14:15:54,716 - python main.py - WARNING - HDNET: Exploiting hd maps for 3D object detection未成功搜索到
+2021-05-28 14:15:56,742 - python main.py - WARNING - BirdNet: a 3D object detection framework from lidar information未成功搜索到
+2021-05-28 14:15:58,774 - python main.py - WARNING - 3D fully convolutional network for vehicle detection in point cloud未成功搜索到
+2021-05-28 14:16:00,850 - python main.py - WARNING - Vote3Deep: Fast object detection in 3D point clouds using effi-cient convolutional neural networks未成功搜索到
+2021-05-28 14:16:02,910 - python main.py - WARNING - 3D backbone network for 3D object detection未成功搜索到
+2021-05-28 14:16:04,945 - python main.py - WARNING - SECOND: Sparsely embedded convo-lutional detection未成功搜索到
+2021-05-28 14:16:06,960 - python main.py - WARNING - MVX-Net: Multimodal voxelnet for 3D object detection未成功搜索到
+2021-05-28 14:16:08,988 - python main.py - WARNING - Structure aware single-stage 3D object detection from point cloud未成功搜索到
+2021-05-28 14:16:11,016 - python main.py - WARNING - 3DSSD: Point-based 3D single stage object detector未成功搜索到
+2021-05-28 14:16:13,041 - python main.py - WARNING - LaserNet: An efficient probabilistic 3D object detec-tor for autonomous driving未成功搜索到
+2021-05-28 14:16:15,115 - python main.py - WARNING - Sensor fusion for joint 3D object detection and seman-tic segmentation未成功搜索到
+2021-05-28 14:16:17,152 - python main.py - WARNING - U-Net: Convolutional networks for biomedical image segmentation未成功搜索到
+2021-05-28 14:16:19,204 - python main.py - WARNING - 3D semantic segmentation with submanifold sparse convolutional networks未成功搜索到
+2021-05-28 14:16:21,262 - python main.py - WARNING - Correlation filter tracking: Beyond an open-loop system未成功搜索到
+2021-05-28 14:16:23,320 - python main.py - WARNING - Robust long-term tracking via instance specific proposals未成功搜索到
+2021-05-28 14:16:25,350 - python main.py - WARNING - Fully-convolutional siamese networks for object tracking未成功搜索到
+2021-05-28 14:16:27,389 - python main.py - WARNING - Leveraging shape com-pletion for 3D siamese tracking未成功搜索到
+2021-05-28 14:16:29,420 - python main.py - WARNING - Context-aware correla-tion filter tracking未成功搜索到
+2021-05-28 14:16:31,453 - python main.py - WARNING - Complexer-YOLO: Real-time 3D object detection and tracking on semantic point clouds未成功搜索到
+2021-05-28 14:16:33,472 - python main.py - WARNING - P2B: Point-to-box network for 3D object tracking in point clouds未成功搜索到
+2021-05-28 14:16:35,489 - python main.py - WARNING - FlowNet3D: Learning scene flow in 3D point clouds未成功搜索到
+2021-05-28 14:16:37,566 - python main.py - WARNING - FlowNet3D++: Geometric losses for deep scene flow estima-tion未成功搜索到
+2021-05-28 14:16:39,587 - python main.py - WARNING - HPLFlowNet: Hierarchical permutohedral lattice flowNet for scene flow esti-mation on large-scale point clouds未成功搜索到
+2021-05-28 14:16:41,632 - python main.py - WARNING - MeteorNet: Deep learning on dynamic 3D point cloud sequences未成功搜索到
+2021-05-28 14:16:43,687 - python main.py - WARNING - Just go with the flow: Self-supervised scene flow estimation未成功搜索到
+2021-05-28 14:16:45,735 - python main.py - WARNING - Deep projective 3D semantic segmentation未成功搜索到
+2021-05-28 14:16:47,766 - python main.py - WARNING - Unstructured point cloud semantic labeling using deep segmentation networks未成功搜索到
+2021-05-28 14:16:49,800 - python main.py - WARNING - SqueezeSeg: Convo-lutional neural nets with recurrent crf for real-time road-object segmentation from 3D lidar point cloud未成功搜索到
+2021-05-28 14:16:51,840 - python main.py - WARNING - SqueezeSegV2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud未成功搜索到
+2021-05-28 14:16:53,904 - python main.py - WARNING - RangeNet++: Fast and accurate lidar semantic segmentation未成功搜索到
+2021-05-28 14:16:55,957 - python main.py - WARNING - VV-Net: Voxel vae net with group convolutions for point cloud segmentation未成功搜索到
+2021-05-28 14:16:57,998 - python main.py - WARNING - Fully-convolutional point networks for large-scale point clouds未成功搜索到
+2021-05-28 14:17:00,067 - python main.py - WARNING - SplatNet: Sparse lattice networks for point cloud processing未成功搜索到
+2021-05-28 14:17:02,133 - python main.py - WARNING - 3DMV: Joint 3D-multi-view prediction for 3D semantic scene segmentation未成功搜索到
+2021-05-28 14:17:04,206 - python main.py - WARNING - Multi-view pointNet for 3D scene understanding未成功搜索到
+2021-05-28 14:17:06,279 - python main.py - WARNING - Semantic segmentation of earth observation data using multimodal and multi-scale deep networks未成功搜索到
+2021-05-28 14:17:08,319 - python main.py - WARNING - Tangent convolutions for dense prediction in 3D未成功搜索到
+2021-05-28 14:17:10,339 - python main.py - WARNING - SqueezeNet: Alexnet-level accuracy with 50x fewer parameters and < 0.5 MB model size未成功搜索到
+2021-05-28 14:17:12,411 - python main.py - WARNING - Point cloud labeling using 3D convolu-tional neural network未成功搜索到
+2021-05-28 14:17:14,437 - python main.py - WARNING - SEG-Cloud: Semantic segmentation of 3D point clouds未成功搜索到
+2021-05-28 14:17:16,472 - python main.py - WARNING - Fully convolutional net-works for semantic segmentation未成功搜索到
+2021-05-28 14:17:18,508 - python main.py - WARNING - ScanComplete: Large-scale scene completion and semantic seg-mentation for 3D scans未成功搜索到
+2021-05-28 14:17:20,532 - python main.py - WARNING - 4D spatio-temporal convnets: Minkowski convolutional neural networks未成功搜索到
+2021-05-28 14:17:22,590 - python main.py - WARNING - A unified point-based framework for 3D segmentation未成功搜索到
+2021-05-28 14:17:24,664 - python main.py - WARNING - Deep parametric continuous convolutional neural networks未成功搜索到
+2021-05-28 14:17:26,738 - python main.py - WARNING - 3D recurrent neural networks with context fusion for point cloud semantic segmentation未成功搜索到
+2021-05-28 14:17:28,765 - python main.py - WARNING - Large-scale point cloud seman-tic segmentation with superpoint graphs未成功搜索到
+2021-05-28 14:17:30,785 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-28 14:17:32,855 - python main.py - WARNING - ShellNet: Efficient point cloud convolutional neural networks using concentric shells statistics未成功搜索到
+2021-05-28 14:17:34,929 - python main.py - WARNING - RandLA-Net: Efficient semantic segmentation of large-scale point clouds未成功搜索到
+2021-05-28 14:17:36,963 - python main.py - WARNING - Pooling scores of neighboring points for improved 3D point cloud segmentation未成功搜索到
+2021-05-28 14:17:39,038 - python main.py - WARNING - NetVLAD: CNN architecture for weakly supervised place recognition未成功搜索到
+2021-05-28 14:17:41,080 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-28 14:17:43,110 - python main.py - WARNING - Dilated point con-volutions: On the receptive field of point convolutions未成功搜索到
+2021-05-28 14:17:45,154 - python main.py - WARNING - Recurrent slice networks for 3D segmentation of point clouds未成功搜索到
+2021-05-28 14:17:47,179 - python main.py - WARNING - Ex-ploring spatial context for 3D semantic segmentation of point clouds未成功搜索到
+2021-05-28 14:17:49,238 - python main.py - WARNING - Point cloud oversegmentation with graph-structured deep metric learning未成功搜索到
+2021-05-28 14:17:51,279 - python main.py - WARNING - Graph attention convolution for point cloud semantic segmentation未成功搜索到
+2021-05-28 14:17:53,356 - python main.py - WARNING - Hierarchical depthwise graph convolutional neural network for 3D semantic segmentation of point clouds未成功搜索到
+2021-05-28 14:17:55,379 - python main.py - WARNING - Hierar-chical point-edge interaction network for point cloud semantic segmentation未成功搜索到
+2021-05-28 14:17:57,413 - python main.py - WARNING - 3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds未成功搜索到
+2021-05-28 14:17:59,456 - python main.py - WARNING - PyramNet: Point cloud pyramid attention network and graph embedding module for classification and segmentation未成功搜索到
+2021-05-28 14:18:01,535 - python main.py - WARNING - Global context reasoning for semantic segmentation of 3D point clouds未成功搜索到
+2021-05-28 14:18:03,590 - python main.py - WARNING - Multi-path region mining for weakly supervised 3D semantic segmentation on point clouds未成功搜索到
+2021-05-28 14:18:05,669 - python main.py - WARNING - Weakly supervised semantic point cloud segmentation: Towards 10x fewer labels未成功搜索到
+2021-05-28 14:18:07,685 - python main.py - WARNING - 3D-SIS: 3D semantic instance segmentation of RGB-D scans未成功搜索到
+2021-05-28 14:18:25,137 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 14:24:56,801 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 14:25:00,424 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 14:25:07,606 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy未成功搜索到
+2021-05-28 14:25:12,390 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 14:25:23,109 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 14:25:26,310 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 14:25:34,610 - python main.py - WARNING - Stereo matching using multi-level cost volume and multi-scale feature constancy未成功搜索到
+2021-05-28 14:25:44,322 - python main.py - INFO - 完成数据的转换和写入
+2021-05-28 14:25:55,204 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-28 14:26:01,135 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-28 14:26:04,074 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-28 14:26:11,435 - python main.py - INFO - 3D object recognition in cluttered scenes with local surface features: a survey成功下载
+2021-05-28 14:26:14,701 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving未成功搜索到
+2021-05-28 14:26:20,556 - python main.py - INFO - PointNet: Deep learning on point sets for 3D classification and segmentation成功下载
+2021-05-28 14:26:24,136 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes未成功搜索到
+2021-05-28 14:26:28,102 - python main.py - WARNING - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data未成功搜索到
+2021-05-28 14:26:32,767 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-28 14:26:40,235 - python main.py - INFO - 3D semantic parsing of large-scale indoor spaces成功下载
+2021-05-28 14:26:43,156 - python main.py - WARNING - ScanNet: Richly-annotated 3D reconstructions of indoor scenes未成功搜索到
+2021-05-28 14:26:48,699 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark未成功搜索到
+2021-05-28 14:26:55,251 - python main.py - INFO - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving成功下载
+2021-05-28 14:26:57,966 - python main.py - WARNING - Are we ready for au-tonomous driving未成功搜索到
+2021-05-28 14:27:03,934 - python main.py - INFO - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences成功下载
+2021-05-28 14:27:07,497 - python main.py - WARNING - 3D point cloud registra-tion for localization using a deep neural network auto-encoder未成功搜索到
+2021-05-28 14:27:11,344 - python main.py - WARNING - Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge未成功搜索到
+2021-05-28 14:27:17,407 - python main.py - INFO - Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era成功下载
+2021-05-28 14:27:20,233 - python main.py - WARNING - Deep learning advances in computer vision with 3D data: A survey未成功搜索到
+2021-05-28 14:27:24,246 - python main.py - WARNING - A review of point cloud semantic segmentation未成功搜索到
+2021-05-28 14:27:34,300 - python main.py - INFO - Recent advances in 3D object detection in the era of deep neural networks: A survey成功下载
+2021-05-28 14:27:38,198 - python main.py - WARNING - Retrieving articulated 3-D models using medial surfaces未成功搜索到
+2021-05-28 14:27:42,340 - python main.py - WARNING - Unsuper-vised feature learning for classification of outdoor 3D scans未成功搜索到
+2021-05-28 14:27:50,596 - python main.py - INFO - Sun RGB-D: A RGB-D scene understanding benchmark suite成功下载
+2021-05-28 14:27:53,956 - python main.py - WARNING - The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes未成功搜索到
+2021-05-28 14:28:01,458 - python main.py - INFO - Argoverse: 3D tracking and forecasting with rich maps成功下载
+2021-05-28 14:28:04,423 - python main.py - WARNING - Lyft level 5 av dataset 2019未成功搜索到
+2021-05-28 14:28:08,150 - python main.py - WARNING - A*3D dataset: Towards autonomous driving in challenging environments未成功搜索到
+2021-05-28 14:28:11,847 - python main.py - WARNING - Scalabil-ity in perception for autonomous driving: Waymo open dataset未成功搜索到
+2021-05-28 14:28:17,412 - python main.py - INFO - nuscenes: A multimodal dataset for autonomous driving成功下载
+2021-05-28 14:28:20,270 - python main.py - WARNING - Con-textual classification with functional max-margin markov net-works未成功搜索到
+2021-05-28 14:28:24,602 - python main.py - WARNING - The isprs benchmark on urban object classifi-cation and 3D building reconstruction未成功搜索到
+2021-05-28 14:28:29,331 - python main.py - WARNING - Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods未成功搜索到
+2021-05-28 14:28:33,007 - python main.py - WARNING - Terramobilita/iqmulus urban point cloud analysis benchmark未成功搜索到
+2021-05-28 14:28:36,889 - python main.py - WARNING - Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification未成功搜索到
+2021-05-28 14:28:43,523 - python main.py - INFO - SCANet: Spatial-channel attention network for 3D object detection成功下载
+2021-05-28 14:28:46,269 - python main.py - WARNING - Multi-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-28 14:28:53,709 - python main.py - INFO - Multi-view harmonized bilinear network for 3D object recognition成功下载
+2021-05-28 14:28:56,668 - python main.py - WARNING - Learning relationships for multi-view 3D object recognition未成功搜索到
+2021-05-28 14:29:02,725 - python main.py - INFO - Volumetric and multi-view CNNs for object classification on 3D data成功下载
+2021-05-28 14:29:06,001 - python main.py - WARNING - GVCNN: Group-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-28 14:29:09,974 - python main.py - WARNING - Dominant set clustering and pooling for multi-view 3D object recognition未成功搜索到
+2021-05-28 14:29:13,722 - python main.py - WARNING - Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval未成功搜索到
+2021-05-28 14:29:18,012 - python main.py - WARNING - View-gcn: View-based graph convolu-tional network for 3D shape analysis未成功搜索到
+2021-05-28 14:29:24,716 - python main.py - INFO - VoxNet: A 3D convolutional neural network for real-time object recognition成功下载
+2021-05-28 14:29:28,668 - python main.py - WARNING - OctNet: Learning deep 3D representations at high resolutions未成功搜索到
+2021-05-28 14:29:32,816 - python main.py - WARNING - O-CNN: Octree-based convolutional neural networks for 3D shape analysis未成功搜索到
+2021-05-28 14:29:38,965 - python main.py - INFO - PointGrid: A deep network for 3D shape understanding成功下载
+2021-05-28 14:29:42,095 - python main.py - WARNING - Deep sets未成功搜索到
+2021-05-28 14:29:46,409 - python main.py - WARNING - PointNet++: Deep hierarchical feature learning on point sets in a metric space未成功搜索到
+2021-05-28 14:29:54,026 - python main.py - WARNING - Mo-Net: Flavor the moments in learning to classify shapes未成功搜索到
+2021-05-28 14:30:07,988 - python main.py - INFO - Modeling point clouds with self-attention and gumbel subset sampling成功下载
+2021-05-28 14:30:12,285 - python main.py - WARNING - PointWeb: Enhancing lo-cal neighborhood features for point cloud processing未成功搜索到
+2021-05-28 14:30:16,631 - python main.py - WARNING - Structural relational reasoning of point clouds未成功搜索到
+2021-05-28 14:30:20,600 - python main.py - WARNING - Justlookup: One millisecond deep feature extraction for point clouds by lookup tables未成功搜索到
+2021-05-28 14:30:24,996 - python main.py - WARNING - SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation未成功搜索到
+2021-05-28 14:30:33,190 - python main.py - INFO - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling成功下载
+2021-05-28 14:30:37,202 - python main.py - WARNING - Relation-shape convolu-tional neural network for point cloud analysis未成功搜索到
+2021-05-28 14:30:41,425 - python main.py - WARNING - DensePoint: Learning densely contextual representation for efficient point cloud processing未成功搜索到
+2021-05-28 14:30:46,198 - python main.py - WARNING - KPConv: Flexible and deformable convolution for point clouds未成功搜索到
+2021-05-28 14:30:51,590 - python main.py - WARNING - ConvPoint: continuous convolutions for point cloud processing未成功搜索到
+2021-05-28 14:30:57,901 - python main.py - INFO - PointConv: Deep convolutional networks on 3D point clouds成功下载
+2021-05-28 14:31:01,430 - python main.py - WARNING - Monte carlo convolution for learning on non-uniformly sampled point clouds未成功搜索到
+2021-05-28 14:31:05,724 - python main.py - WARNING - SpiderCNN: Deep learning on point sets with parameterized convolutional filters未成功搜索到
+2021-05-28 14:31:12,496 - python main.py - WARNING - Point convolutional neural networks by extension operators未成功搜索到
+2021-05-28 14:31:17,779 - python main.py - WARNING - Learning so(3) equivariant representations with spherical CNNs未成功搜索到
+2021-05-28 14:31:22,804 - python main.py - WARNING - Spherical CNNs未成功搜索到
+2021-05-28 14:31:28,769 - python main.py - WARNING - Effective rotation-invariant point CNN with spherical harmon-ics kernels未成功搜索到
+2021-05-28 14:31:32,760 - python main.py - WARNING - Flex-Convolution未成功搜索到
+2021-05-28 14:31:37,651 - python main.py - WARNING - Pointwise convolutional neural networks未成功搜索到
+2021-05-28 14:31:43,126 - python main.py - WARNING - Octree guided cnn with spheri-cal kernels for 3D point clouds未成功搜索到
+2021-05-28 14:31:52,666 - python main.py - INFO - Modeling local geometric structure of 3D point clouds using geo-cnn成功下载
+2021-05-28 14:31:58,334 - python main.py - WARNING - PointCNN: Convolution on x-transformed points未成功搜索到
+2021-05-28 14:32:07,406 - python main.py - WARNING - Interpolated convolutional networks for 3D point cloud understanding未成功搜索到
+2021-05-28 14:32:14,552 - python main.py - WARNING - Rotation invariant convolutions for 3D point clouds deep learning未成功搜索到
+2021-05-28 14:32:21,715 - python main.py - WARNING - A-CNN: Annularly convolutional neural networks on point clouds未成功搜索到
+2021-05-28 14:32:33,735 - python main.py - WARNING - LP-3DCNN: Unveiling local phase in 3D convolutional neural networks未成功搜索到
+2021-05-28 14:32:39,883 - python main.py - WARNING - Spherical fractal convolutional neural networks for point cloud recognition未成功搜索到
+2021-05-28 14:32:45,981 - python main.py - WARNING - Dynamic edge-conditioned filters in convolutional neural networks on graphs未成功搜索到
+2021-05-28 14:32:55,967 - python main.py - INFO - 3D is here: Point cloud library (PCL)成功下载
+2021-05-28 14:33:00,356 - python main.py - WARNING - Dynamic graph CNN for learning on point clouds未成功搜索到
+2021-05-28 14:33:05,022 - python main.py - WARNING - FoldingNet: Point cloud auto-encoder via deep grid deformation未成功搜索到
+2021-05-28 14:33:10,048 - python main.py - WARNING - Going deeper with convolutions未成功搜索到
+2021-05-28 14:33:15,869 - python main.py - WARNING - Unsupervised multi-task feature learning on point clouds未成功搜索到
+2021-05-28 14:33:21,917 - python main.py - WARNING - Dynamic points agglomeration for hierarchical point sets learning未成功搜索到
+2021-05-28 14:33:33,493 - python main.py - INFO - Mining point cloud local structures by kernel correlation and graph pooling成功下载
+2021-05-28 14:33:37,471 - python main.py - WARNING - General-purpose deep point cloud feature extractor未成功搜索到
+2021-05-28 14:33:42,521 - python main.py - WARNING - Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis未成功搜索到
+2021-05-28 14:33:49,319 - python main.py - INFO - Grid-gcn for fast and scalable point cloud learning成功下载
+2021-05-28 14:33:53,487 - python main.py - WARNING - Spectral networks and locally connected networks on graphs未成功搜索到
+2021-05-28 14:33:59,865 - python main.py - WARNING - Convolutional neural networks on graphs with fast localized spectral filtering未成功搜索到
+2021-05-28 14:34:06,131 - python main.py - WARNING - RGCNN: Regularized graph CNN for point cloud segmentation未成功搜索到
+2021-05-28 14:34:16,828 - python main.py - WARNING - Adaptive graph convolu-tional neural networks未成功搜索到
+2021-05-28 14:34:20,833 - python main.py - WARNING - Hypergraph neural networks未成功搜索到
+2021-05-28 14:34:26,886 - python main.py - WARNING - Local spectral graph convo-lution for point set feature learning未成功搜索到
+2021-05-28 14:34:30,842 - python main.py - WARNING - A Graph-CNN for 3D point cloud classification未成功搜索到
+2021-05-28 14:34:40,601 - python main.py - WARNING - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models未成功搜索到
+2021-05-28 14:34:54,835 - python main.py - WARNING - 3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues未成功搜索到
+2021-05-28 14:35:07,033 - python main.py - WARNING - SO-Net: Self-organizing network for point cloud analysis未成功搜索到
+2021-05-29 11:55:02,175 - python main.py - INFO - 完成数据的转换和写入
+2021-05-29 11:55:08,597 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-29 11:55:28,063 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-29 11:55:30,928 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-29 11:55:40,062 - python main.py - INFO - 3D object recognition in cluttered scenes with local surface features: a survey成功下载
+2021-05-29 11:55:43,652 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving未成功搜索到
+2021-05-29 11:55:51,299 - python main.py - INFO - PointNet: Deep learning on point sets for 3D classification and segmentation成功下载
+2021-05-29 11:55:54,565 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes未成功搜索到
+2021-05-29 11:55:59,392 - python main.py - WARNING - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data未成功搜索到
+2021-05-29 11:56:04,280 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-29 11:56:14,122 - python main.py - INFO - 3D semantic parsing of large-scale indoor spaces成功下载
+2021-05-29 11:56:17,952 - python main.py - WARNING - ScanNet: Richly-annotated 3D reconstructions of indoor scenes未成功搜索到
+2021-05-29 11:56:27,173 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark未成功搜索到
+2021-05-29 11:56:36,105 - python main.py - INFO - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving成功下载
+2021-05-29 11:56:39,839 - python main.py - WARNING - Are we ready for au-tonomous driving未成功搜索到
+2021-05-29 11:56:46,940 - python main.py - INFO - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences成功下载
+2021-05-29 11:56:50,578 - python main.py - WARNING - 3D point cloud registra-tion for localization using a deep neural network auto-encoder未成功搜索到
+2021-05-29 11:56:55,055 - python main.py - WARNING - Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge未成功搜索到
+2021-05-29 11:56:59,396 - python main.py - WARNING - Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era未成功搜索到
+2021-05-29 11:57:03,579 - python main.py - WARNING - Deep learning advances in computer vision with 3D data: A survey未成功搜索到
+2021-05-29 11:57:08,321 - python main.py - WARNING - A review of point cloud semantic segmentation未成功搜索到
+2021-05-29 11:57:13,813 - python main.py - INFO - Recent advances in 3D object detection in the era of deep neural networks: A survey成功下载
+2021-05-29 11:57:16,661 - python main.py - WARNING - Retrieving articulated 3-D models using medial surfaces未成功搜索到
+2021-05-29 11:57:23,316 - python main.py - WARNING - Unsuper-vised feature learning for classification of outdoor 3D scans未成功搜索到
+2021-05-29 11:57:31,564 - python main.py - INFO - Sun RGB-D: A RGB-D scene understanding benchmark suite成功下载
+2021-05-29 11:57:34,668 - python main.py - WARNING - The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes未成功搜索到
+2021-05-29 11:57:39,116 - python main.py - WARNING - Argoverse: 3D tracking and forecasting with rich maps未成功搜索到
+2021-05-29 11:57:47,158 - python main.py - WARNING - Lyft level 5 av dataset 2019未成功搜索到
+2021-05-29 11:57:50,587 - python main.py - WARNING - A*3D dataset: Towards autonomous driving in challenging environments未成功搜索到
+2021-05-29 11:57:54,631 - python main.py - WARNING - Scalabil-ity in perception for autonomous driving: Waymo open dataset未成功搜索到
+2021-05-29 11:57:59,775 - python main.py - INFO - nuscenes: A multimodal dataset for autonomous driving成功下载
+2021-05-29 11:58:02,704 - python main.py - WARNING - Con-textual classification with functional max-margin markov net-works未成功搜索到
+2021-05-29 11:58:06,238 - python main.py - WARNING - The isprs benchmark on urban object classifi-cation and 3D building reconstruction未成功搜索到
+2021-05-29 11:58:10,183 - python main.py - WARNING - Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods未成功搜索到
+2021-05-29 11:58:14,418 - python main.py - WARNING - Terramobilita/iqmulus urban point cloud analysis benchmark未成功搜索到
+2021-05-29 11:58:19,887 - python main.py - WARNING - Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification未成功搜索到
+2021-05-29 11:58:30,022 - python main.py - INFO - SCANet: Spatial-channel attention network for 3D object detection成功下载
+2021-05-29 11:58:33,569 - python main.py - WARNING - Multi-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-29 11:58:37,841 - python main.py - WARNING - Multi-view harmonized bilinear network for 3D object recognition未成功搜索到
+2021-05-29 11:58:44,145 - python main.py - INFO - Learning relationships for multi-view 3D object recognition成功下载
+2021-05-29 11:58:46,883 - python main.py - WARNING - Volumetric and multi-view CNNs for object classification on 3D data未成功搜索到
+2021-05-29 11:58:52,924 - python main.py - INFO - GVCNN: Group-view convolutional neural networks for 3D shape recognition成功下载
+2021-05-29 11:58:56,454 - python main.py - WARNING - Dominant set clustering and pooling for multi-view 3D object recognition未成功搜索到
+2021-05-29 11:59:00,743 - python main.py - WARNING - Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval未成功搜索到
+2021-05-29 11:59:04,474 - python main.py - WARNING - View-gcn: View-based graph convolu-tional network for 3D shape analysis未成功搜索到
+2021-05-29 11:59:15,454 - python main.py - INFO - VoxNet: A 3D convolutional neural network for real-time object recognition成功下载
+2021-05-29 11:59:19,389 - python main.py - WARNING - OctNet: Learning deep 3D representations at high resolutions未成功搜索到
+2021-05-29 11:59:25,467 - python main.py - WARNING - O-CNN: Octree-based convolutional neural networks for 3D shape analysis未成功搜索到
+2021-05-29 11:59:31,818 - python main.py - INFO - PointGrid: A deep network for 3D shape understanding成功下载
+2021-05-29 11:59:35,315 - python main.py - WARNING - Deep sets未成功搜索到
+2021-05-29 11:59:39,093 - python main.py - WARNING - PointNet++: Deep hierarchical feature learning on point sets in a metric space未成功搜索到
+2021-05-29 11:59:42,674 - python main.py - WARNING - Mo-Net: Flavor the moments in learning to classify shapes未成功搜索到
+2021-05-29 11:59:53,283 - python main.py - INFO - Modeling point clouds with self-attention and gumbel subset sampling成功下载
+2021-05-29 11:59:57,189 - python main.py - WARNING - PointWeb: Enhancing lo-cal neighborhood features for point cloud processing未成功搜索到
+2021-05-29 12:00:02,215 - python main.py - INFO - Structural relational reasoning of point clouds成功下载
+2021-05-29 12:00:06,030 - python main.py - WARNING - Justlookup: One millisecond deep feature extraction for point clouds by lookup tables未成功搜索到
+2021-05-29 12:00:09,893 - python main.py - WARNING - SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation未成功搜索到
+2021-05-29 12:00:14,057 - python main.py - WARNING - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling未成功搜索到
+2021-05-29 12:00:18,864 - python main.py - WARNING - Relation-shape convolu-tional neural network for point cloud analysis未成功搜索到
+2021-05-29 12:00:26,090 - python main.py - INFO - DensePoint: Learning densely contextual representation for efficient point cloud processing成功下载
+2021-05-29 12:00:28,988 - python main.py - WARNING - KPConv: Flexible and deformable convolution for point clouds未成功搜索到
+2021-05-29 12:00:32,461 - python main.py - WARNING - ConvPoint: continuous convolutions for point cloud processing未成功搜索到
+2021-05-29 12:00:39,711 - python main.py - INFO - PointConv: Deep convolutional networks on 3D point clouds成功下载
+2021-05-29 12:00:43,167 - python main.py - WARNING - Monte carlo convolution for learning on non-uniformly sampled point clouds未成功搜索到
+2021-05-29 12:00:46,763 - python main.py - WARNING - SpiderCNN: Deep learning on point sets with parameterized convolutional filters未成功搜索到
+2021-05-29 12:00:50,428 - python main.py - WARNING - Point convolutional neural networks by extension operators未成功搜索到
+2021-05-29 12:00:54,569 - python main.py - WARNING - Learning so(3) equivariant representations with spherical CNNs未成功搜索到
+2021-05-29 12:00:58,883 - python main.py - WARNING - Spherical CNNs未成功搜索到
+2021-05-29 12:01:02,722 - python main.py - WARNING - Effective rotation-invariant point CNN with spherical harmon-ics kernels未成功搜索到
+2021-05-29 12:01:06,642 - python main.py - WARNING - Flex-Convolution未成功搜索到
+2021-05-29 12:01:10,701 - python main.py - WARNING - Pointwise convolutional neural networks未成功搜索到
+2021-05-29 12:01:14,522 - python main.py - WARNING - Octree guided cnn with spheri-cal kernels for 3D point clouds未成功搜索到
+2021-05-29 12:01:20,001 - python main.py - INFO - Modeling local geometric structure of 3D point clouds using geo-cnn成功下载
+2021-05-29 12:01:23,250 - python main.py - WARNING - PointCNN: Convolution on x-transformed points未成功搜索到
+2021-05-29 12:01:34,317 - python main.py - INFO - Interpolated convolutional networks for 3D point cloud understanding成功下载
+2021-05-29 12:01:37,371 - python main.py - WARNING - Rotation invariant convolutions for 3D point clouds deep learning未成功搜索到
+2021-05-29 12:01:43,473 - python main.py - INFO - A-CNN: Annularly convolutional neural networks on point clouds成功下载
+2021-05-29 12:01:46,738 - python main.py - WARNING - LP-3DCNN: Unveiling local phase in 3D convolutional neural networks未成功搜索到
+2021-05-29 12:01:52,691 - python main.py - INFO - Spherical fractal convolutional neural networks for point cloud recognition成功下载
+2021-05-29 12:01:55,432 - python main.py - WARNING - Dynamic edge-conditioned filters in convolutional neural networks on graphs未成功搜索到
+2021-05-29 12:01:58,936 - python main.py - WARNING - 3D is here: Point cloud library (PCL)未成功搜索到
+2021-05-29 12:02:03,273 - python main.py - WARNING - Dynamic graph CNN for learning on point clouds未成功搜索到
+2021-05-29 12:02:10,329 - python main.py - INFO - FoldingNet: Point cloud auto-encoder via deep grid deformation成功下载
+2021-05-29 12:02:14,270 - python main.py - WARNING - Going deeper with convolutions未成功搜索到
+2021-05-29 12:02:20,908 - python main.py - INFO - Unsupervised multi-task feature learning on point clouds成功下载
+2021-05-29 12:02:23,917 - python main.py - WARNING - Dynamic points agglomeration for hierarchical point sets learning未成功搜索到
+2021-05-29 12:02:30,184 - python main.py - INFO - Mining point cloud local structures by kernel correlation and graph pooling成功下载
+2021-05-29 12:02:33,320 - python main.py - WARNING - General-purpose deep point cloud feature extractor未成功搜索到
+2021-05-29 12:02:37,121 - python main.py - WARNING - Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis未成功搜索到
+2021-05-29 12:02:42,289 - python main.py - INFO - Grid-gcn for fast and scalable point cloud learning成功下载
+2021-05-29 12:02:45,504 - python main.py - WARNING - Spectral networks and locally connected networks on graphs未成功搜索到
+2021-05-29 12:02:49,150 - python main.py - WARNING - Convolutional neural networks on graphs with fast localized spectral filtering未成功搜索到
+2021-05-29 12:02:53,732 - python main.py - WARNING - RGCNN: Regularized graph CNN for point cloud segmentation未成功搜索到
+2021-05-29 12:02:57,832 - python main.py - WARNING - Adaptive graph convolu-tional neural networks未成功搜索到
+2021-05-29 12:03:01,928 - python main.py - WARNING - Hypergraph neural networks未成功搜索到
+2021-05-29 12:03:06,064 - python main.py - WARNING - Local spectral graph convo-lution for point set feature learning未成功搜索到
+2021-05-29 12:03:13,040 - python main.py - INFO - A Graph-CNN for 3D point cloud classification成功下载
+2021-05-29 12:03:16,622 - python main.py - WARNING - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models未成功搜索到
+2021-05-29 12:03:20,779 - python main.py - WARNING - 3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues未成功搜索到
+2021-05-29 12:03:28,902 - python main.py - INFO - SO-Net: Self-organizing network for point cloud analysis成功下载
+2021-05-29 12:03:31,873 - python main.py - WARNING - Attentional ShapeContextNet for point cloud recognition未成功搜索到
+2021-05-29 12:03:36,417 - python main.py - WARNING - PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion未成功搜索到
+2021-05-29 12:03:40,230 - python main.py - WARNING - PVRNet: Point-view relation neural network for 3D shape recognition未成功搜索到
+2021-05-29 12:03:47,116 - python main.py - INFO - 3D point capsule networks成功下载
+2021-05-29 12:03:50,176 - python main.py - WARNING - Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network未成功搜索到
+2021-05-29 12:03:54,417 - python main.py - WARNING - Point cloud processing via recurrent set encoding未成功搜索到
+2021-05-29 12:03:57,972 - python main.py - WARNING - PointDAN: A multi-scale 3D domain adaption network for point cloud representation未成功搜索到
+2021-05-29 12:04:01,863 - python main.py - WARNING - Self-supervised deep learning on point clouds by reconstructing space未成功搜索到
+2021-05-29 12:04:09,488 - python main.py - INFO - PointAugment: An auto-augmentation framework for point cloud classification成功下载
+2021-05-29 12:04:12,262 - python main.py - WARNING - Shape matching and object recognition using shape contexts未成功搜索到
+2021-05-29 12:04:16,092 - python main.py - WARNING - Attention is all you need未成功搜索到
+2021-05-29 12:04:19,967 - python main.py - WARNING - Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor未成功搜索到
+2021-05-29 12:04:26,116 - python main.py - INFO - Efficient learning on point clouds with basis point sets成功下载
+2021-05-29 12:04:28,850 - python main.py - WARNING - Deep learning for generic object detection: A survey未成功搜索到
+2021-05-29 12:04:36,099 - python main.py - INFO - Deep hough voting for 3D object detection in point clouds成功下载
+2021-05-29 12:04:39,284 - python main.py - WARNING - Point-GNN: Graph neural network for 3D object detection in a point cloud未成功搜索到
+2021-05-29 12:04:46,791 - python main.py - INFO - Joint 3D proposal generation and object detection from view aggregation成功下载
+2021-05-29 12:04:49,973 - python main.py - WARNING - Deep continuous fusion for multi-sensor 3D object detection未成功搜索到
+2021-05-29 12:04:54,847 - python main.py - INFO - Multi-task multi-sensor fusion for 3D object detection成功下载
+2021-05-29 12:04:57,855 - python main.py - WARNING - PIXOR: Real-time 3D object detection from point clouds未成功搜索到
+2021-05-29 12:05:06,452 - python main.py - INFO - Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net成功下载
+2021-05-29 12:05:13,335 - python main.py - WARNING - RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving未成功搜索到
+2021-05-29 12:05:17,045 - python main.py - WARNING - PointRCNN: 3D object proposal generation and detection from point cloud未成功搜索到
+2021-05-29 12:05:37,329 - python main.py - INFO - PointPainting: Sequential fusion for 3D object detection成功下载
+2021-05-29 12:05:40,473 - python main.py - WARNING - VoxelNet: End-to-end learning for point cloud based 3D object detection未成功搜索到
+2021-05-29 12:05:47,387 - python main.py - INFO - PointPillars: Fast encoders for object detection from point clouds成功下载
+2021-05-29 12:05:50,737 - python main.py - WARNING - STD: Sparse-to-dense 3D object detector for point cloud未成功搜索到
+2021-05-29 12:05:58,270 - python main.py - INFO - Frustum PointNets for 3D object detection from RGB-D data成功下载
+2021-05-29 12:06:01,340 - python main.py - WARNING - 3D object detection using scale invariant and feature reweighting networks未成功搜索到
+2021-05-29 12:06:08,220 - python main.py - INFO - PointFusion: Deep sensor fusion for 3D bounding box estimation成功下载
+2021-05-29 12:06:11,300 - python main.py - WARNING - RoarNet: A robust 3D object detection based on region approximation refinement未成功搜索到
+2021-05-29 12:06:15,205 - python main.py - WARNING - Frustum convNet: Sliding frustums to ag-gregate local point-wise features for amodal 3D object detection未成功搜索到
+2021-05-29 12:06:20,975 - python main.py - INFO - Iou loss for 2D/3D object detection成功下载
+2021-05-29 12:06:24,445 - python main.py - WARNING - Fast point r-cnn未成功搜索到
+2021-05-29 12:06:29,958 - python main.py - INFO - PV-RCNN: Point-voxel feature set abstraction for 3D object detection成功下载
+2021-05-29 12:06:33,269 - python main.py - WARNING - ImVoteNet: Boosting 3D object detection in point clouds with image votes未成功搜索到
+2021-05-29 12:06:39,997 - python main.py - INFO - From points to parts: 3D object detection from point cloud with part-aware and part-aggregation network成功下载
+2021-05-29 12:06:43,063 - python main.py - WARNING - HDNET: Exploiting hd maps for 3D object detection未成功搜索到
+2021-05-29 12:06:50,915 - python main.py - INFO - BirdNet: a 3D object detection framework from lidar information成功下载
+2021-05-29 12:06:54,036 - python main.py - WARNING - 3D fully convolutional network for vehicle detection in point cloud未成功搜索到
+2021-05-29 12:06:58,821 - python main.py - WARNING - Vote3Deep: Fast object detection in 3D point clouds using effi-cient convolutional neural networks未成功搜索到
+2021-05-29 12:07:02,390 - python main.py - WARNING - 3D backbone network for 3D object detection未成功搜索到
+2021-05-29 12:07:06,290 - python main.py - WARNING - SECOND: Sparsely embedded convo-lutional detection未成功搜索到
+2021-05-29 12:07:12,633 - python main.py - INFO - MVX-Net: Multimodal voxelnet for 3D object detection成功下载
+2021-05-29 12:07:15,584 - python main.py - WARNING - Structure aware single-stage 3D object detection from point cloud未成功搜索到
+2021-05-29 12:07:22,419 - python main.py - INFO - 3DSSD: Point-based 3D single stage object detector成功下载
+2021-05-29 12:07:25,806 - python main.py - WARNING - LaserNet: An efficient probabilistic 3D object detec-tor for autonomous driving未成功搜索到
+2021-05-29 12:07:30,065 - python main.py - WARNING - Sensor fusion for joint 3D object detection and seman-tic segmentation未成功搜索到
+2021-05-29 12:07:33,729 - python main.py - WARNING - U-Net: Convolutional networks for biomedical image segmentation未成功搜索到
+2021-05-29 12:07:38,869 - python main.py - INFO - 3D semantic segmentation with submanifold sparse convolutional networks成功下载
+2021-05-29 12:07:42,467 - python main.py - WARNING - Correlation filter tracking: Beyond an open-loop system未成功搜索到
+2021-05-29 12:07:50,209 - python main.py - INFO - Robust long-term tracking via instance specific proposals成功下载
+2021-05-29 12:07:52,930 - python main.py - WARNING - Fully-convolutional siamese networks for object tracking未成功搜索到
+2021-05-29 12:07:56,670 - python main.py - WARNING - Leveraging shape com-pletion for 3D siamese tracking未成功搜索到
+2021-05-29 12:08:00,566 - python main.py - WARNING - Context-aware correla-tion filter tracking未成功搜索到
+2021-05-29 12:08:07,424 - python main.py - INFO - Complexer-YOLO: Real-time 3D object detection and tracking on semantic point clouds成功下载
+2021-05-29 12:08:10,233 - python main.py - WARNING - P2B: Point-to-box network for 3D object tracking in point clouds未成功搜索到
+2021-05-29 12:08:17,002 - python main.py - INFO - FlowNet3D: Learning scene flow in 3D point clouds成功下载
+2021-05-29 12:08:20,403 - python main.py - WARNING - FlowNet3D++: Geometric losses for deep scene flow estima-tion未成功搜索到
+2021-05-29 12:08:24,033 - python main.py - WARNING - HPLFlowNet: Hierarchical permutohedral lattice flowNet for scene flow esti-mation on large-scale point clouds未成功搜索到
+2021-05-29 12:08:30,915 - python main.py - INFO - MeteorNet: Deep learning on dynamic 3D point cloud sequences成功下载
+2021-05-29 12:08:34,125 - python main.py - WARNING - Just go with the flow: Self-supervised scene flow estimation未成功搜索到
+2021-05-29 12:08:38,739 - python main.py - WARNING - Deep projective 3D semantic segmentation未成功搜索到
+2021-05-29 12:08:43,089 - python main.py - WARNING - Unstructured point cloud semantic labeling using deep segmentation networks未成功搜索到
+2021-05-29 12:08:46,837 - python main.py - WARNING - SqueezeSeg: Convo-lutional neural nets with recurrent crf for real-time road-object segmentation from 3D lidar point cloud未成功搜索到
+2021-05-29 12:08:53,441 - python main.py - INFO - SqueezeSegV2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud成功下载
+2021-05-29 12:08:56,215 - python main.py - WARNING - RangeNet++: Fast and accurate lidar semantic segmentation未成功搜索到
+2021-05-29 12:09:01,461 - python main.py - INFO - VV-Net: Voxel vae net with group convolutions for point cloud segmentation成功下载
+2021-05-29 12:09:04,704 - python main.py - WARNING - Fully-convolutional point networks for large-scale point clouds未成功搜索到
+2021-05-29 12:09:11,007 - python main.py - INFO - SplatNet: Sparse lattice networks for point cloud processing成功下载
+2021-05-29 12:09:14,350 - python main.py - WARNING - 3DMV: Joint 3D-multi-view prediction for 3D semantic scene segmentation未成功搜索到
+2021-05-29 12:09:19,969 - python main.py - INFO - Multi-view pointNet for 3D scene understanding成功下载
+2021-05-29 12:09:22,909 - python main.py - WARNING - Semantic segmentation of earth observation data using multimodal and multi-scale deep networks未成功搜索到
+2021-05-29 12:09:28,250 - python main.py - INFO - Tangent convolutions for dense prediction in 3D成功下载
+2021-05-29 12:09:31,693 - python main.py - WARNING - SqueezeNet: Alexnet-level accuracy with 50x fewer parameters and < 0.5 MB model size未成功搜索到
+2021-05-29 12:09:36,029 - python main.py - WARNING - Point cloud labeling using 3D convolu-tional neural network未成功搜索到
+2021-05-29 12:09:40,482 - python main.py - WARNING - SEG-Cloud: Semantic segmentation of 3D point clouds未成功搜索到
+2021-05-29 12:09:44,297 - python main.py - WARNING - Fully convolutional net-works for semantic segmentation未成功搜索到
+2021-05-29 12:09:48,097 - python main.py - WARNING - ScanComplete: Large-scale scene completion and semantic seg-mentation for 3D scans未成功搜索到
+2021-05-29 12:09:53,819 - python main.py - INFO - 4D spatio-temporal convnets: Minkowski convolutional neural networks成功下载
+2021-05-29 12:09:57,424 - python main.py - WARNING - A unified point-based framework for 3D segmentation未成功搜索到
+2021-05-29 12:10:02,532 - python main.py - INFO - Deep parametric continuous convolutional neural networks成功下载
+2021-05-29 12:10:06,364 - python main.py - WARNING - 3D recurrent neural networks with context fusion for point cloud semantic segmentation未成功搜索到
+2021-05-29 12:10:10,141 - python main.py - WARNING - Large-scale point cloud seman-tic segmentation with superpoint graphs未成功搜索到
+2021-05-29 12:10:13,954 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-29 12:10:25,638 - python main.py - INFO - ShellNet: Efficient point cloud convolutional neural networks using concentric shells statistics成功下载
+2021-05-29 12:10:29,008 - python main.py - WARNING - RandLA-Net: Efficient semantic segmentation of large-scale point clouds未成功搜索到
+2021-05-29 12:10:38,347 - python main.py - INFO - Pooling scores of neighboring points for improved 3D point cloud segmentation成功下载
+2021-05-29 12:10:42,293 - python main.py - WARNING - NetVLAD: CNN architecture for weakly supervised place recognition未成功搜索到
+2021-05-29 12:10:46,619 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-29 12:10:50,417 - python main.py - WARNING - Dilated point con-volutions: On the receptive field of point convolutions未成功搜索到
+2021-05-29 12:10:56,443 - python main.py - INFO - Recurrent slice networks for 3D segmentation of point clouds成功下载
+2021-05-29 12:11:00,891 - python main.py - WARNING - Ex-ploring spatial context for 3D semantic segmentation of point clouds未成功搜索到
+2021-05-29 12:11:07,705 - python main.py - INFO - Point cloud oversegmentation with graph-structured deep metric learning成功下载
+2021-05-29 12:11:11,213 - python main.py - WARNING - Graph attention convolution for point cloud semantic segmentation未成功搜索到
+2021-05-29 12:11:17,696 - python main.py - INFO - Hierarchical depthwise graph convolutional neural network for 3D semantic segmentation of point clouds成功下载
+2021-05-29 12:11:21,703 - python main.py - WARNING - Hierar-chical point-edge interaction network for point cloud semantic segmentation未成功搜索到
+2021-05-29 12:11:32,205 - python main.py - INFO - 3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds成功下载
+2021-05-29 12:11:35,784 - python main.py - WARNING - PyramNet: Point cloud pyramid attention network and graph embedding module for classification and segmentation未成功搜索到
+2021-05-29 12:11:41,610 - python main.py - WARNING - Global context reasoning for semantic segmentation of 3D point clouds未成功搜索到
+2021-05-29 12:11:49,485 - python main.py - INFO - Multi-path region mining for weakly supervised 3D semantic segmentation on point clouds成功下载
+2021-05-29 12:11:52,797 - python main.py - WARNING - Weakly supervised semantic point cloud segmentation: Towards 10x fewer labels未成功搜索到
+2021-05-29 12:11:58,991 - python main.py - INFO - 3D-SIS: 3D semantic instance segmentation of RGB-D scans成功下载
+2021-05-29 12:12:02,530 - python main.py - WARNING - GSPN: Generative shape proposal network for 3D instance segmentation in point cloud未成功搜索到
+2021-05-29 12:12:09,871 - python main.py - INFO - PanopticFusion: Online volumetric semantic mapping at the level of stuff and things成功下载
+2021-05-29 12:12:14,229 - python main.py - WARNING - Learning object bounding boxes for 3D instance segmentation on point clouds未成功搜索到
+2021-05-29 12:12:20,608 - python main.py - INFO - Instance segmentation of lidar point clouds成功下载
+2021-05-29 12:12:24,941 - python main.py - WARNING - Hierarchy de-noising recursive autoencoders for 3D scene layout prediction未成功搜索到
+2021-05-29 12:12:32,973 - python main.py - INFO - 3d-mpa: Multi-proposal aggregation for 3d semantic instance segmentation成功下载
+2021-05-29 12:12:35,919 - python main.py - WARNING - SGPN: Similarity group proposal network for 3D point cloud instance segmenta-tion未成功搜索到
+2021-05-29 12:12:44,372 - python main.py - INFO - Associatively segmenting instances and semantics in point clouds成功下载
+2021-05-29 12:12:48,377 - python main.py - WARNING - JSIS3D: Joint semantic-instance segmentation of 3D point clouds with multi-task pointwise networks and multi-value conditional random fields未成功搜索到
+2021-05-29 12:12:53,311 - python main.py - WARNING - 3D-BEVIS: Birds-eye-view instance segmentation未成功搜索到
+2021-05-29 12:13:03,005 - python main.py - INFO - Occuseg: Occupancy-aware 3d instance segmentation成功下载
+2021-05-29 12:13:07,944 - python main.py - WARNING - PointGroup: Dual-set point grouping for 3D instance segmentation未成功搜索到
+2021-05-29 12:13:15,045 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-29 12:13:18,911 - python main.py - WARNING - JSNet: Joint instance and semantic segmen-tation of 3D point clouds未成功搜索到
+2021-05-29 12:13:24,875 - python main.py - INFO - Semantic instance segmentation with a discriminative loss function成功下载
+2021-05-29 12:13:28,467 - python main.py - WARNING - Semantic labeling and instance segmentation of 3D point clouds using patch context analysis and multiscale processing未成功搜索到
+2021-05-29 12:13:32,235 - python main.py - WARNING - Mean shift: A robust approach toward feature space analysis未成功搜索到
+2021-05-29 12:13:39,967 - python main.py - INFO - 3D instance segmentation via multi-task metric learning成功下载
+2021-05-29 12:13:44,040 - python main.py - WARNING - VoxSegNet: Volumetric CNNs for semantic part segmentation of 3D shapes未成功搜索到
+2021-05-29 12:13:51,663 - python main.py - INFO - 3D shape segmentation with projective convolutional networks成功下载
+2021-05-29 12:13:55,369 - python main.py - WARNING - SyncSpecCNN: Synchro-nized spectral CNN for 3D shape segmentation未成功搜索到
+2021-05-29 12:14:01,941 - python main.py - WARNING - 3D shape segmentation via shape fully convolutional networks未成功搜索到
+2021-05-29 12:14:12,062 - python main.py - INFO - BAE-NET: Branched autoencoder for shape co-segmentation成功下载
+2021-05-29 12:14:15,445 - python main.py - WARNING - PartNet: A recursive part decomposition network for fine-grained and hierarchical shape segmentation未成功搜索到
+2021-05-29 12:14:20,569 - python main.py - WARNING - Learn-ing to group: A bottom-up framework for 3D part discovery in unseen categories未成功搜索到
+2021-05-29 12:14:24,963 - python main.py - WARNING - Point-Voxel CNN for efficient 3D deep learning未成功搜索到
+2021-05-29 12:14:25,416 - python main.py - INFO - IEEE网站搜索完成
+2021-05-29 12:39:27,445 - python main.py - INFO - 完成数据的转换和写入
+2021-05-29 12:39:31,479 - python main.py - INFO - 成功登陆IEEE网站
+2021-05-29 12:39:55,820 - python main.py - INFO - Stereo matching using multi-level cost volume and multi-scale feature constancy成功下载
+2021-05-29 12:39:59,232 - python main.py - WARNING - Rotational projection statistics for 3D local surface description and object recognition未成功搜索到
+2021-05-29 12:40:08,055 - python main.py - INFO - 3D object recognition in cluttered scenes with local surface features: a survey成功下载
+2021-05-29 12:40:11,130 - python main.py - WARNING - Multi-view 3D object detection network for autonomous driving未成功搜索到
+2021-05-29 12:40:18,496 - python main.py - INFO - PointNet: Deep learning on point sets for 3D classification and segmentation成功下载
+2021-05-29 12:40:21,853 - python main.py - WARNING - 3D shapeNets: A deep representation for volumetric shapes未成功搜索到
+2021-05-29 12:40:30,156 - python main.py - INFO - Revisiting point cloud classification: A new benchmark dataset and classification model on real-world data成功下载
+2021-05-29 12:40:33,701 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-29 12:40:41,274 - python main.py - INFO - 3D semantic parsing of large-scale indoor spaces成功下载
+2021-05-29 12:40:46,137 - python main.py - WARNING - ScanNet: Richly-annotated 3D reconstructions of indoor scenes未成功搜索到
+2021-05-29 12:40:50,379 - python main.py - WARNING - Semantic3D.net: A new large-scale point cloud classification benchmark未成功搜索到
+2021-05-29 12:40:57,503 - python main.py - INFO - Apollocar3D: A large 3D car instance understanding benchmark for autonomous driving成功下载
+2021-05-29 12:41:00,481 - python main.py - WARNING - Are we ready for au-tonomous driving未成功搜索到
+2021-05-29 12:41:07,502 - python main.py - INFO - SemanticKITTI: A dataset for semantic scene understanding of lidar sequences成功下载
+2021-05-29 12:41:10,240 - python main.py - WARNING - 3D point cloud registra-tion for localization using a deep neural network auto-encoder未成功搜索到
+2021-05-29 12:41:13,876 - python main.py - WARNING - Multi-view self-supervised deep learning for 6D pose estimation in the amazon picking challenge未成功搜索到
+2021-05-29 12:41:17,995 - python main.py - WARNING - Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era未成功搜索到
+2021-05-29 12:41:22,384 - python main.py - WARNING - Deep learning advances in computer vision with 3D data: A survey未成功搜索到
+2021-05-29 12:41:26,427 - python main.py - WARNING - A review of point cloud semantic segmentation未成功搜索到
+2021-05-29 12:41:33,992 - python main.py - INFO - Recent advances in 3D object detection in the era of deep neural networks: A survey成功下载
+2021-05-29 12:41:36,885 - python main.py - WARNING - Retrieving articulated 3-D models using medial surfaces未成功搜索到
+2021-05-29 12:41:46,567 - python main.py - WARNING - Unsuper-vised feature learning for classification of outdoor 3D scans未成功搜索到
+2021-05-29 12:41:53,982 - python main.py - INFO - Sun RGB-D: A RGB-D scene understanding benchmark suite成功下载
+2021-05-29 12:41:57,541 - python main.py - WARNING - The H3D dataset for full-surround 3D multi-object detection and tracking in crowded urban scenes未成功搜索到
+2021-05-29 12:42:05,092 - python main.py - INFO - Argoverse: 3D tracking and forecasting with rich maps成功下载
+2021-05-29 12:42:09,077 - python main.py - WARNING - Lyft level 5 av dataset 2019未成功搜索到
+2021-05-29 12:42:13,529 - python main.py - WARNING - A*3D dataset: Towards autonomous driving in challenging environments未成功搜索到
+2021-05-29 12:42:18,001 - python main.py - WARNING - Scalabil-ity in perception for autonomous driving: Waymo open dataset未成功搜索到
+2021-05-29 12:42:24,539 - python main.py - INFO - nuscenes: A multimodal dataset for autonomous driving成功下载
+2021-05-29 12:42:28,243 - python main.py - WARNING - Con-textual classification with functional max-margin markov net-works未成功搜索到
+2021-05-29 12:42:32,025 - python main.py - WARNING - The isprs benchmark on urban object classifi-cation and 3D building reconstruction未成功搜索到
+2021-05-29 12:42:35,832 - python main.py - WARNING - Paris-rue-madame database: a 3D mobile laser scanner dataset for benchmarking urban detection, segmentation and classification methods未成功搜索到
+2021-05-29 12:42:40,389 - python main.py - WARNING - Terramobilita/iqmulus urban point cloud analysis benchmark未成功搜索到
+2021-05-29 12:42:44,925 - python main.py - WARNING - Paris-lille-3d: A large and high-quality ground-truth urban point cloud dataset for automatic segmentation and classification未成功搜索到
+2021-05-29 12:42:51,909 - python main.py - INFO - SCANet: Spatial-channel attention network for 3D object detection成功下载
+2021-05-29 12:42:55,049 - python main.py - WARNING - Multi-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-29 12:43:01,235 - python main.py - INFO - Multi-view harmonized bilinear network for 3D object recognition成功下载
+2021-05-29 12:43:04,979 - python main.py - WARNING - Learning relationships for multi-view 3D object recognition未成功搜索到
+2021-05-29 12:43:12,986 - python main.py - INFO - Volumetric and multi-view CNNs for object classification on 3D data成功下载
+2021-05-29 12:43:15,921 - python main.py - WARNING - GVCNN: Group-view convolutional neural networks for 3D shape recognition未成功搜索到
+2021-05-29 12:43:19,582 - python main.py - WARNING - Dominant set clustering and pooling for multi-view 3D object recognition未成功搜索到
+2021-05-29 12:43:23,936 - python main.py - WARNING - Learning multi-view rep-resentation with LSTM for 3D shape recognition and retrieval未成功搜索到
+2021-05-29 12:43:28,162 - python main.py - WARNING - View-gcn: View-based graph convolu-tional network for 3D shape analysis未成功搜索到
+2021-05-29 12:43:36,172 - python main.py - INFO - VoxNet: A 3D convolutional neural network for real-time object recognition成功下载
+2021-05-29 12:43:39,882 - python main.py - WARNING - OctNet: Learning deep 3D representations at high resolutions未成功搜索到
+2021-05-29 12:43:45,082 - python main.py - WARNING - O-CNN: Octree-based convolutional neural networks for 3D shape analysis未成功搜索到
+2021-05-29 12:43:52,100 - python main.py - INFO - PointGrid: A deep network for 3D shape understanding成功下载
+2021-05-29 12:43:55,409 - python main.py - WARNING - Deep sets未成功搜索到
+2021-05-29 12:43:59,038 - python main.py - WARNING - PointNet++: Deep hierarchical feature learning on point sets in a metric space未成功搜索到
+2021-05-29 12:44:02,620 - python main.py - WARNING - Mo-Net: Flavor the moments in learning to classify shapes未成功搜索到
+2021-05-29 12:44:06,418 - python main.py - WARNING - Modeling point clouds with self-attention and gumbel subset sampling未成功搜索到
+2021-05-29 12:44:10,961 - python main.py - WARNING - PointWeb: Enhancing lo-cal neighborhood features for point cloud processing未成功搜索到
+2021-05-29 12:44:17,319 - python main.py - INFO - Structural relational reasoning of point clouds成功下载
+2021-05-29 12:44:20,787 - python main.py - WARNING - Justlookup: One millisecond deep feature extraction for point clouds by lookup tables未成功搜索到
+2021-05-29 12:44:24,645 - python main.py - WARNING - SRINet: Learning strictly rotation-invariant representations for point cloud classification and seg-mentation未成功搜索到
+2021-05-29 12:44:31,096 - python main.py - INFO - Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling成功下载
+2021-05-29 12:44:34,325 - python main.py - WARNING - Relation-shape convolu-tional neural network for point cloud analysis未成功搜索到
+2021-05-29 12:44:42,443 - python main.py - INFO - DensePoint: Learning densely contextual representation for efficient point cloud processing成功下载
+2021-05-29 12:44:45,267 - python main.py - WARNING - KPConv: Flexible and deformable convolution for point clouds未成功搜索到
+2021-05-29 12:44:50,476 - python main.py - WARNING - ConvPoint: continuous convolutions for point cloud processing未成功搜索到
+2021-05-29 12:44:58,033 - python main.py - INFO - PointConv: Deep convolutional networks on 3D point clouds成功下载
+2021-05-29 12:45:00,803 - python main.py - WARNING - Monte carlo convolution for learning on non-uniformly sampled point clouds未成功搜索到
+2021-05-29 12:45:04,592 - python main.py - WARNING - SpiderCNN: Deep learning on point sets with parameterized convolutional filters未成功搜索到
+2021-05-29 12:45:08,418 - python main.py - WARNING - Point convolutional neural networks by extension operators未成功搜索到
+2021-05-29 12:45:12,042 - python main.py - WARNING - Learning so(3) equivariant representations with spherical CNNs未成功搜索到
+2021-05-29 12:45:15,676 - python main.py - WARNING - Spherical CNNs未成功搜索到
+2021-05-29 12:45:19,426 - python main.py - WARNING - Effective rotation-invariant point CNN with spherical harmon-ics kernels未成功搜索到
+2021-05-29 12:45:23,065 - python main.py - WARNING - Flex-Convolution未成功搜索到
+2021-05-29 12:45:30,669 - python main.py - INFO - Pointwise convolutional neural networks成功下载
+2021-05-29 12:45:34,259 - python main.py - WARNING - Octree guided cnn with spheri-cal kernels for 3D point clouds未成功搜索到
+2021-05-29 12:45:41,528 - python main.py - INFO - Modeling local geometric structure of 3D point clouds using geo-cnn成功下载
+2021-05-29 12:45:44,507 - python main.py - WARNING - PointCNN: Convolution on x-transformed points未成功搜索到
+2021-05-29 12:45:49,132 - python main.py - INFO - Interpolated convolutional networks for 3D point cloud understanding成功下载
+2021-05-29 12:45:51,831 - python main.py - WARNING - Rotation invariant convolutions for 3D point clouds deep learning未成功搜索到
+2021-05-29 12:45:58,234 - python main.py - INFO - A-CNN: Annularly convolutional neural networks on point clouds成功下载
+2021-05-29 12:46:01,431 - python main.py - WARNING - LP-3DCNN: Unveiling local phase in 3D convolutional neural networks未成功搜索到
+2021-05-29 12:46:06,291 - python main.py - INFO - Spherical fractal convolutional neural networks for point cloud recognition成功下载
+2021-05-29 12:46:09,575 - python main.py - WARNING - Dynamic edge-conditioned filters in convolutional neural networks on graphs未成功搜索到
+2021-05-29 12:46:17,306 - python main.py - INFO - 3D is here: Point cloud library (PCL)成功下载
+2021-05-29 12:46:20,054 - python main.py - WARNING - Dynamic graph CNN for learning on point clouds未成功搜索到
+2021-05-29 12:46:27,098 - python main.py - INFO - FoldingNet: Point cloud auto-encoder via deep grid deformation成功下载
+2021-05-29 12:46:29,830 - python main.py - WARNING - Going deeper with convolutions未成功搜索到
+2021-05-29 12:46:34,980 - python main.py - INFO - Unsupervised multi-task feature learning on point clouds成功下载
+2021-05-29 12:46:38,197 - python main.py - WARNING - Dynamic points agglomeration for hierarchical point sets learning未成功搜索到
+2021-05-29 12:46:47,174 - python main.py - INFO - Mining point cloud local structures by kernel correlation and graph pooling成功下载
+2021-05-29 12:46:50,682 - python main.py - WARNING - General-purpose deep point cloud feature extractor未成功搜索到
+2021-05-29 12:46:54,332 - python main.py - WARNING - Cluster-Net: Deep hierarchical cluster network with rigorously rotation-invariant representation for point cloud analysis未成功搜索到
+2021-05-29 12:46:59,255 - python main.py - INFO - Grid-gcn for fast and scalable point cloud learning成功下载
+2021-05-29 12:47:02,507 - python main.py - WARNING - Spectral networks and locally connected networks on graphs未成功搜索到
+2021-05-29 12:47:06,154 - python main.py - WARNING - Convolutional neural networks on graphs with fast localized spectral filtering未成功搜索到
+2021-05-29 12:47:10,225 - python main.py - WARNING - RGCNN: Regularized graph CNN for point cloud segmentation未成功搜索到
+2021-05-29 12:47:14,175 - python main.py - WARNING - Adaptive graph convolu-tional neural networks未成功搜索到
+2021-05-29 12:47:17,859 - python main.py - WARNING - Hypergraph neural networks未成功搜索到
+2021-05-29 12:47:21,373 - python main.py - WARNING - Local spectral graph convo-lution for point set feature learning未成功搜索到
+2021-05-29 12:48:23,348 - python main.py - WARNING - A Graph-CNN for 3D point cloud classification未成功下载
+2021-05-29 12:48:55,493 - python main.py - WARNING - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models未成功搜索到
+2021-05-29 12:49:35,399 - python main.py - WARNING - 3DContextNet: K-d tree guided hierar-chical learning of point clouds using local and global contextual cues未成功搜索到
+2021-05-29 12:49:41,614 - python main.py - INFO - SO-Net: Self-organizing network for point cloud analysis成功下载
+2021-05-29 12:49:44,860 - python main.py - WARNING - Attentional ShapeContextNet for point cloud recognition未成功搜索到
+2021-05-29 12:49:48,894 - python main.py - WARNING - PVNet: A joint convolutional network of point cloud and multi-view for 3D shape recogni-tion未成功搜索到
+2021-05-29 12:49:52,741 - python main.py - WARNING - PVRNet: Point-view relation neural network for 3D shape recognition未成功搜索到
+2021-05-29 12:49:58,556 - python main.py - INFO - 3D point capsule networks成功下载
+2021-05-29 12:50:01,488 - python main.py - WARNING - Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network未成功搜索到
+2021-05-29 12:50:07,309 - python main.py - WARNING - Point cloud processing via recurrent set encoding未成功搜索到
+2021-05-29 12:50:11,918 - python main.py - WARNING - PointDAN: A multi-scale 3D domain adaption network for point cloud representation未成功搜索到
+2021-05-29 12:50:16,824 - python main.py - WARNING - Self-supervised deep learning on point clouds by reconstructing space未成功搜索到
+2021-05-29 12:50:23,693 - python main.py - INFO - PointAugment: An auto-augmentation framework for point cloud classification成功下载
+2021-05-29 12:50:27,476 - python main.py - WARNING - Shape matching and object recognition using shape contexts未成功搜索到
+2021-05-29 12:50:30,978 - python main.py - WARNING - Attention is all you need未成功搜索到
+2021-05-29 12:50:35,038 - python main.py - WARNING - Noise-resistant deep learning for object classification in 3D point clouds using a point pair descriptor未成功搜索到
+2021-05-29 12:50:43,573 - python main.py - INFO - Efficient learning on point clouds with basis point sets成功下载
+2021-05-29 12:50:47,480 - python main.py - WARNING - Deep learning for generic object detection: A survey未成功搜索到
+2021-05-29 12:50:54,809 - python main.py - INFO - Deep hough voting for 3D object detection in point clouds成功下载
+2021-05-29 12:50:58,318 - python main.py - WARNING - Point-GNN: Graph neural network for 3D object detection in a point cloud未成功搜索到
+2021-05-29 12:51:01,904 - python main.py - WARNING - Joint 3D proposal generation and object detection from view aggregation未成功搜索到
+2021-05-29 12:51:06,592 - python main.py - WARNING - Deep continuous fusion for multi-sensor 3D object detection未成功搜索到
+2021-05-29 12:51:15,965 - python main.py - INFO - Multi-task multi-sensor fusion for 3D object detection成功下载
+2021-05-29 12:51:21,131 - python main.py - WARNING - PIXOR: Real-time 3D object detection from point clouds未成功搜索到
+2021-05-29 12:51:28,152 - python main.py - WARNING - Fast and furious: Real time end-to-end 3D detection, tracking and motion forecasting with a single convolutional net未成功搜索到
+2021-05-29 12:51:32,372 - python main.py - WARNING - RT3D: Real-time 3D vehicle detection in lidar point cloud for autonomous driving未成功搜索到
+2021-05-29 12:51:40,953 - python main.py - INFO - PointRCNN: 3D object proposal generation and detection from point cloud成功下载
+2021-05-29 12:51:44,910 - python main.py - WARNING - PointPainting: Sequential fusion for 3D object detection未成功搜索到
+2021-05-29 12:51:51,482 - python main.py - INFO - VoxelNet: End-to-end learning for point cloud based 3D object detection成功下载
+2021-05-29 12:51:55,217 - python main.py - WARNING - PointPillars: Fast encoders for object detection from point clouds未成功搜索到
+2021-05-29 12:51:59,080 - python main.py - WARNING - STD: Sparse-to-dense 3D object detector for point cloud未成功搜索到
+2021-05-29 12:52:07,631 - python main.py - INFO - Frustum PointNets for 3D object detection from RGB-D data成功下载
+2021-05-29 12:52:11,678 - python main.py - WARNING - 3D object detection using scale invariant and feature reweighting networks未成功搜索到
+2021-05-29 12:52:19,307 - python main.py - INFO - PointFusion: Deep sensor fusion for 3D bounding box estimation成功下载
+2021-05-29 12:52:22,658 - python main.py - WARNING - RoarNet: A robust 3D object detection based on region approximation refinement未成功搜索到
+2021-05-29 12:52:27,435 - python main.py - WARNING - Frustum convNet: Sliding frustums to ag-gregate local point-wise features for amodal 3D object detection未成功搜索到
+2021-05-29 12:52:36,434 - python main.py - INFO - Iou loss for 2D/3D object detection成功下载
+2021-05-29 12:52:41,240 - python main.py - WARNING - Fast point r-cnn未成功搜索到
+2021-05-29 12:52:50,573 - python main.py - INFO - PV-RCNN: Point-voxel feature set abstraction for 3D object detection成功下载
+2021-05-29 12:52:54,174 - python main.py - WARNING - ImVoteNet: Boosting 3D object detection in point clouds with image votes未成功搜索到
+2021-05-29 12:53:01,824 - python main.py - INFO - From points to parts: 3D object detection from point cloud with part-aware and part-aggregation network成功下载
+2021-05-29 12:53:06,475 - python main.py - WARNING - HDNET: Exploiting hd maps for 3D object detection未成功搜索到
+2021-05-29 12:53:13,769 - python main.py - INFO - BirdNet: a 3D object detection framework from lidar information成功下载
+2021-05-29 12:53:17,691 - python main.py - WARNING - 3D fully convolutional network for vehicle detection in point cloud未成功搜索到
+2021-05-29 12:53:21,810 - python main.py - WARNING - Vote3Deep: Fast object detection in 3D point clouds using effi-cient convolutional neural networks未成功搜索到
+2021-05-29 12:53:26,089 - python main.py - WARNING - 3D backbone network for 3D object detection未成功搜索到
+2021-05-29 12:53:29,995 - python main.py - WARNING - SECOND: Sparsely embedded convo-lutional detection未成功搜索到
+2021-05-29 12:53:37,199 - python main.py - INFO - MVX-Net: Multimodal voxelnet for 3D object detection成功下载
+2021-05-29 12:53:41,561 - python main.py - WARNING - Structure aware single-stage 3D object detection from point cloud未成功搜索到
+2021-05-29 12:53:51,285 - python main.py - INFO - 3DSSD: Point-based 3D single stage object detector成功下载
+2021-05-29 12:53:54,080 - python main.py - WARNING - LaserNet: An efficient probabilistic 3D object detec-tor for autonomous driving未成功搜索到
+2021-05-29 12:53:58,163 - python main.py - WARNING - Sensor fusion for joint 3D object detection and seman-tic segmentation未成功搜索到
+2021-05-29 12:54:02,309 - python main.py - WARNING - U-Net: Convolutional networks for biomedical image segmentation未成功搜索到
+2021-05-29 12:54:09,085 - python main.py - INFO - 3D semantic segmentation with submanifold sparse convolutional networks成功下载
+2021-05-29 12:54:12,100 - python main.py - WARNING - Correlation filter tracking: Beyond an open-loop system未成功搜索到
+2021-05-29 12:54:20,432 - python main.py - INFO - Robust long-term tracking via instance specific proposals成功下载
+2021-05-29 12:54:23,177 - python main.py - WARNING - Fully-convolutional siamese networks for object tracking未成功搜索到
+2021-05-29 12:54:27,019 - python main.py - WARNING - Leveraging shape com-pletion for 3D siamese tracking未成功搜索到
+2021-05-29 12:54:31,907 - python main.py - WARNING - Context-aware correla-tion filter tracking未成功搜索到
+2021-05-29 12:54:39,354 - python main.py - INFO - Complexer-YOLO: Real-time 3D object detection and tracking on semantic point clouds成功下载
+2021-05-29 12:54:42,781 - python main.py - WARNING - P2B: Point-to-box network for 3D object tracking in point clouds未成功搜索到
+2021-05-29 12:54:52,766 - python main.py - INFO - FlowNet3D: Learning scene flow in 3D point clouds成功下载
+2021-05-29 12:54:56,729 - python main.py - WARNING - FlowNet3D++: Geometric losses for deep scene flow estima-tion未成功搜索到
+2021-05-29 12:55:01,063 - python main.py - WARNING - HPLFlowNet: Hierarchical permutohedral lattice flowNet for scene flow esti-mation on large-scale point clouds未成功搜索到
+2021-05-29 12:55:11,260 - python main.py - INFO - MeteorNet: Deep learning on dynamic 3D point cloud sequences成功下载
+2021-05-29 12:55:39,231 - python main.py - WARNING - Just go with the flow: Self-supervised scene flow estimation未成功搜索到
+2021-05-29 12:55:47,640 - python main.py - WARNING - Deep projective 3D semantic segmentation未成功搜索到
+2021-05-29 12:56:29,713 - python main.py - WARNING - Unstructured point cloud semantic labeling using deep segmentation networks未成功搜索到
+2021-05-29 12:56:33,969 - python main.py - WARNING - SqueezeSeg: Convo-lutional neural nets with recurrent crf for real-time road-object segmentation from 3D lidar point cloud未成功搜索到
+2021-05-29 12:56:37,925 - python main.py - WARNING - SqueezeSegV2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud未成功搜索到
+2021-05-29 12:56:45,946 - python main.py - WARNING - RangeNet++: Fast and accurate lidar semantic segmentation未成功搜索到
+2021-05-29 12:56:59,813 - python main.py - INFO - VV-Net: Voxel vae net with group convolutions for point cloud segmentation成功下载
+2021-05-29 12:57:06,474 - python main.py - WARNING - Fully-convolutional point networks for large-scale point clouds未成功搜索到
+2021-05-29 12:57:27,514 - python main.py - INFO - SplatNet: Sparse lattice networks for point cloud processing成功下载
+2021-05-29 12:57:32,559 - python main.py - WARNING - 3DMV: Joint 3D-multi-view prediction for 3D semantic scene segmentation未成功搜索到
+2021-05-29 12:57:41,777 - python main.py - INFO - Multi-view pointNet for 3D scene understanding成功下载
+2021-05-29 12:57:45,718 - python main.py - WARNING - Semantic segmentation of earth observation data using multimodal and multi-scale deep networks未成功搜索到
+2021-05-29 12:57:49,332 - python main.py - WARNING - Tangent convolutions for dense prediction in 3D未成功搜索到
+2021-05-29 12:57:56,147 - python main.py - WARNING - SqueezeNet: Alexnet-level accuracy with 50x fewer parameters and < 0.5 MB model size未成功搜索到
+2021-05-29 12:58:01,772 - python main.py - WARNING - Point cloud labeling using 3D convolu-tional neural network未成功搜索到
+2021-05-29 12:58:05,710 - python main.py - WARNING - SEG-Cloud: Semantic segmentation of 3D point clouds未成功搜索到
+2021-05-29 12:58:09,865 - python main.py - WARNING - Fully convolutional net-works for semantic segmentation未成功搜索到
+2021-05-29 12:58:14,041 - python main.py - WARNING - ScanComplete: Large-scale scene completion and semantic seg-mentation for 3D scans未成功搜索到
+2021-05-29 12:58:21,407 - python main.py - INFO - 4D spatio-temporal convnets: Minkowski convolutional neural networks成功下载
+2021-05-29 12:58:25,252 - python main.py - WARNING - A unified point-based framework for 3D segmentation未成功搜索到
+2021-05-29 12:58:33,287 - python main.py - INFO - Deep parametric continuous convolutional neural networks成功下载
+2021-05-29 12:58:37,252 - python main.py - WARNING - 3D recurrent neural networks with context fusion for point cloud semantic segmentation未成功搜索到
+2021-05-29 12:58:40,743 - python main.py - WARNING - Large-scale point cloud seman-tic segmentation with superpoint graphs未成功搜索到
+2021-05-29 12:58:45,168 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-29 12:58:49,815 - python main.py - WARNING - ShellNet: Efficient point cloud convolutional neural networks using concentric shells statistics未成功搜索到
+2021-05-29 12:59:00,928 - python main.py - INFO - RandLA-Net: Efficient semantic segmentation of large-scale point clouds成功下载
+2021-05-29 12:59:30,155 - python main.py - WARNING - Pooling scores of neighboring points for improved 3D point cloud segmentation未成功搜索到
+2021-05-29 12:59:44,494 - python main.py - INFO - NetVLAD: CNN architecture for weakly supervised place recognition成功下载
+2021-05-29 12:59:48,491 - python main.py - WARNING - Know what your neighbors do: 3D semantic segmentation of point clouds未成功搜索到
+2021-05-29 12:59:54,344 - python main.py - WARNING - Dilated point con-volutions: On the receptive field of point convolutions未成功搜索到
+2021-05-29 13:00:00,938 - python main.py - INFO - Recurrent slice networks for 3D segmentation of point clouds成功下载
+2021-05-29 13:00:09,648 - python main.py - WARNING - Ex-ploring spatial context for 3D semantic segmentation of point clouds未成功搜索到
+2021-05-29 13:00:14,028 - python main.py - WARNING - Point cloud oversegmentation with graph-structured deep metric learning未成功搜索到
+2021-05-29 13:00:18,433 - python main.py - WARNING - Graph attention convolution for point cloud semantic segmentation未成功搜索到
+2021-05-29 13:00:28,730 - python main.py - INFO - Hierarchical depthwise graph convolutional neural network for 3D semantic segmentation of point clouds成功下载
+2021-05-29 13:00:32,536 - python main.py - WARNING - Hierar-chical point-edge interaction network for point cloud semantic segmentation未成功搜索到
+2021-05-29 13:00:40,115 - python main.py - INFO - 3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds成功下载
+2021-05-29 13:00:43,581 - python main.py - WARNING - PyramNet: Point cloud pyramid attention network and graph embedding module for classification and segmentation未成功搜索到
+2021-05-29 13:00:49,511 - python main.py - INFO - Global context reasoning for semantic segmentation of 3D point clouds成功下载
+2021-05-29 13:00:53,191 - python main.py - WARNING - Multi-path region mining for weakly supervised 3D semantic segmentation on point clouds未成功搜索到
+2021-05-29 13:00:57,551 - python main.py - WARNING - Weakly supervised semantic point cloud segmentation: Towards 10x fewer labels未成功搜索到
+2021-05-29 13:01:08,306 - python main.py - INFO - 3D-SIS: 3D semantic instance segmentation of RGB-D scans成功下载
+2021-05-29 13:01:11,468 - python main.py - WARNING - GSPN: Generative shape proposal network for 3D instance segmentation in point cloud未成功搜索到
+2021-05-29 13:01:19,347 - python main.py - INFO - PanopticFusion: Online volumetric semantic mapping at the level of stuff and things成功下载
+2021-05-29 13:01:23,103 - python main.py - WARNING - Learning object bounding boxes for 3D instance segmentation on point clouds未成功搜索到
+2021-05-29 13:01:30,867 - python main.py - INFO - Instance segmentation of lidar point clouds成功下载
+2021-05-29 13:01:35,292 - python main.py - WARNING - Hierarchy de-noising recursive autoencoders for 3D scene layout prediction未成功搜索到
+2021-05-29 13:01:43,558 - python main.py - INFO - 3d-mpa: Multi-proposal aggregation for 3d semantic instance segmentation成功下载
+2021-05-29 13:01:47,273 - python main.py - WARNING - SGPN: Similarity group proposal network for 3D point cloud instance segmenta-tion未成功搜索到
+2021-05-29 13:01:54,989 - python main.py - INFO - Associatively segmenting instances and semantics in point clouds成功下载
+2021-05-29 13:01:58,665 - python main.py - WARNING - JSIS3D: Joint semantic-instance segmentation of 3D point clouds with multi-task pointwise networks and multi-value conditional random fields未成功搜索到
+2021-05-29 13:02:02,718 - python main.py - WARNING - 3D-BEVIS: Birds-eye-view instance segmentation未成功搜索到
+2021-05-29 13:02:09,008 - python main.py - INFO - Occuseg: Occupancy-aware 3d instance segmentation成功下载
+2021-05-29 13:02:12,928 - python main.py - WARNING - PointGroup: Dual-set point grouping for 3D instance segmentation未成功搜索到
+2021-05-29 13:02:16,863 - python main.py - WARNING - PartNet: A large-scale benchmark for fine-grained and hierarchical part-level 3D object understanding未成功搜索到
+2021-05-29 13:02:21,389 - python main.py - WARNING - JSNet: Joint instance and semantic segmen-tation of 3D point clouds未成功搜索到
+2021-05-29 13:02:28,522 - python main.py - INFO - Semantic instance segmentation with a discriminative loss function成功下载
+2021-05-29 13:02:31,354 - python main.py - WARNING - Semantic labeling and instance segmentation of 3D point clouds using patch context analysis and multiscale processing未成功搜索到
+2021-05-29 13:02:38,108 - python main.py - WARNING - Mean shift: A robust approach toward feature space analysis未成功搜索到
+2021-05-29 13:02:48,115 - python main.py - INFO - 3D instance segmentation via multi-task metric learning成功下载
+2021-05-29 13:02:51,100 - python main.py - WARNING - VoxSegNet: Volumetric CNNs for semantic part segmentation of 3D shapes未成功搜索到
+2021-05-29 13:02:57,269 - python main.py - INFO - 3D shape segmentation with projective convolutional networks成功下载
+2021-05-29 13:03:00,630 - python main.py - WARNING - SyncSpecCNN: Synchro-nized spectral CNN for 3D shape segmentation未成功搜索到
+2021-05-29 13:03:04,750 - python main.py - WARNING - 3D shape segmentation via shape fully convolutional networks未成功搜索到
+2021-05-29 13:03:12,273 - python main.py - INFO - BAE-NET: Branched autoencoder for shape co-segmentation成功下载
+2021-05-29 13:03:16,247 - python main.py - WARNING - PartNet: A recursive part decomposition network for fine-grained and hierarchical shape segmentation未成功搜索到
+2021-05-29 13:03:20,229 - python main.py - WARNING - Learn-ing to group: A bottom-up framework for 3D part discovery in unseen categories未成功搜索到
+2021-05-29 13:03:24,385 - python main.py - WARNING - Point-Voxel CNN for efficient 3D deep learning未成功搜索到
+2021-05-29 13:03:25,068 - python main.py - INFO - IEEE网站搜索完成
+2021-05-29 13:03:40,144 - python main.py - INFO - 论文重命名成功
+2021-05-29 13:05:38,507 - python main.py - INFO - 完成数据的转换和写入
+2021-05-29 13:05:42,660 - python main.py - INFO - ShapeNet: An information-rich 3D model repository成功下载
+2021-05-29 13:05:43,293 - python main.py - INFO - Deep learning advances on different 3D data representations: A survey成功下载
+2021-05-29 13:05:44,898 - python main.py - INFO - Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways成功下载
+2021-05-29 13:05:46,326 - python main.py - INFO - Dales: A large-scale aerial lidar data set for semantic segmentation成功下载
+2021-05-29 13:05:47,693 - python main.py - INFO - 3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks成功下载
+2021-05-29 13:05:49,187 - python main.py - INFO - Generalizing discrete convolutions for unstructured point clouds成功下载
+2021-05-29 13:06:01,408 - python main.py - INFO - Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds成功下载
+2021-05-29 13:06:12,177 - python main.py - INFO - Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features成功下载
+2021-05-29 13:06:17,351 - python main.py - INFO - Modern hierarchical, agglomerative clustering algo-rithms成功下载
+2021-05-29 13:06:17,995 - python main.py - INFO - 3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN成功下载
+2021-05-29 13:06:24,923 - python main.py - INFO - Deep RBFNet: Point cloud feature learning using radial basis functions成功下载
+2021-05-29 13:06:33,760 - python main.py - INFO - IPOD: Intensive point-based object detector for point cloud成功下载
+2021-05-29 13:06:35,889 - python main.py - INFO - PointRGCN: Graph con-volution networks for 3D vehicles detection refinement成功下载
+2021-05-29 13:06:42,294 - python main.py - INFO - PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation成功下载
+2021-05-29 13:06:50,962 - python main.py - INFO - Patch refinement - localized 3D object detection成功下载
+2021-05-29 13:06:56,143 - python main.py - INFO - Relation graph network for 3D object detection in point clouds成功下载
+2021-05-29 13:06:56,967 - python main.py - INFO - Vehicle detection from 3D lidar using fully convolutional network成功下载
+2021-05-29 13:07:00,571 - python main.py - INFO - Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots成功下载
+2021-05-29 13:07:02,042 - python main.py - INFO - Efficient tracking pro-posals using 2D-3D siamese networks on lidar成功下载
+2021-05-29 13:07:09,562 - python main.py - INFO - PointRNN: Point recurrent neural net-work for moving point cloud processing成功下载
+2021-05-29 13:07:13,107 - python main.py - INFO - LatticeNet: Fast point cloud segmentation using permutohedral lattices成功下载
+2021-05-29 13:07:34,097 - python main.py - INFO - LSANet: Feature learning on point sets by local spatial attention成功下载
+2021-05-29 13:07:43,411 - python main.py - INFO - Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds成功下载
+2021-05-29 13:07:50,754 - python main.py - INFO - Spherical convolutional neural network for 3D point clouds成功下载
+2021-05-29 13:07:51,395 - python main.py - INFO - DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation成功下载
+2021-05-29 13:07:55,904 - python main.py - INFO - MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation成功下载
+2021-05-29 13:08:01,354 - python main.py - INFO - 3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation成功下载
+2021-05-29 13:08:02,367 - python main.py - INFO - Point cloud instance segmentation us-ing probabilistic embeddings成功下载
+2021-05-29 13:08:03,107 - python main.py - INFO - CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss成功下载
+2021-05-29 13:08:03,107 - python main.py - INFO - arxiv网站搜索完成
+2021-05-29 13:08:18,151 - python main.py - INFO - 论文重命名成功
+2021-05-29 13:08:18,151 - python main.py - INFO - 成功将论文对应下载地址写入url.txt中
+2021-05-29 13:13:29,240 - python main.py - INFO - 完成数据的转换和写入
+2021-05-29 13:13:32,441 - python main.py - INFO - ShapeNet: An information-rich 3D model repository成功下载
+2021-05-29 13:13:33,058 - python main.py - INFO - Deep learning advances on different 3D data representations: A survey成功下载
+2021-05-29 13:13:34,365 - python main.py - INFO - Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways成功下载
+2021-05-29 13:13:35,713 - python main.py - INFO - Dales: A large-scale aerial lidar data set for semantic segmentation成功下载
+2021-05-29 13:13:37,061 - python main.py - INFO - 3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks成功下载
+2021-05-29 13:13:38,391 - python main.py - INFO - Generalizing discrete convolutions for unstructured point clouds成功下载
+2021-05-29 13:13:45,853 - python main.py - INFO - Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds成功下载
+2021-05-29 13:13:46,475 - python main.py - INFO - Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features成功下载
+2021-05-29 13:13:51,411 - python main.py - INFO - Modern hierarchical, agglomerative clustering algo-rithms成功下载
+2021-05-29 13:13:55,441 - python main.py - INFO - 3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN成功下载
+2021-05-29 13:14:00,559 - python main.py - INFO - Deep RBFNet: Point cloud feature learning using radial basis functions成功下载
+2021-05-29 13:14:14,396 - python main.py - INFO - IPOD: Intensive point-based object detector for point cloud成功下载
+2021-05-29 13:14:17,758 - python main.py - INFO - PointRGCN: Graph con-volution networks for 3D vehicles detection refinement成功下载
+2021-05-29 13:14:24,298 - python main.py - INFO - PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation成功下载
+2021-05-29 13:14:27,811 - python main.py - INFO - Patch refinement - localized 3D object detection成功下载
+2021-05-29 13:14:28,745 - python main.py - INFO - Relation graph network for 3D object detection in point clouds成功下载
+2021-05-29 13:14:31,709 - python main.py - INFO - Vehicle detection from 3D lidar using fully convolutional network成功下载
+2021-05-29 13:14:34,680 - python main.py - INFO - Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots成功下载
+2021-05-29 13:14:45,673 - python main.py - INFO - Efficient tracking pro-posals using 2D-3D siamese networks on lidar成功下载
+2021-05-29 13:14:47,582 - python main.py - INFO - PointRNN: Point recurrent neural net-work for moving point cloud processing成功下载
+2021-05-29 13:14:52,128 - python main.py - INFO - LatticeNet: Fast point cloud segmentation using permutohedral lattices成功下载
+2021-05-29 13:14:54,777 - python main.py - INFO - LSANet: Feature learning on point sets by local spatial attention成功下载
+2021-05-29 13:15:08,653 - python main.py - INFO - Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds成功下载
+2021-05-29 13:15:09,295 - python main.py - INFO - Spherical convolutional neural network for 3D point clouds成功下载
+2021-05-29 13:15:18,483 - python main.py - INFO - DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation成功下载
+2021-05-29 13:15:23,970 - python main.py - INFO - MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation成功下载
+2021-05-29 13:15:38,453 - python main.py - INFO - 3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation成功下载
+2021-05-29 13:15:46,647 - python main.py - INFO - Point cloud instance segmentation us-ing probabilistic embeddings成功下载
+2021-05-29 13:15:50,822 - python main.py - INFO - CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss成功下载
+2021-05-29 13:15:50,822 - python main.py - INFO - arxiv网站搜索完成
+2021-05-29 13:16:15,871 - python main.py - INFO - 论文重命名成功
+2021-05-29 13:16:15,872 - python main.py - INFO - 成功将论文对应下载地址写入url.txt中
+2021-05-29 13:16:53,980 - python main.py - INFO - 完成数据的转换和写入
+2021-05-29 13:16:56,990 - python main.py - INFO - ShapeNet: An information-rich 3D model repository成功下载
+2021-05-29 13:16:57,632 - python main.py - INFO - Deep learning advances on different 3D data representations: A survey成功下载
+2021-05-29 13:16:59,000 - python main.py - INFO - Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways成功下载
+2021-05-29 13:17:00,378 - python main.py - INFO - Dales: A large-scale aerial lidar data set for semantic segmentation成功下载
+2021-05-29 13:17:01,824 - python main.py - INFO - 3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks成功下载
+2021-05-29 13:17:03,275 - python main.py - INFO - Generalizing discrete convolutions for unstructured point clouds成功下载
+2021-05-29 13:17:06,008 - python main.py - INFO - Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds成功下载
+2021-05-29 13:17:14,895 - python main.py - INFO - Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features成功下载
+2021-05-29 13:17:15,659 - python main.py - INFO - Modern hierarchical, agglomerative clustering algo-rithms成功下载
+2021-05-29 13:17:18,779 - python main.py - INFO - 3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN成功下载
+2021-05-29 13:17:27,551 - python main.py - INFO - Deep RBFNet: Point cloud feature learning using radial basis functions成功下载
+2021-05-29 13:17:28,167 - python main.py - INFO - IPOD: Intensive point-based object detector for point cloud成功下载
+2021-05-29 13:17:30,883 - python main.py - INFO - PointRGCN: Graph con-volution networks for 3D vehicles detection refinement成功下载
+2021-05-29 13:17:37,209 - python main.py - INFO - PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation成功下载
+2021-05-29 13:17:43,457 - python main.py - INFO - Patch refinement - localized 3D object detection成功下载
+2021-05-29 13:17:45,479 - python main.py - INFO - Relation graph network for 3D object detection in point clouds成功下载
+2021-05-29 13:17:49,481 - python main.py - INFO - Vehicle detection from 3D lidar using fully convolutional network成功下载
+2021-05-29 13:17:59,670 - python main.py - INFO - Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots成功下载
+2021-05-29 13:18:01,712 - python main.py - INFO - Efficient tracking pro-posals using 2D-3D siamese networks on lidar成功下载
+2021-05-29 13:18:04,895 - python main.py - INFO - PointRNN: Point recurrent neural net-work for moving point cloud processing成功下载
+2021-05-29 13:18:07,431 - python main.py - INFO - LatticeNet: Fast point cloud segmentation using permutohedral lattices成功下载
+2021-05-29 13:18:13,224 - python main.py - INFO - LSANet: Feature learning on point sets by local spatial attention成功下载
+2021-05-29 13:18:19,858 - python main.py - INFO - Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds成功下载
+2021-05-29 13:18:23,600 - python main.py - INFO - Spherical convolutional neural network for 3D point clouds成功下载
+2021-05-29 13:18:26,745 - python main.py - INFO - DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation成功下载
+2021-05-29 13:18:33,492 - python main.py - INFO - MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation成功下载
+2021-05-29 13:18:37,218 - python main.py - INFO - 3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation成功下载
+2021-05-29 13:18:42,101 - python main.py - INFO - Point cloud instance segmentation us-ing probabilistic embeddings成功下载
+2021-05-29 13:18:42,712 - python main.py - INFO - CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss成功下载
+2021-05-29 13:18:42,712 - python main.py - INFO - arxiv网站搜索完成
+2021-05-29 13:20:12,732 - python main.py - INFO - 论文重命名成功
+2021-05-29 13:20:12,732 - python main.py - INFO - 成功将论文对应下载地址写入url.txt中

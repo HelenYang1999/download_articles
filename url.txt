@@ -1,0 +1,29 @@
+ShapeNet: An information-rich 3D model repository https://arxiv.org/pdf/1512.03012.pdf
+Deep learning advances on different 3D data representations: A survey https://arxiv.org/pdf/1808.01462.pdf
+Toronto-3D: A large-scale mobile lidar dataset for semantic seg-mentation of urban roadways https://arxiv.org/pdf/2003.08284.pdf
+Dales: A large-scale aerial lidar data set for semantic segmentation https://arxiv.org/pdf/2004.11985.pdf
+3D point cloud classification and segmentation using 3D modified fisher vec-tor representation for convolutional neural networks https://arxiv.org/pdf/1711.08241.pdf
+Generalizing discrete convolutions for unstructured point clouds https://arxiv.org/pdf/1904.02375.pdf
+Tensor field networks: Rotation-and translation-equivariant neural networks for 3D point clouds https://arxiv.org/pdf/1802.08219.pdf
+Linked dynamic graph CNN: Learning on point cloud via linking hier-archical features https://arxiv.org/pdf/1904.10014.pdf
+Modern hierarchical, agglomerative clustering algo-rithms https://arxiv.org/pdf/1109.2378.pdf
+3DTI-Net: Learn inner transform invariant 3D geometry features using dynamic GCN https://arxiv.org/pdf/1812.06254.pdf
+Deep RBFNet: Point cloud feature learning using radial basis functions https://arxiv.org/pdf/1812.04302.pdf
+IPOD: Intensive point-based object detector for point cloud https://arxiv.org/pdf/1812.05276.pdf
+PointRGCN: Graph con-volution networks for 3D vehicles detection refinement https://arxiv.org/pdf/1911.12236.pdf
+PointSIFT: A sift-like network mod-ule for 3D point cloud semantic segmentation https://arxiv.org/pdf/1807.00652.pdf
+Patch refinement - localized 3D object detection https://arxiv.org/pdf/1910.04093.pdf
+Relation graph network for 3D object detection in point clouds https://arxiv.org/pdf/1912.00202.pdf
+Vehicle detection from 3D lidar using fully convolutional network https://arxiv.org/pdf/1608.07916.pdf
+Object as hotspots: An anchor-free 3D object detection approach via firing of hotspots https://arxiv.org/pdf/1912.12791.pdf
+Efficient tracking pro-posals using 2D-3D siamese networks on lidar https://arxiv.org/pdf/1903.10168.pdf
+PointRNN: Point recurrent neural net-work for moving point cloud processing https://arxiv.org/pdf/1910.08287.pdf
+LatticeNet: Fast point cloud segmentation using permutohedral lattices https://arxiv.org/pdf/1912.05905.pdf
+LSANet: Feature learning on point sets by local spatial attention https://arxiv.org/pdf/1905.05442.pdf
+Pointatrousgraph: Deep hierarchical encoder-decoder with atrous convolution for point clouds https://arxiv.org/pdf/1907.09798.pdf
+Spherical convolutional neural network for 3D point clouds https://arxiv.org/pdf/1805.07872.pdf
+DAR-Net: Dynamic aggrega-tion network for semantic scene segmentation https://arxiv.org/pdf/1907.12022.pdf
+MASC: Multi-scale affinity with sparse convolution for 3D instance segmentation https://arxiv.org/pdf/1902.04478.pdf
+3D graph embedding learning with a structure-aware loss function for point cloud semantic instance segmentation https://arxiv.org/pdf/1902.05247.pdf
+Point cloud instance segmentation us-ing probabilistic embeddings https://arxiv.org/pdf/1912.00145.pdf
+CoSegNet: Deep co-segmentation of 3D shapes with group consistency loss https://arxiv.org/pdf/1903.10297.pdf
