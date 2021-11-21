@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 目的：批量下载一篇论文的参考文献（PDF）
 
 现状：现有的软件有EndNote、WOS等，但是都是基于数据库中有导入过这篇论文的参考文献。
@@ -39,9 +39,5 @@ iframe获取元素那块还是没有弄清楚
 
 <a _ngcontent-bvi-c48="" aria-label="PDF" class="icon-pdf" href="/stamp/stamp.jsp?tp=&amp;arnumber=6787078"></a>
 
-
-
 第一个class="List-results-items"就是搜索出来的第一个结果
-=======
-# download_articles
->>>>>>> be1ccdfa3022ec5bc4d6dfcd68f38962c56026c5
+
